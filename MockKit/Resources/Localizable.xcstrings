@@ -644,8 +644,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Battery Dead"
+            "state" : "translated",
+            "value" : "Batéria pumpy je vybitá"
           }
         },
         "sv" : {
@@ -668,8 +668,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Battery Dead"
+            "state" : "translated",
+            "value" : "Pin bơm đã cạn"
           }
         },
         "yy-YY" : {
@@ -918,8 +918,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Occlusion"
+            "state" : "translated",
+            "value" : "Oklúzia pumpy"
           }
         },
         "sv" : {
@@ -942,8 +942,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Occlusion"
+            "state" : "translated",
+            "value" : "Bơm bị tắc nghẽn"
           }
         },
         "yy-YY" : {
