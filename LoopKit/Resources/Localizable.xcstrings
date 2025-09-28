@@ -120,8 +120,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ Range"
+            "state" : "translated",
+            "value" : "%@ Phạm vi"
           }
         },
         "yy-YY" : {
@@ -240,8 +240,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U bolus failed"
+            "state" : "translated",
+            "value" : "%1$@ IE bolus misslyckades"
           }
         },
         "tr" : {
@@ -258,8 +258,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U bolus failed"
+            "state" : "translated",
+            "value" : "%1$@ U liều bolus bị lỗi"
           }
         },
         "yy-YY" : {
@@ -378,8 +378,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U bolus may not have succeeded"
+            "state" : "translated",
+            "value" : "%1$@ IE bolus kan ha misslyckats"
           }
         },
         "tr" : {
@@ -396,8 +396,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U bolus may not have succeeded"
+            "state" : "translated",
+            "value" : "Bolus %1$@ U có thể chưa thành công"
           }
         },
         "yy-YY" : {
@@ -533,8 +533,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
+            "state" : "translated",
+            "value" : "%1$@ sẽ bơm insulin nền và đề xuất insulin bolus chỉ khi đường huyết của bạn được dự đoán sẽ cao hơn giới hạn này trong ba giờ tới."
           }
         },
         "yy-YY" : {
@@ -807,8 +807,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A value you have entered is higher than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Giá trị bạn vừa nhập cao hơn mức thường được khuyến nghị cho hầu hết mọi người."
           }
         },
         "yy-YY" : {
@@ -944,8 +944,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A value you have entered is lower than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Giá trị bạn vừa nhập thấp hơn mức thường được khuyến nghị cho hầu hết mọi người."
           }
         },
         "yy-YY" : {
@@ -1057,13 +1057,13 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Afrezza"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Afrezza"
           }
         },
@@ -1081,7 +1081,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Afrezza"
           }
         },
@@ -1331,13 +1331,13 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Apidra"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Apidra"
           }
         },
@@ -1355,7 +1355,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Apidra"
           }
         },
@@ -1468,8 +1468,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Apidra (insulin glulisine)"
+            "state" : "translated",
+            "value" : "Apidra (inzulín glulizín)"
           }
         },
         "sv" : {
@@ -1492,7 +1492,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Apidra (insulin glulisine)"
           }
         },
@@ -1605,14 +1605,14 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "state" : "translated",
+            "value" : "Apidra (inzulín glulizín) je rýchlo pôsobiaci inzulín glulizín vyrábaný spoločnosťou Sanofi "
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "state" : "translated",
+            "value" : "Apidra (insulin glulisine) är ett snabbverkande insulin från Sanofi-aventis "
           }
         },
         "tr" : {
@@ -1629,8 +1629,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "state" : "translated",
+            "value" : "Apidra (insulin glulisine) là loại insulin tác dụng nhanh do Sanofi-Aventis sản xuất "
           }
         },
         "yy-YY" : {
@@ -1749,8 +1749,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authorization Denied"
+            "state" : "translated",
+            "value" : "Auktorisation nekad"
           }
         },
         "tr" : {
@@ -1767,8 +1767,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authorization Denied"
+            "state" : "translated",
+            "value" : "Cấp quyền bị từ chối"
           }
         },
         "yy-YY" : {
@@ -2435,8 +2435,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Check your pump before retrying"
+            "state" : "translated",
+            "value" : "Kontrollera din pump innan du försöker igen"
           }
         },
         "tr" : {
@@ -2453,8 +2453,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Check your pump before retrying"
+            "state" : "translated",
+            "value" : "Kiểm tra lại bơm trước khi thử lại"
           }
         },
         "yy-YY" : {
@@ -2579,8 +2579,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authorization Denied"
+            "state" : "translated",
+            "value" : "Auktorisation nekad"
           }
         },
         "tr" : {
@@ -2597,8 +2597,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authorization Denied"
+            "state" : "translated",
+            "value" : "Cấp quyền bị từ chối"
           }
         },
         "yy-YY" : {
@@ -3015,8 +3015,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Communications interrupted during insulin delivery command."
+            "state" : "translated",
+            "value" : "Kết nối bị gián đoạn trong khi gửi lệnh bơm insulin."
           }
         },
         "yy-YY" : {
@@ -3426,8 +3426,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses."
+            "state" : "translated",
+            "value" : "Khoảng hiệu chỉnh là giá trị đường huyết (hoặc khoảng giá trị) mà bạn muốn %1$@ nhắm tới để điều chỉnh insulin nền và hỗ trợ bạn tính toán liều bolus."
           }
         },
         "yy-YY" : {
@@ -3545,8 +3545,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical Update"
+            "state" : "translated",
+            "value" : "Kritisk uppdatering"
           }
         },
         "tr" : {
@@ -3563,8 +3563,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical Update"
+            "state" : "translated",
+            "value" : "Bản cập nhật quan trọng"
           }
         },
         "yy-YY" : {
@@ -3956,8 +3956,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Critical"
+            "state" : "translated",
+            "value" : "Enhetsstatus kritisk"
           }
         },
         "tr" : {
@@ -3974,8 +3974,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Critical"
+            "state" : "translated",
+            "value" : "Thiết bị ở trạng thái nguy cấp"
           }
         },
         "yy-YY" : {
@@ -4093,8 +4093,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Normal"
+            "state" : "translated",
+            "value" : "Normal enhetsstatus"
           }
         },
         "tr" : {
@@ -4111,8 +4111,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Normal"
+            "state" : "translated",
+            "value" : "Trạng thái thiết bị Bình thường"
           }
         },
         "yy-YY" : {
@@ -4230,8 +4230,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Warning"
+            "state" : "translated",
+            "value" : "Enhetsstatusvarning"
           }
         },
         "tr" : {
@@ -4248,8 +4248,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Warning"
+            "state" : "translated",
+            "value" : "Cảnh báo trạng thái thiết bị"
           }
         },
         "yy-YY" : {
@@ -4909,13 +4909,13 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Fiasp"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Fiasp"
           }
         },
@@ -4933,7 +4933,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Fiasp"
           }
         },
@@ -5207,8 +5207,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Flat"
+            "state" : "translated",
+            "value" : "Ổn định"
           }
         },
         "yy-YY" : {
@@ -5344,8 +5344,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
+            "state" : "translated",
+            "value" : "Đối với insulin tác dụng nhanh, %1$@ giả định rằng nó có hiệu lực trong 6 giờ. Bạn có thể chọn các mô hình khác nhau cho thời điểm hoạt động đỉnh."
           }
         },
         "yy-YY" : {
@@ -5594,8 +5594,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Safety Limit"
+            "state" : "translated",
+            "value" : "Bezpečnostný limit glykémie"
           }
         },
         "sv" : {
@@ -5618,8 +5618,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Safety Limit"
+            "state" : "translated",
+            "value" : "Giới hạn an toàn đường huyết"
           }
         },
         "yy-YY" : {
@@ -5731,14 +5731,14 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hour"
+            "state" : "translated",
+            "value" : "Hodina"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hour"
+            "state" : "translated",
+            "value" : "Timme"
           }
         },
         "tr" : {
@@ -5755,8 +5755,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hour"
+            "state" : "translated",
+            "value" : "Giờ"
           }
         },
         "yy-YY" : {
@@ -5874,8 +5874,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hours"
+            "state" : "translated",
+            "value" : "Timmar"
           }
         },
         "tr" : {
@@ -5892,8 +5892,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hours"
+            "state" : "translated",
+            "value" : "Giờ"
           }
         },
         "yy-YY" : {
@@ -6005,13 +6005,13 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Humalog"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Humalog"
           }
         },
@@ -6029,7 +6029,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Humalog"
           }
         },
@@ -6142,13 +6142,13 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Humalog (insulin lispro)"
+            "state" : "translated",
+            "value" : "Humalog (inzulín lispro)"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Humalog (insulin lispro)"
           }
         },
@@ -6166,7 +6166,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Humalog (insulin lispro)"
           }
         },
@@ -6834,8 +6834,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "It is safe to retry"
+            "state" : "translated",
+            "value" : "Det är säkert att försöka igen"
           }
         },
         "tr" : {
@@ -6852,8 +6852,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "It is safe to retry"
+            "state" : "translated",
+            "value" : "An toàn để thử lại"
           }
         },
         "yy-YY" : {
@@ -6965,13 +6965,13 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lyumjev"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lyumjev"
           }
         },
@@ -6989,7 +6989,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lyumjev"
           }
         },
@@ -7239,8 +7239,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Make sure your pump is within communication range of your phone."
+            "state" : "translated",
+            "value" : "Uisti sa, že tvoja pumpa je v dosahu komunikácie s tvojím telefónom."
           }
         },
         "sv" : {
@@ -7263,8 +7263,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Make sure your pump is within communication range of your phone."
+            "state" : "translated",
+            "value" : "Hãy đảm bảo bơm của bạn nằm trong phạm vi kết nối với điện thoại."
           }
         },
         "yy-YY" : {
@@ -7376,8 +7376,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Basal Rate"
+            "state" : "translated",
+            "value" : "Maximálna bazálna dávka"
           }
         },
         "sv" : {
@@ -7513,14 +7513,14 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
+            "state" : "translated",
+            "value" : "Maximálna bazálna rýchlosť je najvyššia dočasná bazálna dávka, ktorú je povolené nastaviť pre %1$@."
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
+            "state" : "translated",
+            "value" : "Maximal basaldos är den högsta temporära basaldosen på %1$@ som är tillåten att ställa in."
           }
         },
         "tr" : {
@@ -7537,8 +7537,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
+            "state" : "translated",
+            "value" : "Tốc độ insulin nền tối đa là mức tạm thời cao nhất mà %1$@ được phép thiết lập."
           }
         },
         "yy-YY" : {
@@ -7650,8 +7650,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Bolus"
+            "state" : "translated",
+            "value" : "Maximálny bolus"
           }
         },
         "sv" : {
@@ -7787,8 +7787,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
+            "state" : "translated",
+            "value" : "Maximálny bolus je najvyššia dávka bolusu, ktorú môžeš podať naraz na pokrytie sacharidov alebo zníženie vysokej glykémie."
           }
         },
         "sv" : {
@@ -7811,8 +7811,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
+            "state" : "translated",
+            "value" : "Liều bolus tối đa là lượng bolus cao nhất bạn có thể tiêm trong một lần để bù carbohydrate hoặc hạ đường huyết cao."
           }
         },
         "yy-YY" : {
@@ -7924,14 +7924,14 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL/min"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "mg/dL/min"
+            "state" : "translated",
+            "value" : "mg/dl/min"
           }
         },
         "tr" : {
@@ -7948,7 +7948,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL/min"
           }
         },
@@ -8061,8 +8061,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "mg/dL/U"
+            "state" : "translated",
+            "value" : "mg/dL/J"
           }
         },
         "sv" : {
@@ -8085,7 +8085,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL/U"
           }
         },
@@ -8335,14 +8335,14 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L/min"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "mmol/L/min"
+            "state" : "translated",
+            "value" : "mmol/l/min"
           }
         },
         "tr" : {
@@ -8359,7 +8359,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L/min"
           }
         },
@@ -8472,8 +8472,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "mmol/L/U"
+            "state" : "translated",
+            "value" : "mmol/L/J"
           }
         },
         "sv" : {
@@ -8496,7 +8496,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mmol/L/U"
           }
         },
@@ -8609,8 +8609,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Needs Attention"
+            "state" : "translated",
+            "value" : "Vyžaduje pozornosť"
           }
         },
         "sv" : {
@@ -8746,14 +8746,14 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Update"
+            "state" : "translated",
+            "value" : "Žiadna aktualizácia"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Update"
+            "state" : "translated",
+            "value" : "Ingen uppdatering"
           }
         },
         "tr" : {
@@ -8770,8 +8770,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Update"
+            "state" : "translated",
+            "value" : "Không có Cập nhật"
           }
         },
         "yy-YY" : {
@@ -8883,8 +8883,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No values found"
+            "state" : "translated",
+            "value" : "Nenašli sa žiadne hodnoty"
           }
         },
         "sv" : {
@@ -9020,13 +9020,13 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Novolog"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Novolog"
           }
         },
@@ -9044,7 +9044,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Novolog"
           }
         },
@@ -9157,13 +9157,13 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Novolog (insulin aspart)"
+            "state" : "translated",
+            "value" : "Novolog (inzulín aspartát)"
           }
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Novolog (insulin aspart)"
           }
         },
@@ -9181,7 +9181,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Novolog (insulin aspart)"
           }
         },
@@ -9592,8 +9592,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Một hoặc nhiều giá trị bạn nhập nằm ngoài mức thường được khuyến nghị cho hầu hết mọi người."
           }
         },
         "yy-YY" : {
@@ -9712,8 +9712,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please re-enable sharing in Health"
+            "state" : "translated",
+            "value" : "Tillåt delning i Hälsa igen"
           }
         },
         "tr" : {
@@ -9730,8 +9730,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please re-enable sharing in Health"
+            "state" : "translated",
+            "value" : "Xin hãy cấp quyền chia sẻ lại trong ứng dụng Health"
           }
         },
         "yy-YY" : {
@@ -9986,8 +9986,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recommended Update"
+            "state" : "translated",
+            "value" : "Rekommenderad uppdatering"
           }
         },
         "tr" : {
@@ -10004,8 +10004,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recommended Update"
+            "state" : "translated",
+            "value" : "Đề nghị được cập nhật"
           }
         },
         "yy-YY" : {
@@ -10141,8 +10141,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Resumed"
+            "state" : "translated",
+            "value" : "Tiếp tục"
           }
         },
         "yy-YY" : {
@@ -10689,8 +10689,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Một số giá trị bạn đã nhập nằm ngoài mức thường được khuyến nghị cho hầu hết mọi người."
           }
         },
         "yy-YY" : {
@@ -11100,8 +11100,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
+            "state" : "translated",
+            "value" : "Tạm thời hạ mục tiêu đường huyết trước bữa ăn để giảm mức tăng đường huyết sau ăn."
           }
         },
         "yy-YY" : {
@@ -11237,8 +11237,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
+            "state" : "translated",
+            "value" : "Tạm thời nâng mục tiêu đường huyết trước, trong hoặc sau khi hoạt động thể chất để giảm nguy cơ hạ đường huyết."
           }
         },
         "yy-YY" : {
@@ -11374,8 +11374,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The value you have entered is higher than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Giá trị bạn nhập cao hơn mức thường được khuyến nghị cho hầu hết mọi người."
           }
         },
         "yy-YY" : {
@@ -11511,8 +11511,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The value you have entered is lower than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Giá trị bạn nhập thấp hơn mức thường được khuyến nghị cho hầu hết mọi người."
           }
         },
         "yy-YY" : {
@@ -11648,8 +11648,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The values you have entered are outside of what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Các giá trị bạn nhập nằm ngoài mức thường được khuyến nghị cho hầu hết mọi người."
           }
         },
         "yy-YY" : {
@@ -12035,8 +12035,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Uncertain Delivery"
+            "state" : "translated",
+            "value" : "Neisté podanie"
           }
         },
         "sv" : {
@@ -12059,8 +12059,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Uncertain Delivery"
+            "state" : "translated",
+            "value" : "Tiêm không chắc chắn"
           }
         },
         "yy-YY" : {
@@ -12196,8 +12196,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unit"
+            "state" : "translated",
+            "value" : "Đơn vị"
           }
         },
         "yy-YY" : {
@@ -12470,8 +12470,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Units"
+            "state" : "translated",
+            "value" : "Đơn vị"
           }
         },
         "yy-YY" : {
@@ -12726,8 +12726,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Update Available"
+            "state" : "translated",
+            "value" : "Uppdatering tillgänglig"
           }
         },
         "tr" : {
@@ -12744,8 +12744,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Update Available"
+            "state" : "translated",
+            "value" : "Có bản cập nhật mới"
           }
         },
         "yy-YY" : {
@@ -12857,8 +12857,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Workout"
+            "state" : "translated",
+            "value" : "Tréning"
           }
         },
         "sv" : {
@@ -12881,8 +12881,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Workout"
+            "state" : "translated",
+            "value" : "Tập luyện"
           }
         },
         "yy-YY" : {
@@ -12994,8 +12994,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
+            "state" : "translated",
+            "value" : "Tvoja bazálna dávka inzulínu je počet jednotiek za hodinu, ktoré chceš použiť na pokrytie svojich základných potrieb inzulínu."
           }
         },
         "sv" : {
@@ -13018,8 +13018,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
+            "state" : "translated",
+            "value" : "Tốc độ insulin nền của bạn là số đơn vị mỗi giờ được dùng để đáp ứng nhu cầu insulin nền của cơ thể."
           }
         },
         "yy-YY" : {
@@ -13131,8 +13131,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
+            "state" : "translated",
+            "value" : "Tvoj pomer sacharidov je počet gramov sacharidov pokrytých jednou jednotkou inzulínu."
           }
         },
         "sv" : {
@@ -13155,8 +13155,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
+            "state" : "translated",
+            "value" : "Tỷ lệ carb của bạn là số gam carbohydrate được bù bởi một đơn vị insulin."
           }
         },
         "yy-YY" : {
@@ -13268,8 +13268,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
+            "state" : "translated",
+            "value" : "Tvoja inzulínová senzitivita udáva pokles glykémie očakávaný po jednej jednotke inzulínu."
           }
         },
         "sv" : {
@@ -13292,8 +13292,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
+            "state" : "translated",
+            "value" : "Độ nhạy insulin của bạn là mức giảm đường huyết dự kiến từ một đơn vị insulin."
           }
         },
         "yy-YY" : {
