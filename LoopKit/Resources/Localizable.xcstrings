@@ -96,8 +96,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ Range"
+            "state" : "translated",
+            "value" : "%@ rozsah"
           }
         },
         "sv" : {
@@ -204,8 +204,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U bolus failed"
+            "state" : "translated",
+            "value" : "%1$@ E bolus mislukt"
           }
         },
         "pl" : {
@@ -234,8 +234,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U bolus failed"
+            "state" : "translated",
+            "value" : "%1$@ U bolus zlyhal"
           }
         },
         "sv" : {
@@ -342,8 +342,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U bolus may not have succeeded"
+            "state" : "translated",
+            "value" : "%1$@ U bolus is mogelijk niet gelukt"
           }
         },
         "pl" : {
@@ -1027,7 +1027,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Afrezza"
           }
         },
@@ -1301,7 +1301,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Apidra"
           }
         },
@@ -1713,8 +1713,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authorization Denied"
+            "state" : "translated",
+            "value" : "Autorisatie geweigerd"
           }
         },
         "pl" : {
@@ -2399,8 +2399,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Check your pump before retrying"
+            "state" : "translated",
+            "value" : "Controleer je pomp voordat je het nogmaals probeert"
           }
         },
         "pl" : {
@@ -2543,8 +2543,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authorization Denied"
+            "state" : "translated",
+            "value" : "Autorisatie geweigerd"
           }
         },
         "pl" : {
@@ -3920,8 +3920,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Critical"
+            "state" : "translated",
+            "value" : "Apparaat status kritiek"
           }
         },
         "pl" : {
@@ -4057,8 +4057,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Normal"
+            "state" : "translated",
+            "value" : "Apparaat status normaal"
           }
         },
         "pl" : {
@@ -4194,8 +4194,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Warning"
+            "state" : "translated",
+            "value" : "Apparaat status waarschuwing"
           }
         },
         "pl" : {
@@ -4879,7 +4879,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Fiasp"
           }
         },
@@ -5975,7 +5975,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Humalog"
           }
         },
@@ -6112,8 +6112,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Humalog (insulin lispro)"
+            "state" : "translated",
+            "value" : "Humalog (insuline lispro)"
           }
         },
         "pl" : {
@@ -6798,8 +6798,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "It is safe to retry"
+            "state" : "translated",
+            "value" : "Het is veilig om opnieuw te proberen"
           }
         },
         "pl" : {
@@ -6935,7 +6935,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lyumjev"
           }
         },
@@ -7894,7 +7894,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "mg/dL/min"
           }
         },
@@ -8305,8 +8305,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "mmol/L/min"
+            "state" : "translated",
+            "value" : "mmol/L/E"
           }
         },
         "pl" : {
@@ -8990,7 +8990,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Novolog"
           }
         },
@@ -9127,8 +9127,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Novolog (insulin aspart)"
+            "state" : "translated",
+            "value" : "Novolog (insuline aspart)"
           }
         },
         "pl" : {
@@ -9676,8 +9676,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please re-enable sharing in Health"
+            "state" : "translated",
+            "value" : "Activeer het delen in gezondheid opnieuw"
           }
         },
         "pl" : {
@@ -9813,8 +9813,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pre-Meal"
+            "state" : "translated",
+            "value" : "Voor de maaltijd"
           }
         },
         "pl" : {
@@ -9843,8 +9843,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pre-Meal"
+            "state" : "translated",
+            "value" : "Pred jedlom"
           }
         },
         "sv" : {
@@ -12172,8 +12172,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unit"
+            "state" : "translated",
+            "value" : "Jednotka"
           }
         },
         "sv" : {
@@ -12309,8 +12309,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unit/hour"
+            "state" : "translated",
+            "value" : "Jednotka/hodina"
           }
         },
         "sv" : {
@@ -12583,8 +12583,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Units/hour"
+            "state" : "translated",
+            "value" : "Jednotky/hodina"
           }
         },
         "sv" : {
@@ -12720,8 +12720,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Update Available"
+            "state" : "translated",
+            "value" : "Dostupná aktualizácia"
           }
         },
         "sv" : {
@@ -12858,7 +12858,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tréning"
+            "value" : "Cvičenie"
           }
         },
         "sv" : {
