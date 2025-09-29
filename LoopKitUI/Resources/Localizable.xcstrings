@@ -5176,7 +5176,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Afrezza"
           }
         },
@@ -12744,7 +12744,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Fiasp"
           }
         },
@@ -15345,8 +15345,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Model"
+            "state" : "translated",
+            "value" : "Модель інсуліну"
           }
         },
         "vi" : {
@@ -17263,7 +17263,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lyumjev"
           }
         },
@@ -17538,8 +17538,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Basal Rate"
+            "state" : "translated",
+            "value" : "Максимальна швидкість базалу"
           }
         },
         "vi" : {
@@ -17813,8 +17813,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Bolus"
+            "state" : "translated",
+            "value" : "Максимум Болюса"
           }
         },
         "vi" : {
@@ -31085,7 +31085,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cvičenie"
+            "value" : "Tréning"
           }
         },
         "sv" : {
