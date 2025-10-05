@@ -4,45 +4,63 @@
     "%@" : {
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%@"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%@"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@"
           }
         },
@@ -54,17 +72,29 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%@"
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@"
@@ -78,7 +108,25 @@
         },
         "tr" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "%@"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
             "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%@"
           }
         }
@@ -86,64 +134,130 @@
     },
     "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered." : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ har været ude af stand til at kommunikere med simulatorpumpen siden %2$@.\n\nUden kommunikation kan appen ikke fortsætte med at sende kommandoer til insulinafgivelse eller vise nøjagtige, aktuelle oplysninger om din aktive insulin eller den insulin, der afgives."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ konnte seit %2$@ nicht mehr mit der Simulatorpumpe kommunizieren.\n\nOhne die Kommunikation kann die App keine Befehle für die Insulinabgabe senden oder genaue, aktuelle Informationen über Dein aktives Insulin oder das abgegebene Insulin anzeigen."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ n'a pas pu communiquer avec le simulateur de pompe depuis %2$@. \n\nSans communication, l'application ne peut pas continuer à envoyer des commandes pour l'administration d'insuline ou afficher des informations précises et récentes sur votre insuline active ou l'insuline administrée."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ non è riuscito a comunicare con il simulatore pompa da %2$@. \n \nSenza comunicazione, l'app non può continuare a inviare comandi per l'erogazione d'insulina o visualizzare informazioni precise e recenti sull'insulina attiva o sull'insulina in fase d'erogazione."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ har ikke vært i stand til å kommunisere med simulatorpumpen siden %2$@ . \n\n Uten kommunikasjon kan ikke appen fortsette å sende kommandoer for insulintilførsel eller vise nøyaktig, fersk informasjon om ditt aktive insulin eller insulinet som tilføres."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ kan niet communiceren met de Pompsimulator sinds %2$@.\n\nZonder communicatie kan de app geen opdrachten meer versturen voor insulinetoediening of nauwkeurige recente informatie weergeven over jouw actieve insuline of de insuline die is toegediend."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ nie może komunikować się z symulatorem pompy od %2$@ . \n\nBez komunikacji aplikacja nie może wysyłać poleceń podawania insuliny ani wyświetlać aktualnych informacji o aktywnej lub podawanej insulinie."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ nu a putut comunica cu pompa simulată din %2$@.\n\nFără comunicare, aplicația nu poate continua să trimită comenzi pentru administrarea de insulină sau să afișeze informații exacte și recente despre insulina dumneavoastră activă sau insulina care vi se administrează."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ не может установить связь с Симулятором помпы с %2$@.\n\nБез связи приложение не может продолжать посылать команды на доставку инсулина или отображать точную, свежую информацию о вашем активном инсулине или доставляемом инсулине."
+            "value" : "%@ har tappat kommunikation med simulatorpumpen sedan %@.\n\nUtan kommunikation kan appen inte fortsätta att skicka kommandon för insulintillförsel eller visa korrekt aktuell information om ditt aktiva insulin eller det insulin som administrerats."
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@, %2$@'den beri Simülatör Pompası ile iletişim kuramıyor.\n\nİletişim olmadan, uygulama insülin verilmesi için komutlar göndermeye devam edemez veya aktif insülininiz veya verilen insülin hakkında doğru ve güncel bilgileri görüntüleyemez."
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
           }
         }
       }
@@ -153,59 +267,59 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%@."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%@."
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@."
-          }
-        },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ ."
@@ -213,31 +327,31 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%@."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%@."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
@@ -249,25 +363,31 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%@."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%@."
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@."
           }
         }
@@ -276,55 +396,61 @@
     "%1$@%2$@%3$@" : {
       "comment" : "String format for value with units (1: value, 2: separator, 3: units)",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@%2$@%3$@"
+            "value" : "%1$@ %2$@ %3$@"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@%2$@%3$@"
-          }
-        },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ %2$@ %3$@"
@@ -332,31 +458,31 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@%2$@%3$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
@@ -368,25 +494,31 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         }
@@ -394,33 +526,63 @@
     },
     "%lld" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%lld"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%lld"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%lld"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%lld"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%lld"
           }
         },
@@ -432,17 +594,35 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%lld"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%lld"
           }
         },
         "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld"
@@ -450,7 +630,25 @@
         },
         "tr" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
             "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "%lld"
           }
         }
@@ -458,39 +656,129 @@
     },
     "2" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "2"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "2"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "2"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "2"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "2"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
+            "value" : "2"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "2"
           }
         }
@@ -498,39 +786,129 @@
     },
     "5" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "5"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "5"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "5"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "5"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "5"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
+            "value" : "5"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "5"
           }
         }
@@ -538,39 +916,129 @@
     },
     "50+" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "50+"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "50+"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "50+"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "50+"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "50+"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
+            "value" : "50+"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "50+"
           }
         }
@@ -579,76 +1047,130 @@
     "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version." : {
       "comment" : "Alert content body for recurring software update alert",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chcete-li nadále používat aplikaci %1$@, doporučujeme její aktualizaci. \n\nPřejděte do %2$@ Nastavení > Aktualizace softwaru pro nainstalování nejnovější verze."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Det anbefales at foretage en softwareopdatering for at fortsætte med at bruge %1$@ appen.\n\nGå til Indstillinger for %2$@ > Softwareopdatering for at installere den nyeste version."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eine Softwareaktualisierung wird empfohlen, um die %1$@-App weiterhin zu verwenden.\n\nGehe zu %2$@ Einstellungen > Softwareaktualisierung, um die neueste Version zu installieren."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Se recomienda una actualización de software para continuar usando la aplicación %1$@. \n\n Vaya a Configuración %2$@ > Actualización de Software para instalar la última versión."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Une mise à jour du logiciel est recommandée pour continuer à utiliser l'application %1$@.\n\nAllez dans %2$@ Paramètres > Mise à jour du logiciel pour installer la dernière version."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Si consiglia un aggiornamento software per continuare a utilizzare l'app %1$@. \n\nVai su %2$@ Impostazioni > Aggiornamento software per installare la versione più recente."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "En programvareoppdatering anbefales for å fortsette å bruke %1$@-appen.\n\nGå til %2$@ Innstillinger > Programvareoppdatering for å installere den nyeste versjonen."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Een software-update wordt aanbevolen om de %1$@ app te blijven gebruiken. \n\nGa naar %2$@ Instellingen > Software Update om de nieuwste versie te installeren."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aby nadal korzystać z aplikacji %1$@ , zalecamy aktualizację oprogramowania. \n\n Przejdź do %2$@ Ustawienia > Aktualizacja oprogramowania, aby zainstalować najnowszą wersję."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Se recomandă o actualizare a software-ului pentru a continua să utilizați aplicația %1$@.\n\nAccesați %2$@ Setări > Actualizare software pentru a instala cea mai recentă versiune."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Для продолжения использования приложения %1$@ рекомендуется обновить программное обеспечение.\n\nПерейдите в %2$@ Настройки > Обновление ПО, чтобы установить последнюю версию."
+            "value" : "En programuppdatering rekommenderas innana du fortsätter att använda %1$@ appen.\n\nGå till %2$@ Inställningar > Programvaruuppdatering för att installera den senaste versionen."
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ uygulamasını kullanmaya devam etmek için bir yazılım güncellemesi önerilir.\n\nEn son sürümü yüklemek için %2$@ Ayarlar > Yazılım Güncellemesi'ne gidin."
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         }
       }
@@ -656,6 +1178,12 @@
     "Activity" : {
       "comment" : "Section header for the activity section",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "النشاط"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -688,7 +1216,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Activity"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Activity"
           }
         },
@@ -698,13 +1232,7 @@
             "value" : "Attività"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "アクティビティ"
-          }
-        },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aktivitet"
@@ -722,16 +1250,16 @@
             "value" : "Aktywność"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activity"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Atividade"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activitate"
           }
         },
         "ru" : {
@@ -758,6 +1286,12 @@
             "value" : "Aktivite"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Активність"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -775,10 +1309,10 @@
     "Are you sure you want to delete this service?" : {
       "comment" : "Confirmation message for deleting a service",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opravdu chcete tuto službu smazat?"
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
           }
         },
         "da" : {
@@ -817,13 +1351,19 @@
             "value" : "בטוח שברצונך למחוק את שירות זה?"
           }
         },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sei sicuro di voler eliminare questo servizio?"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Er du sikker på at du vil slette denne tjenesten?"
@@ -841,10 +1381,16 @@
             "value" : "Czy na pewno chcesz usunąć tę usługę?"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ești sigur că vrei să ștergi acest serviciu?"
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
           }
         },
         "ru" : {
@@ -871,6 +1417,18 @@
             "value" : "Bu servisi silmek istediğinizden emin misiniz?"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ви впевнені, що хочете видалити цю послугу?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn có chắc là bạn muốn xóa bỏ dịch vụ này?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -882,10 +1440,10 @@
     "Back" : {
       "comment" : "Back button text on DeliveryUncertaintyRecoveryView",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zpět"
+            "value" : "رجوع"
           }
         },
         "da" : {
@@ -918,13 +1476,25 @@
             "value" : "Retour"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Indietro"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tilbake"
@@ -942,10 +1512,16 @@
             "value" : "Powrót"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Înapoi"
+            "state" : "new",
+            "value" : "Back"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back"
           }
         },
         "ru" : {
@@ -971,6 +1547,24 @@
             "state" : "translated",
             "value" : "Geri"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тому"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quay Lại"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back"
+          }
         }
       }
     },
@@ -981,12 +1575,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "إلغاء"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zrušit"
           }
         },
         "da" : {
@@ -1010,7 +1598,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kumoa"
+            "value" : "Peru"
           }
         },
         "fr" : {
@@ -1021,29 +1609,23 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cancel"
           }
         },
-        "hi" : {
+        "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "निरस्त"
+            "value" : "Mégse"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annulla"
+            "value" : "Cancella"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "キャンセル"
-          }
-        },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avbryt"
@@ -1061,16 +1643,16 @@
             "value" : "Anuluj"
           }
         },
-        "pt-BR" : {
+        "pt" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
           }
         },
-        "ro" : {
+        "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renunță"
+            "value" : "Cancelar"
           }
         },
         "ru" : {
@@ -1094,7 +1676,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "İptal"
+            "value" : "Vazgeç"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відмінити"
           }
         },
         "vi" : {
@@ -1114,76 +1702,100 @@
     "CGM Settings" : {
       "comment" : "Title for CGM simulator settings",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Settings"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CGM-indstillinger"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CGM-Einstellungen"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuración del MCG"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CGM-asetukset"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paramètres CGM"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "הגדרות חיישן"
+            "state" : "new",
+            "value" : "CGM Settings"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impostazioni CGM"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CGM-innstillinger"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CGM Instellingen"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ustawienia CGM"
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setări CGM"
+            "state" : "new",
+            "value" : "CGM Settings"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Настройки CGM"
+            "state" : "new",
+            "value" : "CGM Settings"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         },
         "sv" : {
@@ -1194,188 +1806,386 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CGM Ayarları"
+            "state" : "new",
+            "value" : "CGM Settings"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Settings"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Settings"
           }
         }
       }
     },
     "CGM Simulator" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "CGM-simulator"
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simulateur CGM"
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simulatore CGM"
+            "state" : "new",
+            "value" : "CGM Simulator"
           }
         },
-        "nb" : {
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "CGM-simulator"
           }
         },
-        "pl" : {
+        "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Symulator CGM"
+            "state" : "new",
+            "value" : "CGM Simulator"
           }
         },
-        "ru" : {
+        "uk" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Симулятор CGM"
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
           }
         }
       }
     },
     "Clear Last Version Check Alert Date" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ryd advarselsdato for sidste versionskontrol"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lösche das Datum der letzten Versionsprüfungswarnung"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Borrar última versión y comprobar fecha de alerta"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Effacer la date d'alerte de la dernière vérification de version"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancella data ultimo avviso controllo versione"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fjern varseldato for siste versjonskontroll"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wis laatste versie Controleer Waarschuwingsdatum"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wyczyść ostatni odczytany alarm"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ștergeți data ultimei alerte de verificare a versiunii"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Очистить последнюю дату проверки версии"
+            "value" : "Rensa datum för senaste versionskontroll"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Son Sürüm Kontrolü Uyarı Tarihini Temizle"
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
           }
         }
       }
     },
     "Comms Recovery" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kommunikation-genoprettelse"
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kommunikationswiederherstellung"
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recuperación de comunicaciones"
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Yhteyksien palautus"
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Récupération des communications"
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recupero comunicazioni"
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kommunikasjon gjennopprettet"
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comms Herstel"
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odzyskiwanie komunikacji"
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recuperare comenzi"
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Восстановление связи"
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         },
         "sv" : {
@@ -1386,14 +2196,38 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "İletişim Kurtarma"
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
           }
         }
       }
     },
     "days" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1412,6 +2246,12 @@
             "value" : "días"
           }
         },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1420,8 +2260,14 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ימים"
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
           }
         },
         "it" : {
@@ -1430,7 +2276,7 @@
             "value" : "giorni"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "dager"
@@ -1444,14 +2290,20 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "dni"
+            "state" : "new",
+            "value" : "days"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "zile"
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
           }
         },
         "ru" : {
@@ -1466,16 +2318,34 @@
             "value" : "dni"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dagar"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "gün"
           }
         },
-        "zh-Hans" : {
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "天"
+            "value" : "дні"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "days"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
           }
         }
       }
@@ -1483,10 +2353,10 @@
     "Delete Service" : {
       "comment" : "Button title to delete a service",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Smazat službu"
+            "state" : "new",
+            "value" : "Delete Service"
           }
         },
         "da" : {
@@ -1525,19 +2395,19 @@
             "value" : "מחק שירות"
           }
         },
-        "it" : {
+        "hu" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elimina servizio"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete Service"
           }
         },
-        "nb" : {
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina Servizio"
+          }
+        },
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Slett tjeneste"
@@ -1555,16 +2425,16 @@
             "value" : "Usuń usługę"
           }
         },
-        "pt-BR" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete Service"
           }
         },
-        "ro" : {
+        "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Șterge serviciul"
+            "state" : "new",
+            "value" : "Delete Service"
           }
         },
         "ru" : {
@@ -1591,15 +2461,21 @@
             "value" : "Servisi Sil"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити сервіс"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Delete Service"
+            "value" : "Xóa dịch vụ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delete Service"
           }
         }
@@ -1607,28 +2483,88 @@
     },
     "Device Details" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفاصيل الجهاز"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enhedsdetaljer"
           }
         },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gerätedetails"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalles del dispositivo"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Details"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Détails de l'appareil"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Details"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Details"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dettagli dispositivo"
+            "value" : "Dettagli del Dispositivo"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enhetsdetaljer"
           }
         },
-        "pl" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szczegóły urządzenia"
+            "value" : "Apparaatdetails"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Details"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Details"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Details"
           }
         },
         "ru" : {
@@ -1636,16 +2572,58 @@
             "state" : "translated",
             "value" : "Сведения об устройстве"
           }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podrobnosti o zariadení"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enhetsdetaljer"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cihaz Detayları"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Деталі Пристрою"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chi tiết thiết bị"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设备详情"
+          }
         }
       }
     },
     "Done" : {
       "comment" : "Settings done button label",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تمّ"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Udført"
+            "value" : "OK"
           }
         },
         "de" : {
@@ -1654,13 +2632,43 @@
             "value" : "Fertig"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hecho"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valmis"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminé"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kész"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fine"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ferdig"
@@ -1669,19 +2677,67 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gereed"
+            "value" : "OK"
           }
         },
         "pl" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Gotowe"
+            "value" : "OK"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Готово"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotovo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klar"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tamam"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Готово"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xong"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
           }
         }
       }
@@ -1727,23 +2783,23 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Error Resuming"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Error Resuming"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Errore durante la ripresa"
+            "value" : "Errore durante la Ripresa"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "再開エラー"
-          }
-        },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Feil ved gjenopptagelse"
@@ -1752,7 +2808,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fout Bij Hervatten"
+            "value" : "Fout bij hervatten"
           }
         },
         "pl" : {
@@ -1761,16 +2817,16 @@
             "value" : "Błąd wznawiania"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error Resuming"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro ao Retomar"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare în timpul reluării"
           }
         },
         "ru" : {
@@ -1797,6 +2853,12 @@
             "value" : "Sürdürme Hatası"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помилка відновлення"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1814,6 +2876,12 @@
     "Error Suspending" : {
       "comment" : "The alert title for a suspend error",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error Suspending"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1846,23 +2914,23 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Error Suspending"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Error Suspending"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Errore durante la sospensione"
+            "value" : "Errore durante l’interruzione"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "一時中止エラー"
-          }
-        },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kunne ikke stoppe"
@@ -1871,7 +2939,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fout Bij Onderbreken"
+            "value" : "Fout bij onderbreken"
           }
         },
         "pl" : {
@@ -1880,16 +2948,16 @@
             "value" : "Błąd wstrzymywania"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error Suspending"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro ao Suspender"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare în timpul suspendării"
           }
         },
         "ru" : {
@@ -1916,6 +2984,12 @@
             "value" : "Askıya Alma Hatası"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помилка призупинення"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1932,46 +3006,142 @@
     },
     "Estimated Reading" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anslået læsning"
+            "state" : "new",
+            "value" : "Estimated Reading"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geschätzter Wert"
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lettura stimata"
+            "state" : "new",
+            "value" : "Estimated Reading"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Estimert lesing"
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Szacowany odczyt"
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Приблизительное данные"
+            "value" : "Uppskattad läsning"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
           }
         }
       }
     },
     "Failed to Resume Insulin Delivery" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فشل في استئناف توصيل الأنسولين"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1981,7 +3151,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fortsetzen des Insulins fehlgeschlagen"
+            "value" : "Forsetzen der Insulinabgabe fehlgeschlagen"
           }
         },
         "es" : {
@@ -1992,8 +3162,8 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annostelun jatkaminen epäonnistui"
+            "state" : "new",
+            "value" : "Failed to Resume Insulin Delivery"
           }
         },
         "fr" : {
@@ -2002,34 +3172,52 @@
             "value" : "Échec de la reprise de l’administration d’insuline"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Resume Insulin Delivery"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Resume Insulin Delivery"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossibile riprendere l'erogazione d'insulina"
+            "value" : "Ripresa della consegna dell'insulina non riuscita"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kunne ikke gjenoppta insulintilførselen"
+            "value" : "Insulinleveringen kunne ikke gjenopptas"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulinetoediening Hervatten Mislukt"
+            "value" : "Hervatten insulinelevering mislukt"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nie udało się wznowić podawania insuliny"
+            "state" : "new",
+            "value" : "Failed to Resume Insulin Delivery"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu s-a reușit reluarea administrării de insulină"
+            "state" : "new",
+            "value" : "Failed to Resume Insulin Delivery"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Resume Insulin Delivery"
           }
         },
         "ru" : {
@@ -2041,7 +3229,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obnovenie podávania inzulínu zlyhalo"
+            "value" : "Zlyhalo obnovenie podávania inzulínu"
           }
         },
         "sv" : {
@@ -2053,13 +3241,37 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "İnsülin İletimine Devam Edilemedi"
+            "value" : "İnsülin İletimi Tekrar Başlatılamadı"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не вдалося Відновити Подачу Інсуліну"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể tiếp tục tiêm insulin trở lại"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复胰岛素输注失败"
           }
         }
       }
     },
     "Failed to Suspend Insulin Delivery" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2069,31 +3281,73 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anhalten des Insulin fehlgeschlagen"
+            "value" : "Fehler beim Unterbrechen der Insulinabgabe"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo suspender la administración de insulina"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Échec de Suspension de l'Administration d'Insuline"
+            "value" : "Échec de la suspension de l'administration d'insuline"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impossibile sospendere l'erogazione d'insulina"
+            "value" : "Sospensione della consegna dell'insulina non riuscita"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kunne ikke avbryte insulintilførselen"
+            "value" : "Insulintilførselen kunne ikke settes på pause"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onderbreken van insuline toediening mislukt"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nie udało się wstrzymać podawania insuliny"
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
           }
         },
         "ru" : {
@@ -2101,85 +3355,301 @@
             "state" : "translated",
             "value" : "Не удалось приостановить подачу инсулина"
           }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pozastavenie podávania inzulínu zlyhalo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunde inte pausa pump"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İnsülin İletimi Askıya Alınamadı"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не вдалося Призупинити Введення Інсуліну"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thất bại khi tạm dừng liều insulin"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
+          }
         }
       }
     },
     "Get help with your CGM" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Få hjælp til din CGM"
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obtenez de l’aide pour votre CGM"
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ottieni aiuto per il tuo CGM"
+            "state" : "new",
+            "value" : "Get help with your CGM"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Få hjelp med CGM-en din"
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uzyskaj pomoc dotyczącą CGM"
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Получите помощь по работе с CGM"
+            "value" : "Få hjälp med din CGM"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
           }
         }
       }
     },
     "Get help with your pump" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Få hjælp til din pumpe"
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obtenez de l'aide avec votre pompe"
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ottieni aiuto per il tuo CGM"
+            "state" : "new",
+            "value" : "Get help with your pump"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Få hjelp med pumpen din"
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uzyskaj pomoc dotyczącą pompy"
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Получите помощь по работе с помпой"
+            "value" : "Få hjälp med din pump"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
           }
         }
       }
@@ -2187,16 +3657,22 @@
     "History" : {
       "comment" : "Caption for History\nHistory Caption",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "السّجل"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historik"
+            "value" : "Historie"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historie"
+            "value" : "Verlauf"
           }
         },
         "es" : {
@@ -2207,8 +3683,8 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Historia"
+            "state" : "new",
+            "value" : "History"
           }
         },
         "fr" : {
@@ -2217,16 +3693,28 @@
             "value" : "Historique"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "History"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elözmény"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cronologia"
+            "value" : "Storia"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historie"
+            "value" : "Historikk"
           }
         },
         "nl" : {
@@ -2237,20 +3725,32 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Historia"
+            "state" : "new",
+            "value" : "History"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Istoric"
+            "value" : "Histórico"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Histórico"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "История"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "História"
           }
         },
         "sv" : {
@@ -2265,6 +3765,18 @@
             "value" : "Geçmiş"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Історія"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lịch sử"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2275,92 +3787,182 @@
     },
     "How should the simulator respond to a version check?" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hvordan skal simulatoren reagere på en versionskontrol?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wie soll der Simulator auf eine Versionsprüfung reagieren?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "¿Cómo debe responder el simulador a una verificación de versión?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comment le simulateur devrait-il répondre à une vérification de version?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Come dovrebbe rispondere il simulatore a un controllo della versione?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hvordan skal simulatoren svare på en versjonskontroll?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hoe moet de simulator reageren op een versiecontrole?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jak symulator powinien zareagować na sprawdzenie wersji?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cum ar trebui să răspundă simulatorul la o verificare a versiunii?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Как симулятор должен реагировать на проверку версии?"
+            "value" : "Hur ska simulatorn svara på en versionskontroll?"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simülatör bir sürüm kontrolüne nasıl yanıt vermelidir?"
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
           }
         }
       }
     },
     "Insulin\nSuspended" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأنسولين\nمعلق"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulin \nsuspenderet"
+            "value" : "Insulin\nsuspenderet"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulin angehalten"
+            "value" : "Insulin\nAusgesetzt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insulina\nSuspendida"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insuliini\nKeskeytetään"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insuline\nSuspendue"
+            "value" : "Suspension de l'insuline\n"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin\nSuspended"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin\nSuspended"
           }
         },
         "it" : {
@@ -2369,10 +3971,16 @@
             "value" : "Insulina \nSospesa"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Insulin\n Suspendert"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insuline\nopgeschort"
           }
         },
         "pl" : {
@@ -2381,10 +3989,58 @@
             "value" : "Podawanie\nzawieszone"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin\nSuspended"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insulina\nSuspenso"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Подача инсулина приостановлена"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inzulín\nPozastavený"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insulin\nAvstängd"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İnsülin\nAskıya Alındı"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin\nSuspended"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insulin\n Đã tạm ngưng"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胰岛素\n暂停使用"
           }
         }
       }
@@ -2392,10 +4048,10 @@
     "Insulin Type" : {
       "comment" : "Controller title for insulin type selection screen",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Typ inzulínu"
+            "value" : "نوع الإنسولين"
           }
         },
         "da" : {
@@ -2407,7 +4063,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulintyp"
+            "value" : "Insulin Typ"
           }
         },
         "es" : {
@@ -2418,23 +4074,35 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insuliinityyppi"
+            "state" : "new",
+            "value" : "Insulin Type"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Type d'insuline"
+            "value" : "Type d'Insuline"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Type"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Type"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipo d'insulina"
+            "value" : "Tipo di Insulina"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Insulintype"
@@ -2443,19 +4111,25 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulinetype"
+            "value" : "Insulinesoort"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rodzaj insuliny"
+            "state" : "new",
+            "value" : "Insulin Type"
           }
         },
-        "ro" : {
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Type"
+          }
+        },
+        "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipul de insulină"
+            "value" : "Tipo de Insulina"
           }
         },
         "ru" : {
@@ -2467,13 +4141,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Typ inzulínu"
+            "value" : "Typ Inzulínu"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulintyp"
+            "value" : "Typ av insulin"
           }
         },
         "tr" : {
@@ -2481,57 +4155,165 @@
             "state" : "translated",
             "value" : "İnsülin Tipi"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тип Інсуліну"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại Insulin"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胰岛素类型"
+          }
         }
       }
     },
     "Insulin%@Remaining" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin %@ Resterende"
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin%@Übrig"
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insuline%@Restante"
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulina%@rimanente"
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin %@ gjenstår"
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pozostało%@Insuliny"
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Остаток инсулина %@"
+            "value" : "Insulin%@kvar"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
           }
         }
       }
     },
     "Last Reading" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "آخر قراءة"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2541,25 +4323,37 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Letzter Wert"
+            "value" : "Letzte Messung"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Último dato"
+            "value" : "Última lectura"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Reading"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dernière mesure"
+            "value" : "Dernière lecture"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "קריאה אחרונה"
+            "state" : "new",
+            "value" : "Last Reading"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Reading"
           }
         },
         "it" : {
@@ -2568,52 +4362,88 @@
             "value" : "Ultima lettura"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forrige avlesning"
+            "value" : "Siste måling"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laatste Meting"
+            "value" : "Laatste stand"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ostatni odczyt"
+            "state" : "new",
+            "value" : "Last Reading"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ultima citire"
+            "state" : "new",
+            "value" : "Last Reading"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Reading"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Последние данные"
+            "value" : "Последнее считывание"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Posledné čítanie"
+            "value" : "Posledná hodnota"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senaste avläsning"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Son Okuma"
+            "value" : "Son Okuma Değeri"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Останнє читання"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kết quả đọc gần nhất"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Reading"
           }
         }
       }
     },
     "min" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "د"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2623,7 +4453,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Min"
+            "value" : "min"
           }
         },
         "es" : {
@@ -2646,23 +4476,23 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "min"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "perc"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "minuti"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "min"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "min"
@@ -2680,15 +4510,15 @@
             "value" : "min."
           }
         },
-        "pt-BR" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "min"
           }
         },
-        "ro" : {
+        "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "min"
           }
         },
@@ -2696,6 +4526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "мин"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "min"
           }
         },
         "sv" : {
@@ -2706,14 +4542,20 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "min"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "хв"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "tối thiểu"
+            "value" : "min"
           }
         },
         "zh-Hans" : {
@@ -2726,80 +4568,182 @@
     },
     "Mock Version Check %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mock version Check %@"
+            "state" : "new",
+            "value" : "Mock Version Check %@"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mock Versionsprüfung %@"
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Controllo versione fittizia %@"
+            "state" : "new",
+            "value" : "Mock Version Check %@"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mock versjon Sjekk %@"
+            "state" : "new",
+            "value" : "Mock Version Check %@"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mock Versie Check %@"
+            "state" : "new",
+            "value" : "Mock Version Check %@"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pozorowana kontrola wersji %@"
+            "state" : "new",
+            "value" : "Mock Version Check %@"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verificare versiune simulată %@"
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Проверка версии Mock %@"
+            "value" : "Kontrollera simulatorversion %@"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sahte Sürüm Kontrolü %@"
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
           }
         }
       }
     },
     "No\nDelivery" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingen\nLevering"
+            "value" : "Ingen\nlevering"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Abgabe"
+            "value" : "Keine\nAbgabe"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay administración"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pas\nd'administration"
+            "value" : "Pas d'administration"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
           }
         },
         "it" : {
@@ -2808,16 +4752,34 @@
             "value" : "Nessuna\nErogazione"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ingen Leveranse"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen\nToediening"
+          }
+        },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brak\npodawania"
+            "value" : "Brak podawania"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
           }
         },
         "ru" : {
@@ -2825,11 +4787,53 @@
             "state" : "translated",
             "value" : "Нет подачи"
           }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingen\nleverans"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İletim\nYok"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không\n Tiêm"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
+          }
         }
       }
     },
     "Notification Settings" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعدادات الإشعارات"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2842,34 +4846,112 @@
             "value" : "Benachrichtigungseinstellungen"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración de las notificaciones"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notification Settings"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paramètres de notification"
+            "value" : "Paramètres des notifications"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notification Settings"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Értesítési beállítások"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Impostazioni di notifica"
+            "value" : "Impostazioni di Notifica"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Innstillinger for varsling"
+            "value" : "Varslingsinnstillinger"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen voor meldingen"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ustawienia powiadomień"
+            "state" : "new",
+            "value" : "Notification Settings"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notification Settings"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notification Settings"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настройки уведомлений"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavenia oznámení"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notisinställningar"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildirim ayarları"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Параметри сповіщень"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt thông báo"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知设置"
           }
         }
       }
@@ -2880,13 +4962,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "موافق"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
+            "value" : "حسناً"
           }
         },
         "da" : {
@@ -2909,7 +4985,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2921,7 +4997,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -2931,46 +5013,40 @@
             "value" : "OK"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "nl" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ok"
           }
         },
-        "pl" : {
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "OK"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
+            "value" : "ОК"
           }
         },
         "sk" : {
@@ -2991,6 +5067,12 @@
             "value" : "Tamam"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3000,53 +5082,137 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好的"
+            "value" : "Ok"
           }
         }
       }
     },
     "Pump expires in " : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod udløber om"
+            "state" : "new",
+            "value" : "Pump expires in "
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpe läuft ab in "
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "La pompe expire dans "
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "La pompa scade tra "
+            "state" : "new",
+            "value" : "Pump expires in "
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pod utløper om"
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompa wygasa za "
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Под истекает в "
+            "value" : "Pump går ut om "
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
           }
         }
       }
@@ -3054,70 +5220,100 @@
     "Recover Simulator" : {
       "comment" : "Button title recovering comms",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gendan simulator"
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simulator wiederherstellen"
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recuperar Simulador"
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Palauta simulaattori"
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rétablissement du simulateur"
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simulatore di recupero"
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjenopprett simulator"
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simulator Herstellen"
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odzyskaj komunikat"
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simulator de recuperare"
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Восстановить симулятор"
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         },
         "sv" : {
@@ -3128,112 +5324,298 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simülatörü kurtar"
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
           }
         }
       }
     },
     "Replace Pump" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Udskift pumpe"
+            "state" : "new",
+            "value" : "Replace Pump"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpe ersetzen"
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Remplacer la pompe"
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sostituisci pompa"
+            "state" : "new",
+            "value" : "Replace Pump"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bytt pumpe"
+            "state" : "new",
+            "value" : "Replace Pump"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vervang pomp"
+            "state" : "new",
+            "value" : "Replace Pump"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zmień pompę"
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Замените помпу"
+            "value" : "Byt Pump"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
           }
         }
       }
     },
     "Scheduled%@Basal" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Planlagt%@Basal"
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geplantes%@Basal"
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Débit basal programmé %@"
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Basale%@programmata"
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Planlagt%@Basal"
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zaplanowana%@Baza"
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Запланированный базал %@"
+            "value" : "Schemalagd%@basal"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
           }
         }
       }
     },
     "Sensor expires in " : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3243,7 +5625,19 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sensor läuft ab in "
+            "value" : "Sensor läuft ab in"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
           }
         },
         "fr" : {
@@ -3252,13 +5646,25 @@
             "value" : "Le capteur expire dans "
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il sensore scade tra "
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sensoren utløper om"
@@ -3273,29 +5679,191 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sensor wygasa za "
+            "value" : "Sensor wygasa za"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Сенсор заканчивается в"
+            "value" : "Sensorn upphör om "
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Сенсор закінчує термін служби через"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
           }
         }
       }
     },
     "Simulator Settings" : {
       "localizations" : {
-        "it" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Impostazioni del simulatore"
+            "state" : "new",
+            "value" : "Simulator Settings"
           }
         },
-        "nb" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Simulatorinnstillinger"
+            "value" : "Simulatorinställningar"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
           }
         }
       }
@@ -3303,122 +5871,260 @@
     "Source" : {
       "comment" : "Caption for Source",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kilde"
+            "state" : "new",
+            "value" : "Source"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Quelle"
+            "state" : "new",
+            "value" : "Source"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fuente"
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "Source"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fonte"
+            "state" : "new",
+            "value" : "Source"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kilde"
+            "state" : "new",
+            "value" : "Source"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bron"
+            "state" : "new",
+            "value" : "Source"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Źródło"
+            "state" : "new",
+            "value" : "Source"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sursă"
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Источник"
+            "value" : "Källa"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kaynak"
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
           }
         }
       }
     },
     "Stop Sensor" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stop-sensor"
+            "state" : "new",
+            "value" : "Stop Sensor"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sensor stoppen"
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arrêter le capteur"
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Arresta sensore"
+            "state" : "new",
+            "value" : "Stop Sensor"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stopp sensor"
+            "state" : "new",
+            "value" : "Stop Sensor"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Stop Sensor"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zatrzymaj sensor"
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Стоп сенсор"
+            "value" : "Stoppa Sensor"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
           }
         }
       }
@@ -3426,16 +6132,34 @@
     "Suspended At" : {
       "comment" : "Label for suspended at field",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم الإيقاف المؤقت في"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suspenderet kl"
+            "value" : "Suspenderet"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Angehalten am"
+            "value" : "Unterbrochen um"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suspendido a las"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended At"
           }
         },
         "fr" : {
@@ -3444,28 +6168,52 @@
             "value" : "Suspendu à"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended At"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended At"
+          }
+        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sospeso a"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suspendert kl"
+            "value" : "Pauset kl"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Onderbroken om"
+            "value" : "Onderbroken op"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zawieszony o godz."
+            "state" : "new",
+            "value" : "Suspended At"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended At"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended At"
           }
         },
         "ru" : {
@@ -3473,51 +6221,171 @@
             "state" : "translated",
             "value" : "Приостановлено в"
           }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pozastavené o"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pausad kl."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Askıya Alındı"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Призупинено у"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tạm ngưng tại"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended At"
+          }
         }
       }
     },
     "Temporary%@Basal" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Midlertidig%@ basal"
+            "state" : "new",
+            "value" : "Temporary%@Basal"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Temporäres%@Basal"
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Débit Basal temporaire %@"
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Basale%@temporanea"
+            "state" : "new",
+            "value" : "Temporary%@Basal"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Midlertidig %@ Basal"
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Baza%@Tymczasowa"
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Временный базал %@"
+            "value" : "Temporär%@basal"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
           }
         }
       }
@@ -3525,147 +6393,393 @@
     "Update Reminder" : {
       "comment" : "Recurring software update alert title",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Påmindelse om opdatering"
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Update-Erinnerung"
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recordatorio de actualización"
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rappel de mise à jour"
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Promemoria di aggiornamento"
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oppdater påminnelse"
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Update Herinnering"
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Przypomnienie o aktualizacji"
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Memento actualizare"
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Напоминание об обновлении"
+            "value" : "Uppdateringspåminnelse"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Güncelleme Hatırlatıcısı"
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
           }
         }
       }
     },
     "Version Check Response" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Svar på versionskontrol"
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Antwort der Versionsprüfung"
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Respuesta de verificación de versión"
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réponse à la vérification de version"
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Risposta al controllo della versione"
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Svar på versjonskontroll"
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reactie op versiecontrole"
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odpowiedź na sprawdzenie wersji"
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Răspuns de verificare a versiunii"
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Ответ на проверку версии"
+            "value" : "Versionskontrollsvar"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sürüm Kontrolü Yanıtı"
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
           }
         }
       }
     },
     "versionUpdate: %@\n\nbundleIdentifier: %@\n\ncurrentVersion: %@" : {
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
         "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
@@ -3676,76 +6790,130 @@
     "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete." : {
       "comment" : "Alert content body for first software update alert (1: app name)(2: app name)",
       "localizations" : {
-        "cs" : {
+        "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vaše aplikace %1$@ je zastaralá. Bude fungovat i nadále, ale doporučujeme aktualizaci na nejnovější verzi. \n\nPro dokončení přejděte do %2$@ Nastavení > Aktualizace softwaru."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din %1$@ app er forældet. Det vil fortsætte med at fungere, men vi anbefaler at opdatere til den nyeste version.\n\nGå til Indstillinger for %2$@ > Softwareopdatering for at fuldføre."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deine %1$@-App ist nicht mehr aktuell. Sie funktioniert weiterhin, aber wir empfehlen Dir, auf die neueste Version zu aktualisieren.\n\nGehen zu %2$@ Einstellungen > Softwareaktualisierung, um die Aktualisierung abzuschließen."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tu aplicación %1$@ no está actualizada. Seguirá funcionando, pero recomendamos actualizar a la última versión. \n\n Vaya a %2$@ Configuración > Actualización de Software para completar."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Votre application %1$@ est obsolète. Elle continuera de fonctionner, mais nous vous recommandons de mettre à jour vers la dernière version.\n\nAllez dans %2$@ Paramètres > Mise à jour logicielle pour l'effectuer."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "La tua app %1$@ non è aggiornata. Continuerà a funzionare, ma ti consigliamo di aggiornarla all'ultima versione. \n\nVai su %2$@ Impostazioni > Aggiornamento software per completare."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
-        "nb" : {
+        "nb-NO" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din %1$@ app er utdatert. Den vil fortsette å fungere, men vi anbefaler å oppdatere til siste versjon. \n\nGå til %2$@ Innstillinger > Programvareoppdatering for å fullføre."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je %1$@ app is verouderd. De app blijft werken, maar we raden je aan om de app bij te werken naar de nieuwste versie. \n\nGa naar %2$@ Instellingen > Software Update om de update te voltooien."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Twoja aplikacja %1$@ jest nieaktualna. Będzie nadal działać, ale zalecamy aktualizację do najnowszej wersji. \n\n Przejdź do %2$@ Ustawienia > Aktualizacja oprogramowania, aby dokonać aktualizacji."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
-        "ro" : {
+        "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aplicația dvs. %1$@ nu este actualizată. Aceasta va continua să funcționeze, dar vă recomandăm să o actualizați la cea mai recentă versiune.\n\nAccesați %2$@ Setări > Actualizare software pentru a finaliza."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         },
         "ru" : {
           "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваше приложение %1$@ устарело. Оно будет продолжать работать, но мы рекомендуем обновить его до последней версии.\n\nДля завершения обновления перейдите в %2$@ Настройки > Обновление ПО."
+            "value" : "Din %1$@ app är för gammal. Den kommer att fortsätta fungera, men vi rekommenderar att uppdatera till den senaste versionen.\n\nGå till %2$@ Inställningar > Programvaruuppdatering för att slutföra."
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ uygulamanız güncel değil. Çalışmaya devam edecektir, ancak en son sürüme güncellemenizi öneririz.\n\nTamamlamak için %2$@ Ayarlar > Yazılım Güncellemesi'ne gidin."
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
           }
         }
       }
