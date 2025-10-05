@@ -232,8 +232,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+            "state" : "translated",
+            "value" : "%@ har tappat kommunikation med simulatorpumpen sedan %@.\n\nUtan kommunikation kan appen inte fortsätta att skicka kommandon för insulintillförsel eller visa korrekt aktuell information om ditt aktiva insulin eller det insulin som administrerats."
           }
         },
         "tr" : {
@@ -754,7 +754,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "2"
           }
         },
@@ -884,7 +884,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "5"
           }
         },
@@ -1014,7 +1014,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "50+"
           }
         },
@@ -1145,8 +1145,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+            "state" : "translated",
+            "value" : "En programuppdatering rekommenderas innana du fortsätter att använda %1$@ appen.\n\nGå till %2$@ Inställningar > Programvaruuppdatering för att installera den senaste versionen."
           }
         },
         "tr" : {
@@ -1800,8 +1800,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Settings"
+            "state" : "translated",
+            "value" : "CGM-inställningar"
           }
         },
         "tr" : {
@@ -1930,8 +1930,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Simulator"
+            "state" : "translated",
+            "value" : "CGM-simulator"
           }
         },
         "tr" : {
@@ -2060,8 +2060,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Last Version Check Alert Date"
+            "state" : "translated",
+            "value" : "Rensa datum för senaste versionskontroll"
           }
         },
         "tr" : {
@@ -2190,8 +2190,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Comms Recovery"
+            "state" : "translated",
+            "value" : "Återställning av kommandon"
           }
         },
         "tr" : {
@@ -3104,8 +3104,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
+            "state" : "translated",
+            "value" : "Uppskattad läsning"
           }
         },
         "tr" : {
@@ -3494,8 +3494,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your CGM"
+            "state" : "translated",
+            "value" : "Få hjälp med din CGM"
           }
         },
         "tr" : {
@@ -3624,8 +3624,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your pump"
+            "state" : "translated",
+            "value" : "Få hjälp med din pump"
           }
         },
         "tr" : {
@@ -3885,8 +3885,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "How should the simulator respond to a version check?"
+            "state" : "translated",
+            "value" : "Hur ska simulatorn svara på en versionskontroll?"
           }
         },
         "tr" : {
@@ -4276,8 +4276,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin%@Remaining"
+            "state" : "translated",
+            "value" : "Insulin%@kvar"
           }
         },
         "tr" : {
@@ -4666,8 +4666,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
+            "state" : "translated",
+            "value" : "Kontrollera simulatorversion %@"
           }
         },
         "tr" : {
@@ -5187,8 +5187,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump expires in "
+            "state" : "translated",
+            "value" : "Pump går ut om "
           }
         },
         "tr" : {
@@ -5318,8 +5318,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recover Simulator"
+            "state" : "translated",
+            "value" : "Återställ simulator"
           }
         },
         "tr" : {
@@ -5448,8 +5448,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace Pump"
+            "state" : "translated",
+            "value" : "Byt Pump"
           }
         },
         "tr" : {
@@ -5578,8 +5578,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scheduled%@Basal"
+            "state" : "translated",
+            "value" : "Schemalagd%@basal"
           }
         },
         "tr" : {
@@ -5838,8 +5838,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
+            "state" : "translated",
+            "value" : "Simulatorinställningar"
           }
         },
         "tr" : {
@@ -5969,8 +5969,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Source"
+            "state" : "translated",
+            "value" : "Källa"
           }
         },
         "tr" : {
@@ -6099,8 +6099,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop Sensor"
+            "state" : "translated",
+            "value" : "Stoppa Sensor"
           }
         },
         "tr" : {
@@ -6360,8 +6360,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporary%@Basal"
+            "state" : "translated",
+            "value" : "Temporär%@basal"
           }
         },
         "tr" : {
@@ -6491,8 +6491,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Update Reminder"
+            "state" : "translated",
+            "value" : "Uppdateringspåminnelse"
           }
         },
         "tr" : {
@@ -6621,8 +6621,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Version Check Response"
+            "state" : "translated",
+            "value" : "Versionskontrollsvar"
           }
         },
         "tr" : {
@@ -6757,7 +6757,7 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
           }
         },
@@ -6888,8 +6888,8 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+            "state" : "translated",
+            "value" : "Din %1$@ app är för gammal. Den kommer att fortsätta fungera, men vi rekommenderar att uppdatera till den senaste versionen.\n\nGå till %2$@ Inställningar > Programvaruuppdatering för att slutföra."
           }
         },
         "tr" : {
