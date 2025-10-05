@@ -8,3 +8,6 @@ files:
   - source: /LoopKitUI/Resources/Localizable.xcstrings
     translation: /LoopKitUI/Resources/Localizable.xcstrings
     multilingual: 1
+  - source: /MockKitUI/Resources/Localizable.xcstrings
+    translation: /MockKitUI/Resources/Localizable.xcstrings
+    multilingual: 1
