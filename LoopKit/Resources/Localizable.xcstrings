@@ -360,8 +360,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ U bolus may not have succeeded"
+            "state" : "translated",
+            "value" : "%1$@ J Bolus sa nemusel podať úspešne"
           }
         },
         "sv" : {
@@ -491,8 +491,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
+            "state" : "translated",
+            "value" : "%1$@ podá bazálny inzulín a odporučí bolusový inzulín len vtedy, ak sa predpokladá, že vaša glykémia bude počas nasledujúcich troch hodín nad touto hranicou."
           }
         },
         "sv" : {
@@ -753,8 +753,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A value you have entered is higher than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Hodnota, ktorú ste zadali, je vyššia, ako sa zvyčajne odporúča pre väčšinu ľudí."
           }
         },
         "sv" : {
@@ -884,8 +884,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A value you have entered is lower than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Hodnota, ktorú ste zadali, je nižšia, ako sa zvyčajne odporúča pre väčšinu ľudí."
           }
         },
         "sv" : {
@@ -1671,8 +1671,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authorization Denied"
+            "state" : "translated",
+            "value" : "Autorizácia zamietnutá"
           }
         },
         "sv" : {
@@ -2327,8 +2327,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Check your pump before retrying"
+            "state" : "translated",
+            "value" : "Pred opätovným pokusom skontrolujte svoju pumpu"
           }
         },
         "sv" : {
@@ -2465,8 +2465,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authorization Denied"
+            "state" : "translated",
+            "value" : "Autorizácia zamietnutá"
           }
         },
         "sv" : {
@@ -2603,8 +2603,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This sample can be deleted from the Health app"
+            "state" : "translated",
+            "value" : "Tento záznam možno odstrániť z aplikácie Zdravie"
           }
         },
         "sv" : {
@@ -2734,8 +2734,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Communication Failure"
+            "state" : "translated",
+            "value" : "Zlyhanie komunikácie"
           }
         },
         "sv" : {
@@ -2865,8 +2865,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Communications interrupted during insulin delivery command."
+            "state" : "translated",
+            "value" : "Komunikácia bola prerušená počas príkazu na podanie inzulínu."
           }
         },
         "sv" : {
@@ -2996,8 +2996,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection Failure"
+            "state" : "translated",
+            "value" : "Zlyhanie pripojenia"
           }
         },
         "sv" : {
@@ -3127,8 +3127,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correction Range"
+            "state" : "translated",
+            "value" : "Korekčný rozsah"
           }
         },
         "sv" : {
@@ -3258,8 +3258,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses."
+            "state" : "translated",
+            "value" : "Korekčný rozsah je hodnota glykémie (alebo rozsah hodnôt), na ktorú sa má %1$@ zamerať pri úprave vášho bazálneho inzulínu a pri pomoci s výpočtom bolusov."
           }
         },
         "sv" : {
@@ -3389,8 +3389,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical Update"
+            "state" : "translated",
+            "value" : "Kritická aktualizácia"
           }
         },
         "sv" : {
@@ -3651,8 +3651,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Refused"
+            "state" : "translated",
+            "value" : "Zariadenie odmietlo"
           }
         },
         "sv" : {
@@ -3782,8 +3782,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Critical"
+            "state" : "translated",
+            "value" : "Kritický stav zariadenia"
           }
         },
         "sv" : {
@@ -3913,8 +3913,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Normal"
+            "state" : "translated",
+            "value" : "Normálny stav zariadenia"
           }
         },
         "sv" : {
@@ -4044,8 +4044,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Status Warning"
+            "state" : "translated",
+            "value" : "Upozornenie o stave zariadenia"
           }
         },
         "sv" : {
@@ -4175,8 +4175,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Ensure carb data exists for the specified date"
+            "state" : "translated",
+            "value" : "Uistite sa, že pre zadaný dátum existujú údaje o sacharidoch"
           }
         },
         "sv" : {
@@ -4306,8 +4306,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Falling"
+            "state" : "translated",
+            "value" : "Klesá"
           }
         },
         "sv" : {
@@ -4437,8 +4437,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Falling fast"
+            "state" : "translated",
+            "value" : "Rýchlo klesá"
           }
         },
         "sv" : {
@@ -4568,8 +4568,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Falling very fast"
+            "state" : "translated",
+            "value" : "Veľmi rýchlo klesá"
           }
         },
         "sv" : {
@@ -4961,8 +4961,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Flat"
+            "state" : "translated",
+            "value" : "Stabilná"
           }
         },
         "sv" : {
@@ -5092,8 +5092,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
+            "state" : "translated",
+            "value" : "Pre rýchlo pôsobiaci inzulín %1$@ sa predpokladá, že je aktívny počas 6 hodín. Môžete si vybrať z rôznych modelov pre vrchol aktivity."
           }
         },
         "sv" : {
@@ -6402,8 +6402,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Invalid Configuration"
+            "state" : "translated",
+            "value" : "Neplatná konfigurácia"
           }
         },
         "sv" : {
@@ -6534,8 +6534,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "It is safe to retry"
+            "state" : "translated",
+            "value" : "Je bezpečné zopakovať pokus"
           }
         },
         "sv" : {
@@ -9154,8 +9154,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Jedna alebo viac zadaných hodnôt je mimo rozsahu, ktorý sa zvyčajne odporúča pre väčšinu ľudí."
           }
         },
         "sv" : {
@@ -9286,8 +9286,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Please re-enable sharing in Health"
+            "state" : "translated",
+            "value" : "Obnovte zdieľanie v aplikácii Zdravie"
           }
         },
         "sv" : {
@@ -9548,8 +9548,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recommended Update"
+            "state" : "translated",
+            "value" : "Odporúčaná aktualizácia"
           }
         },
         "sv" : {
@@ -9679,8 +9679,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Resumed"
+            "state" : "translated",
+            "value" : "Obnovené"
           }
         },
         "sv" : {
@@ -9810,8 +9810,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rising"
+            "state" : "translated",
+            "value" : "Stúpa"
           }
         },
         "sv" : {
@@ -9941,8 +9941,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rising fast"
+            "state" : "translated",
+            "value" : "Rýchlo stúpa"
           }
         },
         "sv" : {
@@ -10072,8 +10072,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rising very fast"
+            "state" : "translated",
+            "value" : "Veľmi rýchlo stúpa"
           }
         },
         "sv" : {
@@ -10203,8 +10203,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Niektoré zo zadaných hodnôt sú mimo rozsahu, ktorý sa zvyčajne odporúča pre väčšinu ľudí."
           }
         },
         "sv" : {
@@ -10596,8 +10596,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
+            "state" : "translated",
+            "value" : "Dočasne znížte svoj cieľ glykémie pred jedlom, aby ste ovplyvnili zvýšenie glykémie po jedle."
           }
         },
         "sv" : {
@@ -10727,8 +10727,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
+            "state" : "translated",
+            "value" : "Dočasne zvýšte svoj cieľ glykémie pred, počas alebo po fyzickej aktivite, aby ste znížili riziko hypoglykémie."
           }
         },
         "sv" : {
@@ -10858,8 +10858,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The value you have entered is higher than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Hodnota, ktorú ste zadali, je vyššia, ako sa zvyčajne odporúča pre väčšinu ľudí."
           }
         },
         "sv" : {
@@ -10989,8 +10989,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The value you have entered is lower than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Hodnota, ktorú ste zadali, je nižšia, ako sa zvyčajne odporúča pre väčšinu ľudí."
           }
         },
         "sv" : {
@@ -11120,8 +11120,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The values you have entered are outside of what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "Hodnoty, ktoré ste zadali, sú mimo rozsahu, ktorý sa zvyčajne odporúča pre väčšinu ľudí."
           }
         },
         "sv" : {
