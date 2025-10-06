@@ -244,8 +244,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " higher "
+            "state" : "translated",
+            "value" : "вище"
           }
         },
         "vi" : {
@@ -375,8 +375,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " lower "
+            "state" : "translated",
+            "value" : " нижче "
           }
         },
         "vi" : {
@@ -506,7 +506,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "-"
           }
         },
@@ -636,7 +636,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "－"
           }
         },
@@ -767,7 +767,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "–"
           }
         },
@@ -897,7 +897,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "···"
           }
         },
@@ -1027,7 +1027,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@"
           }
         },
@@ -1157,8 +1157,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ carbs, %@ absorption"
+            "state" : "translated",
+            "value" : "%@ вуглеводів, %@ засвоєння"
           }
         },
         "vi" : {
@@ -1402,8 +1402,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@%% of normal insulin"
+            "state" : "translated",
+            "value" : "%@%% normálneho inzulínu"
           }
         },
         "sv" : {
@@ -1420,8 +1420,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@%% of normal insulin"
+            "state" : "translated",
+            "value" : "%@%% від нормального інсуліну"
           }
         },
         "vi" : {
@@ -1534,7 +1534,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ j"
+            "value" : "%@ J"
           }
         },
         "sv" : {
@@ -1682,7 +1682,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@ – %2$@ %3$@"
           }
         },
@@ -1813,7 +1813,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@ %2$@"
           }
         },
@@ -1926,8 +1926,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed."
+            "state" : "translated",
+            "value" : "%1$@ predpokladá, že podaný inzulín aktívne pôsobí na zníženie vašej glykémie počas 6 hodín. Toto nastavenie nie je možné zmeniť."
           }
         },
         "sv" : {
@@ -1944,8 +1944,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ assumes that the insulin it has delivered is actively working to lower your glucose for 6 hours. This setting cannot be changed."
+            "state" : "translated",
+            "value" : "%1$@ припускає, що інсулін, який він ввів, активно працює над зниженням рівня глюкози протягом 6 годин. Цей параметр не можна змінити."
           }
         },
         "vi" : {
@@ -2057,8 +2057,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ or your Glucose Safety Limit, whichever is higher"
+            "state" : "translated",
+            "value" : "%1$@ alebo Váš limit bezpečnej glykémie, podľa toho, ktorá hodnota je vyššia"
           }
         },
         "sv" : {
@@ -2075,8 +2075,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ or your Glucose Safety Limit, whichever is higher"
+            "state" : "translated",
+            "value" : "%1$@ або ваша безпечна межа рівня глюкози, залежно від того, що вище"
           }
         },
         "vi" : {
@@ -2188,8 +2188,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ supports 1 to %2$@ rates per day."
+            "state" : "translated",
+            "value" : "%1$@ podporuje od 1 do %2$@ rýchlostí za deň."
           }
         },
         "sv" : {
@@ -2206,8 +2206,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ supports 1 to %2$@ rates per day."
+            "state" : "translated",
+            "value" : "%1$@ підтримує тарифи від 1 до %2$@ на день."
           }
         },
         "vi" : {
@@ -2337,7 +2337,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@ U"
           }
         },
@@ -2599,7 +2599,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@: <b>%2$@</b> %3$@"
           }
         },
@@ -2730,8 +2730,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@/min"
+            "state" : "translated",
+            "value" : "%1$@/хв"
           }
         },
         "vi" : {
@@ -2974,8 +2974,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$d percent complete."
+            "state" : "translated",
+            "value" : "%1$d percent dokončené."
           }
         },
         "sv" : {
@@ -2992,8 +2992,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$d percent complete."
+            "state" : "translated",
+            "value" : "Виконано %1$d відсотків."
           }
         },
         "vi" : {
@@ -3104,7 +3104,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld"
           }
         },
@@ -3122,7 +3122,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld"
           }
         },
@@ -3234,7 +3234,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld, "
           }
         },
@@ -3252,7 +3252,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld, "
           }
         },
@@ -3382,7 +3382,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "🍽"
           }
         },
@@ -3513,8 +3513,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "🍽 Pre-Meal"
+            "state" : "translated",
+            "value" : "🍽 Перед їжою"
           }
         },
         "vi" : {
@@ -3643,7 +3643,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "🏃‍♂️"
           }
         },
@@ -3774,8 +3774,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "🏃‍♂️ Workout"
+            "state" : "translated",
+            "value" : "🏃‍♂️ Тренування"
           }
         },
         "vi" : {
@@ -3887,8 +3887,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A Correction Range is different. This will be a narrower range."
+            "state" : "translated",
+            "value" : "Korekčný rozsah je odlišný. Tento rozsah bude užší."
           }
         },
         "sv" : {
@@ -4149,8 +4149,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Absorption Time"
+            "state" : "translated",
+            "value" : "Čas absorpcie"
           }
         },
         "sv" : {
@@ -5067,8 +5067,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to delete all history entries?"
+            "state" : "translated",
+            "value" : "Naozaj chcete odstrániť všetky položky histórie?"
           }
         },
         "sv" : {
@@ -5198,8 +5198,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to delete all reservoir values?"
+            "state" : "translated",
+            "value" : "Naozaj chcete odstrániť všetky hodnoty zásobníka?"
           }
         },
         "sv" : {
@@ -6772,8 +6772,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Changes will only apply this time you enable the preset. The default settings of %@ will not be affected."
+            "state" : "translated",
+            "value" : "Zmeny sa použijú jednorázovo keď povolíte túto predvoľbu. Predvolené nastavenia %@ nebudú ovplyvnené."
           }
         },
         "sv" : {
@@ -6904,8 +6904,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact."
+            "state" : "translated",
+            "value" : "Zvoľte dlhší čas absorpcie pre väčšie jedlá alebo tie, ktoré obsahujú tuky a bielkoviny. Ide len o usmernenie pre algoritmus a nemusí byť presné."
           }
         },
         "sv" : {
@@ -7167,7 +7167,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "com.loudnate.CarbKit.COBDateLabel"
           }
         },
@@ -7299,7 +7299,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "com.loudnate.CarbKit.totalDateLabel"
           }
         },
@@ -7575,8 +7575,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "since %1$@"
+            "state" : "translated",
+            "value" : "od %1$@"
           }
         },
         "sv" : {
@@ -7844,8 +7844,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Completed."
+            "state" : "translated",
+            "value" : "Dokončené."
           }
         },
         "sv" : {
@@ -7975,8 +7975,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Condition"
+            "state" : "translated",
+            "value" : "Stav"
           }
         },
         "sv" : {
@@ -8106,8 +8106,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Confirm Setting"
+            "state" : "translated",
+            "value" : "Potvrdiť nastavenie"
           }
         },
         "sv" : {
@@ -8368,8 +8368,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correct the highlighted unsupported value(s)."
+            "state" : "translated",
+            "value" : "Opravte zvýraznené nepodporované hodnoty."
           }
         },
         "sv" : {
@@ -8499,8 +8499,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correction range is the blood glucose range that you would like Loop to correct to."
+            "state" : "translated",
+            "value" : "Korekčný rozsah je rozsah glykémie, na ktorý chcete, aby iAPS korigoval."
           }
         },
         "sv" : {
@@ -8630,8 +8630,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correction Values"
+            "state" : "translated",
+            "value" : "Korekčné hodnoty"
           }
         },
         "sv" : {
@@ -8892,8 +8892,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom Override"
+            "state" : "translated",
+            "value" : "Vlastné prepísanie"
           }
         },
         "sv" : {
@@ -9023,8 +9023,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom Preset"
+            "state" : "translated",
+            "value" : "Vlastná predvoľba"
           }
         },
         "sv" : {
@@ -9549,8 +9549,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete All"
+            "state" : "translated",
+            "value" : "Odstrániť všetko"
           }
         },
         "sv" : {
@@ -9811,8 +9811,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delivery Limits are safety guardrails for your insulin delivery."
+            "state" : "translated",
+            "value" : "Limity podávania sú bezpečnostné hranice pre podávanie vášho inzulínu."
           }
         },
         "sv" : {
@@ -9942,8 +9942,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disable Preset"
+            "state" : "translated",
+            "value" : "Deaktivovať predvoľbu"
           }
         },
         "sv" : {
@@ -10335,8 +10335,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit"
+            "state" : "translated",
+            "value" : "Upraviť"
           }
         },
         "sv" : {
@@ -10467,8 +10467,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Carb Entry"
+            "state" : "translated",
+            "value" : "Upraviť záznam o sacharidoch"
           }
         },
         "sv" : {
@@ -10599,8 +10599,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Override"
+            "state" : "translated",
+            "value" : "Upraviť prepísanie"
           }
         },
         "sv" : {
@@ -10731,8 +10731,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Editing affects only the active override. The default settings of %@ will not be affected."
+            "state" : "translated",
+            "value" : "Úpravy ovplyvnia iba aktívne prepísanie. Predvolené nastavenia %@ nebudú ovplyvnené."
           }
         },
         "sv" : {
@@ -10862,8 +10862,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edits persist only until the preset is disabled. The default settings of %@ will not be affected."
+            "state" : "translated",
+            "value" : "Úpravy zostanú zachované len dovtedy, kým je predvoľba aktívna. Predvolené nastavenia %@ nebudú ovplyvnené."
           }
         },
         "sv" : {
@@ -11124,8 +11124,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable Indefinitely"
+            "state" : "translated",
+            "value" : "Povoliť na neurčito"
           }
         },
         "sv" : {
@@ -11386,8 +11386,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "End Time"
+            "state" : "translated",
+            "value" : "Čas ukončenia"
           }
         },
         "sv" : {
@@ -11517,8 +11517,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter %1$@ value"
+            "state" : "translated",
+            "value" : "Zadajte hodnotu %1$@"
           }
         },
         "sv" : {
@@ -11649,8 +11649,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter a number of units"
+            "state" : "translated",
+            "value" : "Zadajte počet jednotiek"
           }
         },
         "sv" : {
@@ -11781,8 +11781,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter a rate in units per hour"
+            "state" : "translated",
+            "value" : "Zadajte rýchlosť v jednotkách za hodinu"
           }
         },
         "sv" : {
@@ -12043,8 +12043,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fast"
+            "state" : "translated",
+            "value" : "Rýchly"
           }
         },
         "sv" : {
@@ -12435,8 +12435,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity."
+            "state" : "translated",
+            "value" : "Pre rýchlo pôsobiaci inzulín %1$@ sa predpokladá, že je aktívny počas 6 hodín. Môžete si vybrať z %2$@ rôznych modelov, podľa ktorých aplikácia meria vrcholovú aktivitu inzulínu."
           }
         },
         "sv" : {
@@ -12566,8 +12566,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin."
+            "state" : "translated",
+            "value" : "Pre tento rozsah vyberte konkrétnu hodnotu glykémie (alebo rozsah hodnôt), na ktorú sa má %1$@ zamerať pri úprave vášho bazálneho inzulínu."
           }
         },
         "sv" : {
@@ -12697,8 +12697,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with Therapy Settings"
+            "state" : "translated",
+            "value" : "Pomoc s nastaveniami terapie"
           }
         },
         "sv" : {
@@ -12959,8 +12959,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Basal Rate"
+            "state" : "translated",
+            "value" : "Vysoká bazálna dávka"
           }
         },
         "sv" : {
@@ -13090,8 +13090,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Carb Ratio"
+            "state" : "translated",
+            "value" : "Vysoký pomer sacharidov"
           }
         },
         "sv" : {
@@ -13221,8 +13221,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Correction Value"
+            "state" : "translated",
+            "value" : "Vysoká hodnota korekcie"
           }
         },
         "sv" : {
@@ -13352,8 +13352,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Glucose Safety Limit"
+            "state" : "translated",
+            "value" : "Vysoká hranica bezpečnosti glykémie"
           }
         },
         "sv" : {
@@ -13483,8 +13483,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Insulin Sensitivity"
+            "state" : "translated",
+            "value" : "Vysoká citlivosť na inzulín"
           }
         },
         "sv" : {
@@ -13614,8 +13614,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Maximum Basal Rate"
+            "state" : "translated",
+            "value" : "Vysoká maximálna bazálna rýchlosť"
           }
         },
         "sv" : {
@@ -13745,8 +13745,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Maximum Bolus"
+            "state" : "translated",
+            "value" : "Maximálny bolus"
           }
         },
         "sv" : {
@@ -13876,8 +13876,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Pre-Meal Value"
+            "state" : "translated",
+            "value" : "Vysoká hodnota pred jedlom"
           }
         },
         "sv" : {
@@ -14007,8 +14007,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Workout Value"
+            "state" : "translated",
+            "value" : "Vysoká hodnota cvičenia"
           }
         },
         "sv" : {
@@ -14269,8 +14269,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If these settings look good to you, tap Save Settings to continue."
+            "state" : "translated",
+            "value" : "Ak vám tieto nastavenia vyhovujú, pokračujte ťuknutím na Uložiť nastavenia."
           }
         },
         "sv" : {
@@ -14400,8 +14400,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL."
+            "state" : "translated",
+            "value" : "Ak ste už predtým používali CGM, pravdepodobne poznáte cieľový rozsah ako široký rozsah hodnôt, ktoré chcete používať pre upozornenia na hladinu glykémie, napr. 3.9-7.8 mmol/L alebo 3.9-10.0 mmol/L."
           }
         },
         "sv" : {
@@ -14530,7 +14530,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "info"
           }
         },
@@ -14923,8 +14923,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose."
+            "state" : "translated",
+            "value" : "Citlivosť na inzulín opisuje, ako by mala vaša hladina glykémia v krvi reagovať na 1 jednotku inzulínu. Menšie hodnoty znamenajú, že sa podá viac inzulínu, keď je hladina glykémie nad cieľom. Príliš malé hodnoty môžu spôsobiť nebezpečne nízku hladinu glykémie v krvi."
           }
         },
         "sv" : {
@@ -15054,8 +15054,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Interrupted %1$@: <b>%2$@</b> of %3$@ %4$@"
+            "state" : "translated",
+            "value" : "Prerušené %1$@: <b>%2$@</b> z %3$@ %4$@"
           }
         },
         "sv" : {
@@ -15185,8 +15185,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "It can be set as low as %1$@. It can be set as high as %2$@."
+            "state" : "translated",
+            "value" : "Môže byť nastavené až na minimálnu hodnotu %1$@. Môže byť nastavené až na maximálnu hodnotu %2$@."
           }
         },
         "sv" : {
@@ -15316,8 +15316,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Basal Rate"
+            "state" : "translated",
+            "value" : "Nízka bazálna dávka"
           }
         },
         "sv" : {
@@ -15447,8 +15447,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Carb Ratio"
+            "state" : "translated",
+            "value" : "Nízky pomer sacharidov"
           }
         },
         "sv" : {
@@ -15578,8 +15578,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Correction Value"
+            "state" : "translated",
+            "value" : "Nízka korekčná hodnota"
           }
         },
         "sv" : {
@@ -15709,8 +15709,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Glucose Safety Limit"
+            "state" : "translated",
+            "value" : "Spodný limit bezpečnej glykémie"
           }
         },
         "sv" : {
@@ -15840,8 +15840,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Insulin Sensitivity"
+            "state" : "translated",
+            "value" : "Nízka citlivosť na inzulín"
           }
         },
         "sv" : {
@@ -15971,8 +15971,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Maximum Basal Rate"
+            "state" : "translated",
+            "value" : "Nízka maximálna bazálna dávka"
           }
         },
         "sv" : {
@@ -16102,8 +16102,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Maximum Bolus"
+            "state" : "translated",
+            "value" : "Nízky maximálny bolus"
           }
         },
         "sv" : {
@@ -16233,8 +16233,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Pre-Meal Value"
+            "state" : "translated",
+            "value" : "Nízka hodnota pred jedlom"
           }
         },
         "sv" : {
@@ -16364,8 +16364,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Workout Value"
+            "state" : "translated",
+            "value" : "Nízka hodnota pri cvičení"
           }
         },
         "sv" : {
@@ -16626,7 +16626,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "max"
           }
         },
@@ -16889,8 +16889,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Basal Rate is the maximum automatically adjusted basal rate that %1$@ is allowed to enact to help reach your correction range."
+            "state" : "translated",
+            "value" : "Maximálna bazálna dávka je maximálna automaticky upravená bazálna dávka, ktorú môže %1$@ použiť na dosiahnutie vášho korekčného rozsahu."
           }
         },
         "sv" : {
@@ -17152,8 +17152,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Bolus is the highest bolus amount that you will allow %1$@ to recommend at one time to cover carbs or bring down high glucose."
+            "state" : "translated",
+            "value" : "Maximálny bolus je najvyššie množstvo bolusu, ktoré povolíte, aby %1$@ naraz odporučil na pokrytie sacharidov alebo zníženie vysokej hladiny glykémie."
           }
         },
         "sv" : {
@@ -17545,8 +17545,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "More Info"
+            "state" : "translated",
+            "value" : "Viac informácií"
           }
         },
         "sv" : {
@@ -17807,8 +17807,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Entry"
+            "state" : "translated",
+            "value" : "Nový záznam"
           }
         },
         "sv" : {
@@ -17938,8 +17938,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Preset"
+            "state" : "translated",
+            "value" : "Nová predvoľba"
           }
         },
         "sv" : {
@@ -18069,8 +18069,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Basal Insulin"
+            "state" : "translated",
+            "value" : "Žiadny bazálny inzulín"
           }
         },
         "sv" : {
@@ -18199,8 +18199,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Nothing to See Here!"
+            "state" : "translated",
+            "value" : "Tu nie je nič na zobrazenie!"
           }
         },
         "sv" : {
@@ -18461,8 +18461,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Overall Insulin Needs"
+            "state" : "translated",
+            "value" : "Celková potreba inzulínu"
           }
         },
         "sv" : {
@@ -18592,8 +18592,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Override History"
+            "state" : "translated",
+            "value" : "História prepísaní"
           }
         },
         "sv" : {
@@ -18724,8 +18724,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Override Presets"
+            "state" : "translated",
+            "value" : "Predvoľby prepísaní"
           }
         },
         "sv" : {
@@ -18856,8 +18856,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Override presets can be set up under the 'Configuration' section of the settings screen."
+            "state" : "translated",
+            "value" : "Predvoľby prepisov je možné nastaviť v časti „Konfigurácia“ na obrazovke nastavení."
           }
         },
         "sv" : {
@@ -19249,8 +19249,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pre-Meal Values"
+            "state" : "translated",
+            "value" : "Hodnoty pred jedlom"
           }
         },
         "sv" : {
@@ -19380,8 +19380,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Prescription"
+            "state" : "translated",
+            "value" : "Predpis"
           }
         },
         "sv" : {
@@ -19511,8 +19511,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PRESETS"
+            "state" : "translated",
+            "value" : "PREDVOĽBY"
           }
         },
         "sv" : {
@@ -19642,8 +19642,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Progressing."
+            "state" : "translated",
+            "value" : "Prebieha."
           }
         },
         "sv" : {
@@ -19773,8 +19773,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Event"
+            "state" : "translated",
+            "value" : "Udalosť pumpy"
           }
         },
         "sv" : {
@@ -19904,8 +19904,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Inoperable"
+            "state" : "translated",
+            "value" : "Nefunkčná pumpa"
           }
         },
         "sv" : {
@@ -20035,8 +20035,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rapid-Acting – Adults"
+            "state" : "translated",
+            "value" : "Rýchlo pôsobiaci – Dospelí"
           }
         },
         "sv" : {
@@ -20166,8 +20166,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rapid-Acting – Children"
+            "state" : "translated",
+            "value" : "Rýchlo pôsobiaci – Deti"
           }
         },
         "sv" : {
@@ -20821,8 +20821,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Review and Save Settings"
+            "state" : "translated",
+            "value" : "Skontrolovať a uložiť nastavenia"
           }
         },
         "sv" : {
@@ -20952,8 +20952,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen."
+            "state" : "translated",
+            "value" : "Skontrolujte svoje terapeutické nastavenia nižšie. Ak chcete upraviť niektoré z týchto nastavení, klepnite na Späť, aby ste sa vrátili na túto obrazovku."
           }
         },
         "sv" : {
@@ -21083,8 +21083,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Running"
+            "state" : "translated",
+            "value" : "Beží"
           }
         },
         "sv" : {
@@ -21345,8 +21345,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Basal Rates?"
+            "state" : "translated",
+            "value" : "Uložiť bazálne rýchlosti?"
           }
         },
         "sv" : {
@@ -21476,8 +21476,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Carb Ratios?"
+            "state" : "translated",
+            "value" : "Uložiť sacharidové pomery?"
           }
         },
         "sv" : {
@@ -21607,8 +21607,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Correction Range(s)?"
+            "state" : "translated",
+            "value" : "Uložiť korekčné rozsahy?"
           }
         },
         "sv" : {
@@ -21738,8 +21738,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Delivery Limits?"
+            "state" : "translated",
+            "value" : "Uložiť limity podávania?"
           }
         },
         "sv" : {
@@ -21869,8 +21869,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Glucose Safety Limit?"
+            "state" : "translated",
+            "value" : "Uložiť limit bezpečnej glykémie?"
           }
         },
         "sv" : {
@@ -22000,8 +22000,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Insulin Sensitivities?"
+            "state" : "translated",
+            "value" : "Uložiť inzulínovú citlivosť?"
           }
         },
         "sv" : {
@@ -22131,8 +22131,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Pre-Meal Range?"
+            "state" : "translated",
+            "value" : "Uložiť rozsah pred jedlom?"
           }
         },
         "sv" : {
@@ -22262,8 +22262,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Workout Range?"
+            "state" : "translated",
+            "value" : "Uložiť rozsah pre cvičenie?"
           }
         },
         "sv" : {
@@ -22525,8 +22525,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "SCHEDULED OVERRIDE"
+            "state" : "translated",
+            "value" : "NAPLÁNOVANÉ PREPÍSANIE"
           }
         },
         "sv" : {
@@ -22656,8 +22656,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "SCHEDULED PRESET"
+            "state" : "translated",
+            "value" : "NAPLÁNOVANÁ PREDVOĽBA"
           }
         },
         "sv" : {
@@ -22786,8 +22786,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Selected"
+            "state" : "translated",
+            "value" : "Vybraté"
           }
         },
         "sv" : {
@@ -22917,8 +22917,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slow"
+            "state" : "translated",
+            "value" : "Pomalý"
           }
         },
         "sv" : {
@@ -23048,8 +23048,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Some users choose a value 2, 3, or 4 times their highest scheduled basal rate."
+            "state" : "translated",
+            "value" : "Niektorí používatelia si zvolia hodnotu, ktorá je 2-, 3- alebo 4-násobkom ich najvyššej naplánovanej bazálnej rýchlosti."
           }
         },
         "sv" : {
@@ -23179,8 +23179,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Start Time"
+            "state" : "translated",
+            "value" : "Čas začiatku"
           }
         },
         "sv" : {
@@ -23441,8 +23441,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Submitted by %1$@, %2$@"
+            "state" : "translated",
+            "value" : "Odoslal %1$@, %2$@"
           }
         },
         "sv" : {
@@ -23572,8 +23572,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Support"
+            "state" : "translated",
+            "value" : "Podpora"
           }
         },
         "sv" : {
@@ -23964,8 +23964,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Switch Preview State"
+            "state" : "translated",
+            "value" : "Prepnúť stav náhľadu"
           }
         },
         "sv" : {
@@ -24095,7 +24095,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Symbol"
           }
         },
@@ -24226,8 +24226,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tap '+' to create a new custom preset."
+            "state" : "translated",
+            "value" : "Klepnutím na „+“ vytvorte novú vlastnú predvoľbu."
           }
         },
         "sv" : {
@@ -24356,8 +24356,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tap back to continue exploring the rest of the %@ interface."
+            "state" : "translated",
+            "value" : "Ťuknite na Späť a pokračujte v prehliadaní zvyšku rozhrania %@."
           }
         },
         "sv" : {
@@ -24618,8 +24618,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Target Range"
+            "state" : "translated",
+            "value" : "Cieľový rozsah"
           }
         },
         "sv" : {
@@ -24749,8 +24749,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
+            "state" : "translated",
+            "value" : "Dočasne znížte svoj cieľ glykémie pred jedlom, aby ste ovplyvnili zvýšenie glykémie po jedle."
           }
         },
         "sv" : {
@@ -24880,8 +24880,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
+            "state" : "translated",
+            "value" : "Dočasne zvýšte svoj cieľ glykémie pred, počas alebo po fyzickej aktivite, aby ste znížili riziko hypoglykémie."
           }
         },
         "sv" : {
@@ -25012,8 +25012,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporary Override"
+            "state" : "translated",
+            "value" : "Dočasné prepísanie"
           }
         },
         "sv" : {
@@ -25142,7 +25142,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test"
           }
         },
@@ -25273,8 +25273,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "than your Correction Range."
+            "state" : "translated",
+            "value" : "ako váš korekčný rozsah."
           }
         },
         "sv" : {
@@ -25535,8 +25535,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The legacy model used by Loop, allowing customization of action duration."
+            "state" : "translated",
+            "value" : "Pôvodný model používaný systémom Loop, ktorý umožňuje prispôsobenie trvania účinku."
           }
         },
         "sv" : {
@@ -25667,8 +25667,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The maximum absorption time is %@"
+            "state" : "translated",
+            "value" : "Maximálny čas absorpcie je %@"
           }
         },
         "sv" : {
@@ -25799,8 +25799,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The maximum allowed amount is %@ grams"
+            "state" : "translated",
+            "value" : "Maximálne povolené množstvo je %@ gramov"
           }
         },
         "sv" : {
@@ -25930,8 +25930,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The rapid-acting adult model assumes peak activity at 75 minutes."
+            "state" : "translated",
+            "value" : "Model rýchlo pôsobiaceho inzulínu pre dospelých predpokladá vrchol účinku po 75 minútach."
           }
         },
         "sv" : {
@@ -26061,8 +26061,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The rapid-acting child model assumes peak activity at 65 minutes."
+            "state" : "translated",
+            "value" : "Model rýchlo pôsobiaceho inzulínu pre deti predpokladá vrchol účinku po 65 minútach."
           }
         },
         "sv" : {
@@ -26192,8 +26192,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The schedule starts at midnight and cannot contain a rate of 0 U/hr."
+            "state" : "translated",
+            "value" : "Plán sa začína o polnoci a nemôže obsahovať dávku 0 U/h."
           }
         },
         "sv" : {
@@ -26323,8 +26323,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Therapy Settings"
+            "state" : "translated",
+            "value" : "Nastavenia liečby"
           }
         },
         "sv" : {
@@ -26454,8 +26454,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This model assumes peak insulin activity at 19 minutes."
+            "state" : "translated",
+            "value" : "Tento model predpokladá vrchol účinku inzulínu po 19 minútach."
           }
         },
         "sv" : {
@@ -26585,8 +26585,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This model assumes peak insulin activity at 55 minutes."
+            "state" : "translated",
+            "value" : "Tento model predpokladá vrchol účinku inzulínu po 55 minútach."
           }
         },
         "sv" : {
@@ -26716,8 +26716,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This model assumes peak insulin activity at 65 minutes."
+            "state" : "translated",
+            "value" : "Tento model predpokladá vrchol účinku inzulínu po 65 minútach."
           }
         },
         "sv" : {
@@ -26847,8 +26847,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This model assumes peak insulin activity at 75 minutes."
+            "state" : "translated",
+            "value" : "Tento model predpokladá vrchol účinku inzulínu po 75 minútach."
           }
         },
         "sv" : {
@@ -26977,8 +26977,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This section of the %@ app is unavailable in this simulator."
+            "state" : "translated",
+            "value" : "Táto časť aplikácie %@ nie je v tomto simulátore dostupná."
           }
         },
         "sv" : {
@@ -27108,8 +27108,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This setting will also determine a safety limit for automatic dosing. %1$@ will limit automatic delivery to keep the amount of active insulin below twice your maximum bolus."
+            "state" : "translated",
+            "value" : "Toto nastavenie tiež určí bezpečnostný limit pre automatické dávkovanie. %1$@ obmedzí automatické podávanie tak, aby množstvo aktívneho inzulínu neprekročilo dvojnásobok vášho maximálneho bolusu."
           }
         },
         "sv" : {
@@ -27239,8 +27239,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This will typically be"
+            "state" : "translated",
+            "value" : "Toto bude zvyčajne"
           }
         },
         "sv" : {
@@ -27501,8 +27501,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Times in %1$@%2$@%3$@"
+            "state" : "translated",
+            "value" : "Časy v %1$@%2$@%3$@"
           }
         },
         "sv" : {
@@ -27631,8 +27631,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To be implemented"
+            "state" : "translated",
+            "value" : "Bude implementované"
           }
         },
         "sv" : {
@@ -28025,8 +28025,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "U/hour"
+            "state" : "translated",
+            "value" : "J/hodina"
           }
         },
         "sv" : {
@@ -28156,8 +28156,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to Save"
+            "state" : "translated",
+            "value" : "Nie je možné uložiť"
           }
         },
         "sv" : {
@@ -28549,8 +28549,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unselected"
+            "state" : "translated",
+            "value" : "Nevybrané"
           }
         },
         "sv" : {
@@ -28810,8 +28810,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unsupported %@"
+            "state" : "translated",
+            "value" : "Nepodporované %@"
           }
         },
         "sv" : {
@@ -29072,8 +29072,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Verifying"
+            "state" : "translated",
+            "value" : "Overovanie"
           }
         },
         "sv" : {
@@ -29203,8 +29203,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "View Override"
+            "state" : "translated",
+            "value" : "Zobraziť prepísanie"
           }
         },
         "sv" : {
@@ -29334,7 +29334,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Walsh"
           }
         },
@@ -29597,8 +29597,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable."
+            "state" : "translated",
+            "value" : "Spolu so svojím zdravotníkom vyberte hodnotu, ktorá je vyššia ako vaša najvyššia naplánovaná bazálna dávka, ale zároveň je konzervatívna alebo agresívna podľa toho, čo vám vyhovuje."
           }
         },
         "sv" : {
@@ -29859,8 +29859,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Workout Range is the glucose value or range of values you want %1$@ to target during activity. This range will be in effect when you activate the Workout Preset button."
+            "state" : "translated",
+            "value" : "Rozsah pri cvičení je hodnota glykémie alebo rozsah hodnôt, na ktoré má %1$@ cieliť počas aktivity. Tento rozsah bude aktívny, keď aktivujete tlačidlo prednastavenia pri cvičení."
           }
         },
         "sv" : {
@@ -29990,8 +29990,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Workout Values"
+            "state" : "translated",
+            "value" : "Hodnoty pri cvičení"
           }
         },
         "sv" : {
@@ -30121,8 +30121,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can add different carb ratios for different times of day by using the ➕."
+            "state" : "translated",
+            "value" : "Pomocou ➕ môžete pridať rôzne pomery sacharidov pre rôzne denné časy."
           }
         },
         "sv" : {
@@ -30252,8 +30252,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can add different insulin sensitivities for different times of day by using the ➕."
+            "state" : "translated",
+            "value" : "Pomocou ➕ môžete pridať rôznu citlivosť na inzulín pre rôzne denné časy."
           }
         },
         "sv" : {
@@ -30383,8 +30383,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can add different ranges for different times of day by using the ➕."
+            "state" : "translated",
+            "value" : "Pomocou ➕ môžete pridať rôzne rozsahy pre rôzne denné časy."
           }
         },
         "sv" : {
@@ -30514,8 +30514,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can add entries for different times of day by using the ➕."
+            "state" : "translated",
+            "value" : "Pomocou ➕ môžete pridať položky pre rôzne denné časy."
           }
         },
         "sv" : {
@@ -30645,8 +30645,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can choose how %1$@ measures rapid acting insulin's peak activity according to one of these two insulin models."
+            "state" : "translated",
+            "value" : "Môžete si zvoliť, ako %1$@ meria vrcholovú aktivitu rýchlo účinkujúceho inzulínu podľa jedného z týchto dvoch modelov inzulínu."
           }
         },
         "sv" : {
@@ -30776,8 +30776,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can edit a setting by tapping into any line item."
+            "state" : "translated",
+            "value" : "Nastavenie môžete upraviť klepnutím na ktorúkoľvek položku v riadku."
           }
         },
         "sv" : {
@@ -30907,8 +30907,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can edit the setting by tapping into the line item."
+            "state" : "translated",
+            "value" : "Nastavenie môžete upraviť klepnutím na položku v riadku."
           }
         },
         "sv" : {
@@ -31169,8 +31169,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "your Glucose Safety Limit"
+            "state" : "translated",
+            "value" : "vaša hranica bezpečnej glykémie"
           }
         },
         "sv" : {
@@ -31300,8 +31300,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your healthcare provider can help you choose a Correction Range that's right for you."
+            "state" : "translated",
+            "value" : "Váš zdravotník vám môže pomôcť vybrať rozsah korekcie, ktorý je pre vás vhodný."
           }
         },
         "sv" : {
@@ -31431,8 +31431,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin."
+            "state" : "translated",
+            "value" : "Váš faktor citlivosti na inzulín (ISF) je pokles glykémie, ktorý sa očakáva po jednej jednotke inzulínu."
           }
         },
         "sv" : {
@@ -31562,8 +31562,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button."
+            "state" : "translated",
+            "value" : "Váš rozsah pred jedlom by mal predstavovať hodnotu glykémie (alebo rozsah hodnôt), na ktorú má %1$@ cieliť v čase, keď si vezmete prvé sústo jedla. Tento rozsah bude aktívny, keď aktivujete tlačidlo prednastavenia pred jedlom."
           }
         },
         "sv" : {
