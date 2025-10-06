@@ -114,7 +114,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@"
           }
         },
@@ -226,8 +226,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+            "state" : "translated",
+            "value" : "%@ nedokázala komunikovať so simulátorom pumpy od %@. \n\nBez komunikácie aplikácia nemôže pokračovať v odosielaní príkazov na podanie inzulínu ani zobrazovať presné a aktuálne informácie o vašom aktívnom inzulíne alebo o inzulíne, ktorý sa podáva."
           }
         },
         "sv" : {
@@ -250,8 +250,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+            "state" : "translated",
+            "value" : "%@ không thể liên lạc với Pump mô phỏng kể từ %@.\n\nKhông có kết nối, ứng dụng sẽ không thể tiếp tục gửi lệnh bơm insulin hoặc hiển thị chính xác, kịp thời thông tin về lượng insulin đang hoạt động hoặc đang được tiêm."
           }
         },
         "zh-Hans" : {
@@ -618,7 +618,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld"
           }
         },
@@ -636,7 +636,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld"
           }
         },
@@ -748,7 +748,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "2"
           }
         },
@@ -772,7 +772,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "2"
           }
         },
@@ -878,7 +878,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "5"
           }
         },
@@ -902,7 +902,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "5"
           }
         },
@@ -1008,7 +1008,7 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "50+"
           }
         },
@@ -1032,7 +1032,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "50+"
           }
         },
@@ -1139,8 +1139,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+            "state" : "translated",
+            "value" : "Na pokračovanie v používaní aplikácie %1$@ sa odporúča aktualizácia softvéru. \n\nPrejdite do %2$@ Nastavenia > Aktualizácia softvéru a nainštalujte najnovšiu verziu."
           }
         },
         "sv" : {
@@ -1163,8 +1163,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+            "state" : "translated",
+            "value" : "Khuyến nghị cập nhật phần mềm để tiếp tục sử dụng ứng dụng %1$@.\n\nVào Cài đặt %2$@ > Cập nhật phần mềm để cài đặt phiên bản mới nhất."
           }
         },
         "zh-Hans" : {
@@ -1794,8 +1794,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Settings"
+            "state" : "translated",
+            "value" : "Nastavenie CGM"
           }
         },
         "sv" : {
@@ -1818,8 +1818,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Settings"
+            "state" : "translated",
+            "value" : "Cài đặt CGM"
           }
         },
         "zh-Hans" : {
@@ -1924,8 +1924,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Simulator"
+            "state" : "translated",
+            "value" : "Simulátor CGM"
           }
         },
         "sv" : {
@@ -1948,8 +1948,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Simulator"
+            "state" : "translated",
+            "value" : "CGM mô phỏng"
           }
         },
         "zh-Hans" : {
@@ -2054,8 +2054,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Last Version Check Alert Date"
+            "state" : "translated",
+            "value" : "Vymazať dátum poslednej kontroly verzie"
           }
         },
         "sv" : {
@@ -2078,8 +2078,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Last Version Check Alert Date"
+            "state" : "translated",
+            "value" : "Xóa ngày cảnh báo lần kiểm tra phiên bản gần nhất"
           }
         },
         "zh-Hans" : {
@@ -2184,8 +2184,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Comms Recovery"
+            "state" : "translated",
+            "value" : "Obnova komunikácie"
           }
         },
         "sv" : {
@@ -2208,8 +2208,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Comms Recovery"
+            "state" : "translated",
+            "value" : "Khôi phục kết nối"
           }
         },
         "zh-Hans" : {
@@ -3098,8 +3098,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
+            "state" : "translated",
+            "value" : "Odhadovaná hodnota"
           }
         },
         "sv" : {
@@ -3122,8 +3122,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
+            "state" : "translated",
+            "value" : "Giá trị ước tính"
           }
         },
         "zh-Hans" : {
@@ -3488,8 +3488,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your CGM"
+            "state" : "translated",
+            "value" : "Získať pomoc s vaším CGM"
           }
         },
         "sv" : {
@@ -3512,8 +3512,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your CGM"
+            "state" : "translated",
+            "value" : "Trợ giúp với CGM của bạn"
           }
         },
         "zh-Hans" : {
@@ -3618,8 +3618,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your pump"
+            "state" : "translated",
+            "value" : "Ziskať pomoc s vašou pumpou"
           }
         },
         "sv" : {
@@ -3642,8 +3642,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your pump"
+            "state" : "translated",
+            "value" : "Trợ giúp với Pump của bạn"
           }
         },
         "zh-Hans" : {
@@ -3879,8 +3879,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "How should the simulator respond to a version check?"
+            "state" : "translated",
+            "value" : "Ako má simulátor reagovať na kontrolu verzie?"
           }
         },
         "sv" : {
@@ -3903,8 +3903,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "How should the simulator respond to a version check?"
+            "state" : "translated",
+            "value" : "Trình mô phỏng nên phản hồi thế nào khi kiểm tra phiên bản?"
           }
         },
         "zh-Hans" : {
@@ -4270,8 +4270,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin%@Remaining"
+            "state" : "translated",
+            "value" : "Zostávajúci inzulín%@"
           }
         },
         "sv" : {
@@ -4294,8 +4294,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin%@Remaining"
+            "state" : "translated",
+            "value" : "Insulin%@Còn lại"
           }
         },
         "zh-Hans" : {
@@ -4660,8 +4660,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
+            "state" : "translated",
+            "value" : "Testovacia kontrola verzie %@"
           }
         },
         "sv" : {
@@ -4684,8 +4684,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
+            "state" : "translated",
+            "value" : "Kiểm tra phiên bản mô phỏng %@"
           }
         },
         "zh-Hans" : {
@@ -4790,8 +4790,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No\nDelivery"
+            "state" : "translated",
+            "value" : "Žiadne podávanie"
           }
         },
         "sv" : {
@@ -5181,8 +5181,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump expires in "
+            "state" : "translated",
+            "value" : "Platnosť pumpy skončí o "
           }
         },
         "sv" : {
@@ -5205,8 +5205,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump expires in "
+            "state" : "translated",
+            "value" : "Pump hết hạn trong "
           }
         },
         "zh-Hans" : {
@@ -5312,8 +5312,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recover Simulator"
+            "state" : "translated",
+            "value" : "Obnoviť simulátor"
           }
         },
         "sv" : {
@@ -5336,8 +5336,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recover Simulator"
+            "state" : "translated",
+            "value" : "Khôi phục trình mô phỏng"
           }
         },
         "zh-Hans" : {
@@ -5442,8 +5442,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace Pump"
+            "state" : "translated",
+            "value" : "Vymeniť pumpu"
           }
         },
         "sv" : {
@@ -5466,8 +5466,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace Pump"
+            "state" : "translated",
+            "value" : "Thay Pump"
           }
         },
         "zh-Hans" : {
@@ -5572,8 +5572,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scheduled%@Basal"
+            "state" : "translated",
+            "value" : "Naplánovaný%@bazál"
           }
         },
         "sv" : {
@@ -5596,8 +5596,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scheduled%@Basal"
+            "state" : "translated",
+            "value" : "Basal%@đã lên lịch"
           }
         },
         "zh-Hans" : {
@@ -5702,8 +5702,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
+            "state" : "translated",
+            "value" : "Exspirácia senzora "
           }
         },
         "sv" : {
@@ -5726,8 +5726,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
+            "state" : "translated",
+            "value" : "Cảm biến sẽ hết hạn sau "
           }
         },
         "zh-Hans" : {
@@ -5832,8 +5832,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
+            "state" : "translated",
+            "value" : "Nastavenia simulátora"
           }
         },
         "sv" : {
@@ -5856,8 +5856,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
+            "state" : "translated",
+            "value" : "Cài đặt mô phỏng"
           }
         },
         "zh-Hans" : {
@@ -5963,8 +5963,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Source"
+            "state" : "translated",
+            "value" : "Zdroj"
           }
         },
         "sv" : {
@@ -5987,8 +5987,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Source"
+            "state" : "translated",
+            "value" : "Nguồn"
           }
         },
         "zh-Hans" : {
@@ -6093,8 +6093,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop Sensor"
+            "state" : "translated",
+            "value" : "Zastaviť senzor"
           }
         },
         "sv" : {
@@ -6117,8 +6117,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop Sensor"
+            "state" : "translated",
+            "value" : "Dừng cảm biến"
           }
         },
         "zh-Hans" : {
@@ -6354,8 +6354,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporary%@Basal"
+            "state" : "translated",
+            "value" : "Dočasný%@bazál"
           }
         },
         "sv" : {
@@ -6378,7 +6378,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Temporary%@Basal"
           }
         },
@@ -6485,8 +6485,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Update Reminder"
+            "state" : "translated",
+            "value" : "Pripomienka aktualizácie"
           }
         },
         "sv" : {
@@ -6509,8 +6509,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Update Reminder"
+            "state" : "translated",
+            "value" : "Nhắc nhở cập nhật"
           }
         },
         "zh-Hans" : {
@@ -6615,8 +6615,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Version Check Response"
+            "state" : "translated",
+            "value" : "Odpoveď kontroly verzie"
           }
         },
         "sv" : {
@@ -6639,8 +6639,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Version Check Response"
+            "state" : "translated",
+            "value" : "Phản hồi kiểm tra phiên bản"
           }
         },
         "zh-Hans" : {
@@ -6751,8 +6751,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+            "state" : "translated",
+            "value" : "aktualizácia verzie: %1$@ \nbundleIdentifier: %2$@ \naktuálna verzia: %3$@"
           }
         },
         "sv" : {
@@ -6775,8 +6775,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+            "state" : "translated",
+            "value" : "cập nhật phiên bản: %1$@\n\nMã gói (bundleIdentifier): %2$@\n\nPhiên bản hiện tại: %3$@"
           }
         },
         "zh-Hans" : {
@@ -6882,8 +6882,8 @@
         },
         "sk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+            "state" : "translated",
+            "value" : "Vaša aplikácia %1$@ je neaktuálna. Bude naďalej fungovať, ale odporúčame ju aktualizovať na najnovšiu verziu. \nPrejdite do %2$@ Nastavenia > Aktualizácia softvéru a dokončite proces."
           }
         },
         "sv" : {
@@ -6906,8 +6906,8 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+            "state" : "translated",
+            "value" : "Ứng dụng %1$@ của bạn đã lỗi thời. Ứng dụng vẫn sẽ hoạt động, nhưng chúng tôi khuyến nghị cập nhật lên phiên bản mới nhất.\n\nVào Cài đặt %2$@ > Cập nhật phần mềm để hoàn tất."
           }
         },
         "zh-Hans" : {
