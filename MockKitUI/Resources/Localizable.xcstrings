@@ -4808,8 +4808,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No\nDelivery"
+            "state" : "translated",
+            "value" : "Без\nПодачі"
           }
         },
         "vi" : {
