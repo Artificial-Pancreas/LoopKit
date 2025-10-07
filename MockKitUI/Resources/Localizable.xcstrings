@@ -244,8 +244,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+            "state" : "translated",
+            "value" : "%@ не може зв'язатися з помпою-симулятором з %@."
           }
         },
         "vi" : {
@@ -766,7 +766,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "2"
           }
         },
@@ -896,7 +896,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "5"
           }
         },
@@ -1026,7 +1026,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "50+"
           }
         },
@@ -1157,8 +1157,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+            "state" : "translated",
+            "value" : "Для продовження використання програми %1$@ рекомендується оновити програмне забезпечення. \nПерейдіть до %2$@ Налаштування > Оновлення програмного забезпечення, щоб встановити останню версію."
           }
         },
         "vi" : {
@@ -1812,8 +1812,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Settings"
+            "state" : "translated",
+            "value" : "Налаштування CGM (сенсору)"
           }
         },
         "vi" : {
@@ -1942,8 +1942,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Simulator"
+            "state" : "translated",
+            "value" : "Симулятор CGM (сенсору)"
           }
         },
         "vi" : {
@@ -2072,8 +2072,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Last Version Check Alert Date"
+            "state" : "translated",
+            "value" : "Очистити дату сповіщення перевірки останньої версії"
           }
         },
         "vi" : {
@@ -2202,8 +2202,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Comms Recovery"
+            "state" : "translated",
+            "value" : "Відновлення зв'язку"
           }
         },
         "vi" : {
@@ -3116,8 +3116,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
+            "state" : "translated",
+            "value" : "Орієнтовне значення"
           }
         },
         "vi" : {
@@ -3506,8 +3506,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your CGM"
+            "state" : "translated",
+            "value" : "Отримайте допомогу з вашим CGM (сенсором)"
           }
         },
         "vi" : {
@@ -3636,8 +3636,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your pump"
+            "state" : "translated",
+            "value" : "Отримайте допомогу з вашою помпою"
           }
         },
         "vi" : {
@@ -3897,8 +3897,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "How should the simulator respond to a version check?"
+            "state" : "translated",
+            "value" : "Як симулятор повинен реагувати на перевірку версії?"
           }
         },
         "vi" : {
@@ -4027,8 +4027,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin\nSuspended"
+            "state" : "translated",
+            "value" : "Інсулін\nПризупинено"
           }
         },
         "vi" : {
@@ -4288,8 +4288,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin%@Remaining"
+            "state" : "translated",
+            "value" : "Залишок %@ Інсуліну"
           }
         },
         "vi" : {
@@ -4678,8 +4678,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
+            "state" : "translated",
+            "value" : "Перевірка пробної версії %@"
           }
         },
         "vi" : {
@@ -5199,8 +5199,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump expires in "
+            "state" : "translated",
+            "value" : "Помпа закінчується через"
           }
         },
         "vi" : {
@@ -5330,8 +5330,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recover Simulator"
+            "state" : "translated",
+            "value" : "Симулятор відновлення"
           }
         },
         "vi" : {
@@ -5460,8 +5460,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace Pump"
+            "state" : "translated",
+            "value" : "Замінити помпу"
           }
         },
         "vi" : {
@@ -5590,8 +5590,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scheduled%@Basal"
+            "state" : "translated",
+            "value" : "Запланована%@Базальна швидкість"
           }
         },
         "vi" : {
@@ -5850,8 +5850,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
+            "state" : "translated",
+            "value" : "Налаштування симулятора"
           }
         },
         "vi" : {
@@ -5981,8 +5981,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Source"
+            "state" : "translated",
+            "value" : "Джерело"
           }
         },
         "vi" : {
@@ -6111,8 +6111,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop Sensor"
+            "state" : "translated",
+            "value" : "Зупинити сенсор"
           }
         },
         "vi" : {
@@ -6372,8 +6372,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporary%@Basal"
+            "state" : "translated",
+            "value" : "Тимчасова%@Базальна Швидкість"
           }
         },
         "vi" : {
@@ -6503,8 +6503,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Update Reminder"
+            "state" : "translated",
+            "value" : "Нагадування про оновлення"
           }
         },
         "vi" : {
@@ -6633,8 +6633,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Version Check Response"
+            "state" : "translated",
+            "value" : "Відповідь на перевірку версії"
           }
         },
         "vi" : {
@@ -6769,8 +6769,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+            "state" : "translated",
+            "value" : "Оновлення версії: %1$@\n\nІдентифікатор пакета: %2$@\n\nПоточна версія: %3$@"
           }
         },
         "vi" : {
@@ -6900,8 +6900,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+            "state" : "translated",
+            "value" : "Ваша програма %1$@ застаріла. Вона продовжуватиме працювати, але ми рекомендуємо оновити її до останньої версії.\n\nПерейдіть до розділу %2$@ Налаштування > Оновлення програмного забезпечення, щоб завершити."
           }
         },
         "vi" : {

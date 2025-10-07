@@ -3905,8 +3905,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A Correction Range is different. This will be a narrower range."
+            "state" : "translated",
+            "value" : "Діапазон корекції відрізняється. Це буде вужчий діапазон."
           }
         },
         "vi" : {
@@ -4036,8 +4036,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A value of 0 U/hr means you will be scheduled to receive no basal insulin."
+            "state" : "translated",
+            "value" : "Значення 0 U/год означає, що вам не буде введено базального інсуліну."
           }
         },
         "vi" : {
@@ -4167,8 +4167,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Absorption Time"
+            "state" : "translated",
+            "value" : "Час поглинання"
           }
         },
         "vi" : {
@@ -4298,8 +4298,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Active Duration"
+            "state" : "translated",
+            "value" : "Активна тривалість"
           }
         },
         "vi" : {
@@ -4691,8 +4691,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add Account"
+            "state" : "translated",
+            "value" : "Додати обліковий запис"
           }
         },
         "vi" : {
@@ -4823,8 +4823,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add Carb Entry"
+            "state" : "translated",
+            "value" : "Додати запис вуглеводів"
           }
         },
         "vi" : {
@@ -5085,8 +5085,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to delete all history entries?"
+            "state" : "translated",
+            "value" : "Ви впевнені, що хочете видалити всі записи історії?"
           }
         },
         "vi" : {
@@ -5216,8 +5216,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Are you sure you want to delete all reservoir values?"
+            "state" : "translated",
+            "value" : "Ви дійсно бажаєте видалити всі записи резервуарів?"
           }
         },
         "vi" : {
@@ -5347,8 +5347,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Authenticate to save therapy setting"
+            "state" : "translated",
+            "value" : "Автентифікація для збереження налаштувань терапії"
           }
         },
         "vi" : {
@@ -5740,8 +5740,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal, bolus, and correction insulin dose amounts are decreased by %@%%."
+            "state" : "translated",
+            "value" : "Дози базального, болюсного та коригуючого інсуліну зменшуються на %@%%."
           }
         },
         "vi" : {
@@ -5871,8 +5871,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal, bolus, and correction insulin dose amounts are increased by %@%%."
+            "state" : "translated",
+            "value" : "Дози базального, болюсного та коригуючого інсуліну збільшуються на %@%%."
           }
         },
         "vi" : {
@@ -6002,8 +6002,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal, bolus, and correction insulin dose amounts are unaffected."
+            "state" : "translated",
+            "value" : "Дози базального, болюсного та коригуючого інсуліну залишаються незмінними."
           }
         },
         "vi" : {
@@ -6659,8 +6659,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Changes will only apply this time you enable the override. The default settings of %@ will not be affected."
+            "state" : "translated",
+            "value" : "Зміни будуть застосовані лише цього разу, коли ви ввімкнете перевизначення. Налаштування за замовчуванням %@ залишаться незмінними."
           }
         },
         "vi" : {
@@ -6790,8 +6790,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Changes will only apply this time you enable the preset. The default settings of %@ will not be affected."
+            "state" : "translated",
+            "value" : "Зміни будуть застосовані лише цього разу, коли ви ввімкнете пресет. Налаштування за замовчуванням %@ залишаться в силі."
           }
         },
         "vi" : {
@@ -6922,8 +6922,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact."
+            "state" : "translated",
+            "value" : "Оберіть довший час засвоєння для більших страв або тих, що містять жири та білки. Це лише рекомендація до алгоритму і не обов'язково має бути точним."
           }
         },
         "vi" : {
@@ -7185,7 +7185,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "com.loudnate.CarbKit.COBDateLabel"
           }
         },
@@ -7317,7 +7317,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "com.loudnate.CarbKit.totalDateLabel"
           }
         },
@@ -7455,8 +7455,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "at %1$@"
+            "state" : "translated",
+            "value" : "о %1$@"
           }
         },
         "vi" : {
@@ -7593,8 +7593,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "since %1$@"
+            "state" : "translated",
+            "value" : "з %1$@"
           }
         },
         "vi" : {
@@ -7862,8 +7862,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Completed."
+            "state" : "translated",
+            "value" : "Завершено."
           }
         },
         "vi" : {
@@ -7993,8 +7993,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Condition"
+            "state" : "translated",
+            "value" : "Стан"
           }
         },
         "vi" : {
@@ -8124,8 +8124,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Confirm Setting"
+            "state" : "translated",
+            "value" : "Підтвердити налаштування"
           }
         },
         "vi" : {
@@ -8386,8 +8386,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correct the highlighted unsupported value(s)."
+            "state" : "translated",
+            "value" : "Виправте виділені непідтримувані значення."
           }
         },
         "vi" : {
@@ -8517,8 +8517,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correction range is the blood glucose range that you would like Loop to correct to."
+            "state" : "translated",
+            "value" : "Діапазон корекції – це діапазон рівня глюкози в крові, до якого має вплинути корекція за допомогою Loop."
           }
         },
         "vi" : {
@@ -8648,8 +8648,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Correction Values"
+            "state" : "translated",
+            "value" : "Діапазон корекції"
           }
         },
         "vi" : {
@@ -8910,8 +8910,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom Override"
+            "state" : "translated",
+            "value" : "Налаштоване ручне управління"
           }
         },
         "vi" : {
@@ -9041,8 +9041,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Custom Preset"
+            "state" : "translated",
+            "value" : "Користувацькі пресетні налаштування"
           }
         },
         "vi" : {
@@ -9436,8 +9436,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete Account"
+            "state" : "translated",
+            "value" : "Видалити обліковий запис"
           }
         },
         "vi" : {
@@ -9567,8 +9567,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete All"
+            "state" : "translated",
+            "value" : "Видалити все"
           }
         },
         "vi" : {
@@ -9829,8 +9829,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delivery Limits are safety guardrails for your insulin delivery."
+            "state" : "translated",
+            "value" : "Ліміти введення – це запобіжні заходи для введення інсуліну."
           }
         },
         "vi" : {
@@ -9960,8 +9960,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disable Preset"
+            "state" : "translated",
+            "value" : "Вимкнути пресет"
           }
         },
         "vi" : {
@@ -10353,8 +10353,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit"
+            "state" : "translated",
+            "value" : "Редагувати"
           }
         },
         "vi" : {
@@ -10485,8 +10485,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Carb Entry"
+            "state" : "translated",
+            "value" : "Редагувати запис вуглеводів"
           }
         },
         "vi" : {
@@ -10617,8 +10617,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Override"
+            "state" : "translated",
+            "value" : "Редагувати ручний контроль"
           }
         },
         "vi" : {
@@ -10749,8 +10749,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Editing affects only the active override. The default settings of %@ will not be affected."
+            "state" : "translated",
+            "value" : "Редагування впливає лише на активне перевизначення. Налаштування за замовчуванням %@ залишаться незмінними."
           }
         },
         "vi" : {
@@ -10880,8 +10880,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edits persist only until the preset is disabled. The default settings of %@ will not be affected."
+            "state" : "translated",
+            "value" : "Редагування зберігаються лише до вимкнення пресету. Налаштування за замовчуванням %@ залишаться в силі."
           }
         },
         "vi" : {
@@ -11142,8 +11142,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable Indefinitely"
+            "state" : "translated",
+            "value" : "Увімкнути безстроково"
           }
         },
         "vi" : {
@@ -11404,8 +11404,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "End Time"
+            "state" : "translated",
+            "value" : "Час завершення"
           }
         },
         "vi" : {
@@ -11535,8 +11535,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter %1$@ value"
+            "state" : "translated",
+            "value" : "Введіть значення %1$@"
           }
         },
         "vi" : {
@@ -11667,8 +11667,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter a number of units"
+            "state" : "translated",
+            "value" : "Введіть кількість одиниць"
           }
         },
         "vi" : {
@@ -11799,8 +11799,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enter a rate in units per hour"
+            "state" : "translated",
+            "value" : "Введіть тариф в одиницях за годину"
           }
         },
         "vi" : {
@@ -12061,8 +12061,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fast"
+            "state" : "translated",
+            "value" : "Швидкий"
           }
         },
         "vi" : {
@@ -12322,8 +12322,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Food Type"
+            "state" : "translated",
+            "value" : "Тип Їжі"
           }
         },
         "vi" : {
@@ -12453,8 +12453,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from %2$@ different models for how the app measures the insulin’s peak activity."
+            "state" : "translated",
+            "value" : "Для швидкодіючого інсуліну %1$@ припускається, що він активно працює протягом 6 годин. Ви можете вибрати одну з %2$@ різних моделей, як додаток вимірює пікову активність інсуліну."
           }
         },
         "vi" : {
@@ -12584,8 +12584,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For this range, choose the specific glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin."
+            "state" : "translated",
+            "value" : "Для цього діапазону виберіть конкретне значення глюкози (або діапазон значень), до якого ви хочете %1$@ прагнути під час коригування базального інсуліну."
           }
         },
         "vi" : {
@@ -12715,8 +12715,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with Therapy Settings"
+            "state" : "translated",
+            "value" : "Отримайте допомогу з налаштуваннями терапії"
           }
         },
         "vi" : {
@@ -12846,8 +12846,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Go Back"
+            "state" : "translated",
+            "value" : "Повернутися"
           }
         },
         "vi" : {
@@ -12977,8 +12977,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Basal Rate"
+            "state" : "translated",
+            "value" : "Висока базальна доза"
           }
         },
         "vi" : {
@@ -13108,8 +13108,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Carb Ratio"
+            "state" : "translated",
+            "value" : "Високий коефіцієнт вуглеводів"
           }
         },
         "vi" : {
@@ -13239,8 +13239,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Correction Value"
+            "state" : "translated",
+            "value" : "Високе значення корекції"
           }
         },
         "vi" : {
@@ -13370,8 +13370,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Glucose Safety Limit"
+            "state" : "translated",
+            "value" : "Висока безпечна межа глюкози (BG)"
           }
         },
         "vi" : {
@@ -13501,8 +13501,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Insulin Sensitivity"
+            "state" : "translated",
+            "value" : "Висока чутливість до інсуліну"
           }
         },
         "vi" : {
@@ -13632,8 +13632,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Maximum Basal Rate"
+            "state" : "translated",
+            "value" : "Висока максимальна базальна швидкість"
           }
         },
         "vi" : {
@@ -13763,8 +13763,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Maximum Bolus"
+            "state" : "translated",
+            "value" : "Високий максимальний болюс"
           }
         },
         "vi" : {
@@ -13894,8 +13894,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Pre-Meal Value"
+            "state" : "translated",
+            "value" : "Висока цінність перед їжею"
           }
         },
         "vi" : {
@@ -14025,8 +14025,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Workout Value"
+            "state" : "translated",
+            "value" : "Висока цінність тренування"
           }
         },
         "vi" : {
@@ -14287,8 +14287,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If these settings look good to you, tap Save Settings to continue."
+            "state" : "translated",
+            "value" : "Якщо ці налаштування вас влаштовують, натисніть «Зберегти налаштування», щоб продовжити."
           }
         },
         "vi" : {
@@ -14418,8 +14418,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If you've used a CGM before, you're likely familiar with target range as a wide range of values you'd like for your glucose notification alerts, such as 70-180 mg/dL or 90-200 mg/dL."
+            "state" : "translated",
+            "value" : "Якщо ви раніше використовували CGM (неконтрольований моніторинг рівня глюкози (BG)), ви, ймовірно, знайомі з цільовим діапазоном як широким діапазоном значень, які ви хочете бачити в сповіщеннях про рівень глюкози (BG), наприклад, 70-180 mg/dL або 90-200 mg/dL."
           }
         },
         "vi" : {
@@ -14548,8 +14548,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "info"
+            "state" : "translated",
+            "value" : "інформація"
           }
         },
         "vi" : {
@@ -14941,8 +14941,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose."
+            "state" : "translated",
+            "value" : "Чутливість до інсуліну описує, як рівень глюкози в крові має реагувати на дозу інсуліну в 1 U (одиницю). Менші значення означають, що буде введено більше інсуліну, коли рівень перевищує цільовий. Занадто малі значення можуть призвести до небезпечно низького рівня глюкози в крові."
           }
         },
         "vi" : {
@@ -15072,8 +15072,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Interrupted %1$@: <b>%2$@</b> of %3$@ %4$@"
+            "state" : "translated",
+            "value" : "Перервано %1$@: <b>%2$@</b> з %3$@ %4$@"
           }
         },
         "vi" : {
@@ -15203,8 +15203,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "It can be set as low as %1$@. It can be set as high as %2$@."
+            "state" : "translated",
+            "value" : "Його можна встановити як низький рівень %1$@. Його можна встановити як високий рівень %2$@."
           }
         },
         "vi" : {
@@ -15334,8 +15334,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Basal Rate"
+            "state" : "translated",
+            "value" : "Низька базальна швидкість"
           }
         },
         "vi" : {
@@ -15465,8 +15465,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Carb Ratio"
+            "state" : "translated",
+            "value" : "Низьке співвідношення вуглеводів"
           }
         },
         "vi" : {
@@ -15596,8 +15596,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Correction Value"
+            "state" : "translated",
+            "value" : "Низьке значення корекції"
           }
         },
         "vi" : {
@@ -15727,8 +15727,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Glucose Safety Limit"
+            "state" : "translated",
+            "value" : "Низький безпечний ліміт глюкози (BG)"
           }
         },
         "vi" : {
@@ -15858,8 +15858,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Insulin Sensitivity"
+            "state" : "translated",
+            "value" : "Низька чутливість до інсуліну"
           }
         },
         "vi" : {
@@ -15989,8 +15989,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Maximum Basal Rate"
+            "state" : "translated",
+            "value" : "Низька максимальна базальна швидкість"
           }
         },
         "vi" : {
@@ -16120,8 +16120,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Maximum Bolus"
+            "state" : "translated",
+            "value" : "Низький максимальний болюс"
           }
         },
         "vi" : {
@@ -16251,8 +16251,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Pre-Meal Value"
+            "state" : "translated",
+            "value" : "Низька цінність перед їжею"
           }
         },
         "vi" : {
@@ -16382,8 +16382,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Workout Value"
+            "state" : "translated",
+            "value" : "Низька цінність тренування"
           }
         },
         "vi" : {
@@ -16644,8 +16644,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "max"
+            "state" : "translated",
+            "value" : "максимум"
           }
         },
         "vi" : {
@@ -16907,8 +16907,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Basal Rate is the maximum automatically adjusted basal rate that %1$@ is allowed to enact to help reach your correction range."
+            "state" : "translated",
+            "value" : "Максимальна базальна швидкість – це максимальна автоматично налаштована базальна швидкість, яку може використовувати %1$@ для досягнення діапазону корекції."
           }
         },
         "vi" : {
@@ -17170,8 +17170,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Maximum Bolus is the highest bolus amount that you will allow %1$@ to recommend at one time to cover carbs or bring down high glucose."
+            "state" : "translated",
+            "value" : "Максимальний болюс – це найбільша кількість болюса, яку ви можете рекомендувати %1$@ за один раз для покриття вуглеводів або зниження високого рівня глюкози (BG)."
           }
         },
         "vi" : {
@@ -17563,8 +17563,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "More Info"
+            "state" : "translated",
+            "value" : "Більше інформації"
           }
         },
         "vi" : {
@@ -17825,8 +17825,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Entry"
+            "state" : "translated",
+            "value" : "Новий запис"
           }
         },
         "vi" : {
@@ -17956,8 +17956,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Preset"
+            "state" : "translated",
+            "value" : "Новий набір налаштувань"
           }
         },
         "vi" : {
@@ -18087,8 +18087,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Basal Insulin"
+            "state" : "translated",
+            "value" : "Без базального інсуліну"
           }
         },
         "vi" : {
@@ -18217,8 +18217,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Nothing to See Here!"
+            "state" : "translated",
+            "value" : "Тут нічого дивитися!"
           }
         },
         "vi" : {
@@ -18479,8 +18479,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Overall Insulin Needs"
+            "state" : "translated",
+            "value" : "Загальна потреба в інсуліні"
           }
         },
         "vi" : {
@@ -18610,8 +18610,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Override History"
+            "state" : "translated",
+            "value" : "Історія заміни"
           }
         },
         "vi" : {
@@ -18742,8 +18742,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Override Presets"
+            "state" : "translated",
+            "value" : "Змінити Параметри"
           }
         },
         "vi" : {
@@ -18874,8 +18874,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Override presets can be set up under the 'Configuration' section of the settings screen."
+            "state" : "translated",
+            "value" : "Зміни параметрів можно задавати в разділі “Конфігурація” экрану налаштувань."
           }
         },
         "vi" : {
@@ -19267,8 +19267,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pre-Meal Values"
+            "state" : "translated",
+            "value" : "Значення перед їжею"
           }
         },
         "vi" : {
@@ -19398,8 +19398,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Prescription"
+            "state" : "translated",
+            "value" : "Рецепт"
           }
         },
         "vi" : {
@@ -19529,8 +19529,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "PRESETS"
+            "state" : "translated",
+            "value" : "ПОПЕРЕДНІ НАЛАШТУВАННЯ"
           }
         },
         "vi" : {
@@ -19660,8 +19660,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Progressing."
+            "state" : "translated",
+            "value" : "Прогресує."
           }
         },
         "vi" : {
@@ -19791,8 +19791,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Event"
+            "state" : "translated",
+            "value" : "Подія Помпи"
           }
         },
         "vi" : {
@@ -19922,8 +19922,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Inoperable"
+            "state" : "translated",
+            "value" : "Помпа непрацездата"
           }
         },
         "vi" : {
@@ -20053,8 +20053,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rapid-Acting – Adults"
+            "state" : "translated",
+            "value" : "Швидкодіючий (Rapid-Acting) – Дорослі"
           }
         },
         "vi" : {
@@ -20184,8 +20184,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rapid-Acting – Children"
+            "state" : "translated",
+            "value" : "Швидкодіючий (Rapid-Acting) – Діти"
           }
         },
         "vi" : {
@@ -20315,8 +20315,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Required"
+            "state" : "translated",
+            "value" : "Обов’язково"
           }
         },
         "vi" : {
@@ -20429,7 +20429,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervoár"
+            "value" : "Zásobník"
           }
         },
         "sv" : {
@@ -20839,8 +20839,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Review and Save Settings"
+            "state" : "translated",
+            "value" : "Переглянути та зберегти налаштування"
           }
         },
         "vi" : {
@@ -20970,8 +20970,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Review your therapy settings below. If you’d like to edit any of these settings, tap Back to go back to that screen."
+            "state" : "translated",
+            "value" : "Перегляньте налаштування терапії нижче. Якщо ви хочете змінити будь-які з цих налаштувань, натисніть «Назад», щоб повернутися до цього екрана."
           }
         },
         "vi" : {
@@ -21101,8 +21101,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Running"
+            "state" : "translated",
+            "value" : "Запущено"
           }
         },
         "vi" : {
@@ -21363,8 +21363,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Basal Rates?"
+            "state" : "translated",
+            "value" : "Зберегти базальну швидкість?"
           }
         },
         "vi" : {
@@ -21494,8 +21494,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Carb Ratios?"
+            "state" : "translated",
+            "value" : "Зберегти вуглеводні коефіцієнти?"
           }
         },
         "vi" : {
@@ -21625,8 +21625,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Correction Range(s)?"
+            "state" : "translated",
+            "value" : "Зберегти діапазон(и) корекції?"
           }
         },
         "vi" : {
@@ -21756,8 +21756,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Delivery Limits?"
+            "state" : "translated",
+            "value" : "Зберегти ліміти доставки?"
           }
         },
         "vi" : {
@@ -21887,8 +21887,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Glucose Safety Limit?"
+            "state" : "translated",
+            "value" : "Зберегти безпечний ліміт глюкози (BG)?"
           }
         },
         "vi" : {
@@ -22018,8 +22018,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Insulin Sensitivities?"
+            "state" : "translated",
+            "value" : "Зберегти чутливість до інсуліну?"
           }
         },
         "vi" : {
@@ -22149,8 +22149,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Pre-Meal Range?"
+            "state" : "translated",
+            "value" : "Зберегти асортимент перед їжею?"
           }
         },
         "vi" : {
@@ -22280,8 +22280,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Save Workout Range?"
+            "state" : "translated",
+            "value" : "Зберегти діапазон тренувань?"
           }
         },
         "vi" : {
@@ -22543,8 +22543,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "SCHEDULED OVERRIDE"
+            "state" : "translated",
+            "value" : "ЗАПЛАНОВАНЕ ПЕРЕВИЩЕННЯ"
           }
         },
         "vi" : {
@@ -22674,8 +22674,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "SCHEDULED PRESET"
+            "state" : "translated",
+            "value" : "ЗАПЛАНОВАНО"
           }
         },
         "vi" : {
@@ -22804,8 +22804,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Selected"
+            "state" : "translated",
+            "value" : "Вибрані"
           }
         },
         "vi" : {
@@ -22935,8 +22935,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slow"
+            "state" : "translated",
+            "value" : "Повільна"
           }
         },
         "vi" : {
@@ -23066,8 +23066,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Some users choose a value 2, 3, or 4 times their highest scheduled basal rate."
+            "state" : "translated",
+            "value" : "Деякі користувачі вибирають значення, що в 2, 3 або 4 рази перевищує їхню найвищу заплановану базальну дозу."
           }
         },
         "vi" : {
@@ -23197,8 +23197,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Start Time"
+            "state" : "translated",
+            "value" : "Час початку"
           }
         },
         "vi" : {
@@ -23459,8 +23459,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Submitted by %1$@, %2$@"
+            "state" : "translated",
+            "value" : "Надіслано %1$@, %2$@"
           }
         },
         "vi" : {
@@ -23590,8 +23590,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Support"
+            "state" : "translated",
+            "value" : "Підтримка"
           }
         },
         "vi" : {
@@ -23982,8 +23982,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Switch Preview State"
+            "state" : "translated",
+            "value" : "Перемикач стану попереднього перегляду"
           }
         },
         "vi" : {
@@ -24113,8 +24113,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Symbol"
+            "state" : "translated",
+            "value" : "Символ"
           }
         },
         "vi" : {
@@ -24244,8 +24244,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tap '+' to create a new custom preset."
+            "state" : "translated",
+            "value" : "Натисніть «+», щоб створити новий власний пресет."
           }
         },
         "vi" : {
@@ -24374,8 +24374,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tap back to continue exploring the rest of the %@ interface."
+            "state" : "translated",
+            "value" : "Натисніть кнопку «Назад», щоб продовжити ознайомлення з рештою інтерфейсу %@."
           }
         },
         "vi" : {
@@ -24505,8 +24505,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tap to set"
+            "state" : "translated",
+            "value" : "Натисніть, щоб налаштувати"
           }
         },
         "vi" : {
@@ -24636,8 +24636,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Target Range"
+            "state" : "translated",
+            "value" : "Цільові Діапазони"
           }
         },
         "vi" : {
@@ -25030,8 +25030,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporary Override"
+            "state" : "translated",
+            "value" : "Тимчасове перевизначення"
           }
         },
         "vi" : {
@@ -25160,8 +25160,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Test"
+            "state" : "translated",
+            "value" : "Перевірка"
           }
         },
         "vi" : {
@@ -25291,8 +25291,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "than your Correction Range."
+            "state" : "translated",
+            "value" : "ніж ваш діапазон корекції."
           }
         },
         "vi" : {
@@ -25553,8 +25553,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The legacy model used by Loop, allowing customization of action duration."
+            "state" : "translated",
+            "value" : "Застаріла модель, що використовується Loop, що дозволяє налаштовувати тривалість дії."
           }
         },
         "vi" : {
@@ -25685,8 +25685,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The maximum absorption time is %@"
+            "state" : "translated",
+            "value" : "Максимальний час поглинання становить %@"
           }
         },
         "vi" : {
@@ -25817,8 +25817,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The maximum allowed amount is %@ grams"
+            "state" : "translated",
+            "value" : "Максимально дозволена кількість становить %@ грамів"
           }
         },
         "vi" : {
@@ -25948,8 +25948,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The rapid-acting adult model assumes peak activity at 75 minutes."
+            "state" : "translated",
+            "value" : "Швидкодіюча модель для дорослих передбачає пік активності через 75 хвилин."
           }
         },
         "vi" : {
@@ -26079,8 +26079,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The rapid-acting child model assumes peak activity at 65 minutes."
+            "state" : "translated",
+            "value" : "Модель швидкої дії для дітей передбачає пікову активність на 65-й хвилині."
           }
         },
         "vi" : {
@@ -26210,8 +26210,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The schedule starts at midnight and cannot contain a rate of 0 U/hr."
+            "state" : "translated",
+            "value" : "Розклад починається опівночі та не може містити швидкість 0 U/год."
           }
         },
         "vi" : {
@@ -26341,8 +26341,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Therapy Settings"
+            "state" : "translated",
+            "value" : "Налаштування терапії"
           }
         },
         "vi" : {
@@ -26472,8 +26472,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This model assumes peak insulin activity at 19 minutes."
+            "state" : "translated",
+            "value" : "Ця модель передбачає пікову активність інсуліну на 19-й хвилині."
           }
         },
         "vi" : {
@@ -26603,8 +26603,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This model assumes peak insulin activity at 55 minutes."
+            "state" : "translated",
+            "value" : "Ця модель передбачає пікову активність інсуліну на 55-й хвилині."
           }
         },
         "vi" : {
@@ -26734,8 +26734,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This model assumes peak insulin activity at 65 minutes."
+            "state" : "translated",
+            "value" : "Ця модель передбачає пікову активність інсуліну на 65-й хвилині."
           }
         },
         "vi" : {
@@ -26865,8 +26865,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This model assumes peak insulin activity at 75 minutes."
+            "state" : "translated",
+            "value" : "Ця модель передбачає пікову активність інсуліну на 75-й хвилині."
           }
         },
         "vi" : {
@@ -26995,8 +26995,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This section of the %@ app is unavailable in this simulator."
+            "state" : "translated",
+            "value" : "Цей розділ програми %@ недоступний у цьому симуляторі."
           }
         },
         "vi" : {
@@ -27126,8 +27126,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This setting will also determine a safety limit for automatic dosing. %1$@ will limit automatic delivery to keep the amount of active insulin below twice your maximum bolus."
+            "state" : "translated",
+            "value" : "Цей параметр також визначатиме безпечну межу для автоматичного дозування. %1$@ обмежить автоматичну введення, щоб кількість активного інсуліну була нижчою за подвійну максимальну болюсну дозу."
           }
         },
         "vi" : {
@@ -27257,8 +27257,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This will typically be"
+            "state" : "translated",
+            "value" : "Зазвичай це буде"
           }
         },
         "vi" : {
@@ -27519,8 +27519,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Times in %1$@%2$@%3$@"
+            "state" : "translated",
+            "value" : "Часи в %1$@%2$@%3$@"
           }
         },
         "vi" : {
@@ -27649,8 +27649,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To be implemented"
+            "state" : "translated",
+            "value" : "Має бути реалізовано"
           }
         },
         "vi" : {
@@ -28043,8 +28043,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "U/hour"
+            "state" : "translated",
+            "value" : "U/год"
           }
         },
         "vi" : {
@@ -28174,8 +28174,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to Save"
+            "state" : "translated",
+            "value" : "Не вдалося зберегти"
           }
         },
         "vi" : {
@@ -28567,8 +28567,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unselected"
+            "state" : "translated",
+            "value" : "Знято вибір"
           }
         },
         "vi" : {
@@ -28828,8 +28828,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unsupported %@"
+            "state" : "translated",
+            "value" : "Непідтримуваний %@"
           }
         },
         "vi" : {
@@ -29090,8 +29090,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Verifying"
+            "state" : "translated",
+            "value" : "Перевірка"
           }
         },
         "vi" : {
@@ -29221,8 +29221,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "View Override"
+            "state" : "translated",
+            "value" : "Перевизначення перегляду"
           }
         },
         "vi" : {
@@ -29352,7 +29352,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Walsh"
           }
         },
@@ -29615,8 +29615,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Work with your healthcare provider to choose a value that is higher than your highest scheduled basal rate, but as conservative or aggressive as you feel comfortable."
+            "state" : "translated",
+            "value" : "Зверніться до свого лікаря, щоб вибрати значення, яке буде вищим за вашу найвищу заплановану базальну дозу, але настільки консервативним або агресивним, наскільки вам зручно."
           }
         },
         "vi" : {
@@ -29877,8 +29877,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Workout Range is the glucose value or range of values you want %1$@ to target during activity. This range will be in effect when you activate the Workout Preset button."
+            "state" : "translated",
+            "value" : "Діапазон тренування – це значення глюкози або діапазон значень, яких ви хочете %1$@ досягти під час активності. Цей діапазон буде діяти, коли ви активуєте кнопку попередньо налаштованих налаштувань тренування."
           }
         },
         "vi" : {
@@ -30008,8 +30008,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Workout Values"
+            "state" : "translated",
+            "value" : "Цінності тренувань"
           }
         },
         "vi" : {
@@ -30139,8 +30139,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can add different carb ratios for different times of day by using the ➕."
+            "state" : "translated",
+            "value" : "Ви можете додавати різні співвідношення вуглеводів для різного часу доби за допомогою ➕."
           }
         },
         "vi" : {
@@ -30270,8 +30270,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can add different insulin sensitivities for different times of day by using the ➕."
+            "state" : "translated",
+            "value" : "Ви можете додати різні значення чутливості до інсуліну для різного часу доби за допомогою кнопки ➕."
           }
         },
         "vi" : {
@@ -30401,8 +30401,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can add different ranges for different times of day by using the ➕."
+            "state" : "translated",
+            "value" : "Ви можете додати різні діапазони для різного часу доби за допомогою кнопки ➕."
           }
         },
         "vi" : {
@@ -30532,8 +30532,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can add entries for different times of day by using the ➕."
+            "state" : "translated",
+            "value" : "Ви можете додавати записи для різного часу доби за допомогою кнопки ➕."
           }
         },
         "vi" : {
@@ -30663,8 +30663,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can choose how %1$@ measures rapid acting insulin's peak activity according to one of these two insulin models."
+            "state" : "translated",
+            "value" : "Ви можете вибрати, як %1$@ вимірює пікову активність швидкодіючого інсуліну відповідно до однієї з цих двох моделей інсуліну."
           }
         },
         "vi" : {
@@ -30794,8 +30794,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can edit a setting by tapping into any line item."
+            "state" : "translated",
+            "value" : "Ви можете редагувати налаштування, торкнувшись будь-якого елемента рядка."
           }
         },
         "vi" : {
@@ -30925,8 +30925,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "You can edit the setting by tapping into the line item."
+            "state" : "translated",
+            "value" : "Ви можете редагувати налаштування, торкнувшись елемента рядка."
           }
         },
         "vi" : {
@@ -31187,8 +31187,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "your Glucose Safety Limit"
+            "state" : "translated",
+            "value" : "ваша безпечна межа глюкози (BG)"
           }
         },
         "vi" : {
@@ -31318,8 +31318,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your healthcare provider can help you choose a Correction Range that's right for you."
+            "state" : "translated",
+            "value" : "Ваш лікар може допомогти вам вибрати діапазон корекції, який підходить саме вам."
           }
         },
         "vi" : {
@@ -31449,8 +31449,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Insulin Sensitivity Factor (ISF) is the drop in glucose expected from one unit of insulin."
+            "state" : "translated",
+            "value" : "Ваш фактор чутливості до інсуліну (ISF) – це очікуване зниження рівня глюкози (BG) від однієї одиниці (U) інсуліну."
           }
         },
         "vi" : {
@@ -31580,8 +31580,8 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your Pre-Meal Range should be the glucose value (or range of values) you want %1$@ to target by the time you take your first bite of your meal. This range will be in effect when you activate the Pre-Meal Preset button."
+            "state" : "translated",
+            "value" : "Ваш діапазон перед їжею має бути значенням (або діапазоном значень), якого ви хочете %1$@ досягти до моменту першого шматочка їжі. Цей діапазон набуде чинності після активації кнопки «Попереднє налаштування перед їжею»."
           }
         },
         "vi" : {
