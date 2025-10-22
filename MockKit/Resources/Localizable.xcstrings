@@ -150,7 +150,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kommunikationsproblem"
+            "value" : "Kommunikationsfehler"
           }
         },
         "es" : {
@@ -161,38 +161,32 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Yhteysongelma"
+            "state" : "new",
+            "value" : "Comms Issue"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Problème de communication"
+            "value" : "Problème de com."
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Comms Issue"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Comms Issue"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Problema di comunicazione"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kommunikasjonsutgave"
+            "value" : "Problema Comms"
           }
         },
         "nb-NO" : {
@@ -204,13 +198,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Communicatieprobleem"
+            "value" : "Opdrachtenprobleem"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Problem z komunikacją"
+            "state" : "new",
+            "value" : "Comms Issue"
           }
         },
         "pt" : {
@@ -221,20 +215,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Comms Issue"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Problemă de comunicații"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проблемы со связью"
+            "value" : "Проблемы с сообщением"
           }
         },
         "sk" : {
@@ -246,7 +234,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kommandoproblem"
+            "value" : "Kommunikationsproblem"
           }
         },
         "tr" : {
@@ -269,7 +257,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Comms Issue"
           }
         }
@@ -415,12 +403,6 @@
             "value" : "لا يوجد إنسولين"
           }
         },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Žádný inzulín"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -441,8 +423,8 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ei insuliinia"
+            "state" : "new",
+            "value" : "No Insulin"
           }
         },
         "fr" : {
@@ -453,26 +435,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Insulin"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Insulin"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulina esaurita"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ingen insulin"
+            "value" : "Nessuna Insulina"
           }
         },
         "nb-NO" : {
@@ -484,13 +460,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geen Insuline"
+            "value" : "Geen insuline"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Brak insuliny"
+            "state" : "new",
+            "value" : "No Insulin"
           }
         },
         "pt" : {
@@ -501,14 +477,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Insulin"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fără insulină"
           }
         },
         "ru" : {
@@ -532,7 +502,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "İnsülin yok"
+            "value" : "İnsülin Yok"
           }
         },
         "uk" : {
@@ -549,7 +519,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Insulin"
           }
         }
@@ -560,7 +530,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Battery Dead"
           }
         },
@@ -596,13 +566,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Battery Dead"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Battery Dead"
           }
         },
@@ -610,12 +580,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Batteria pompa esaurita"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpebatteri er dødt"
           }
         },
         "nb-NO" : {
@@ -644,14 +608,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Battery Dead"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Baterie epuizata pompa"
           }
         },
         "ru" : {
@@ -692,8 +650,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "胰岛素泵电量耗尽"
+            "state" : "new",
+            "value" : "Pump Battery Dead"
           }
         }
       }
@@ -734,37 +692,25 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erreur de la pompe"
+            "value" : "Erreur détectée"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Error"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Error"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Errore della pompa"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ポンプエラー"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpefeil"
+            "value" : "Errore microinfusore"
           }
         },
         "nb-NO" : {
@@ -776,7 +722,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pomp Foutmelding"
+            "value" : "Pomp foutmelding"
           }
         },
         "pl" : {
@@ -795,12 +741,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro na Bomba"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare pompă"
           }
         },
         "ru" : {
@@ -852,7 +792,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Occlusion"
           }
         },
@@ -888,13 +828,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Occlusion"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Occlusion"
           }
         },
@@ -902,12 +842,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Occlusione pompa"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumpeokklusjon"
           }
         },
         "nb-NO" : {
@@ -936,14 +870,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Occlusion"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ocluzie pompă"
           }
         },
         "ru" : {
@@ -984,7 +912,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pump Occlusion"
           }
         }
@@ -995,7 +923,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
           }
         },
@@ -1019,7 +947,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
           }
         },
@@ -1031,7 +959,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
           }
         },
@@ -1047,12 +975,6 @@
             "value" : "Riprendi"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjenoppta"
-          }
-        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1062,13 +984,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hervatten"
+            "value" : "Hervat"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wznowiono"
+            "state" : "new",
+            "value" : "Resume"
           }
         },
         "pt" : {
@@ -1079,14 +1001,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resume"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reluați"
           }
         },
         "ru" : {
@@ -1138,7 +1054,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspend"
           }
         },
@@ -1162,7 +1078,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspend"
           }
         },
@@ -1174,7 +1090,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspend"
           }
         },
@@ -1188,12 +1104,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sospendi"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suspendere"
           }
         },
         "nb-NO" : {
@@ -1210,8 +1120,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wstrzymano"
+            "state" : "new",
+            "value" : "Suspend"
           }
         },
         "pt" : {
@@ -1222,20 +1132,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspend"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suspendați"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приостановка"
+            "value" : "Остановка"
           }
         },
         "sk" : {
