@@ -398,6 +398,12 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@%3$@"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
             "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
@@ -528,6 +534,12 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
             "state" : "new",
             "value" : "%lld"
           }
@@ -541,6 +553,18 @@
         "de" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "%lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "%lld"
           }
         },
