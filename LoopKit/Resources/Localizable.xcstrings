@@ -6,7 +6,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@ Range"
           }
         },
@@ -42,13 +42,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@ Range"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@ Range"
           }
         },
@@ -56,12 +56,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intervallo %@"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ Målområde"
           }
         },
         "nb-NO" : {
@@ -90,14 +84,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@ Range"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ Interval"
           }
         },
         "ru" : {
@@ -138,7 +126,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@ Range"
           }
         }
@@ -150,49 +138,49 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
@@ -200,12 +188,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolo %1$@ U fallito"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ E bolus feilet"
           }
         },
         "nb-NO" : {
@@ -222,7 +204,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
@@ -234,19 +216,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolusul %1$@ U a eșuat"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
@@ -264,7 +240,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus failed"
           }
         },
@@ -282,8 +258,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@U 大剂量推注失败"
+            "state" : "new",
+            "value" : "%1$@ U bolus failed"
           }
         }
       }
@@ -294,49 +270,49 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
@@ -344,12 +320,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il bolo %1$@ U potrebbe non essere riuscito"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ E bolus kan ha feilet"
           }
         },
         "nb-NO" : {
@@ -366,7 +336,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
@@ -378,19 +348,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este posibil ca bolusul %1$@ U să nu fi reușit"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
@@ -408,7 +372,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
@@ -426,8 +390,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ U 大剂量可能没有输注成功"
+            "state" : "new",
+            "value" : "%1$@ U bolus may not have succeeded"
           }
         }
       }
@@ -437,7 +401,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
           }
         },
@@ -473,13 +437,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
           }
         },
@@ -487,12 +451,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ erogherà l'insulina basale e consiglierà il bolo solo se si prevede che la tua glicemia sarà superiore a questo limite per le prossime tre ore."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ vil levere basal og anbefale bolusinsulin bare hvis blodsukkeret ditt forventes å være over denne grensen de neste tre timene."
           }
         },
         "nb-NO" : {
@@ -521,14 +479,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ va livra bazala şi bolusul recomandat numai dacă glucoza este estimată a fi peste această limită pentru următoarele trei ore."
           }
         },
         "ru" : {
@@ -580,65 +532,53 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@%2$@%3$@"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@%2$@%3$@"
-          }
-        },
-        "nb" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ %2$@ %3$@"
@@ -652,13 +592,13 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
@@ -670,19 +610,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@%2$@%3$@"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
@@ -694,31 +628,31 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
         }
@@ -729,7 +663,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is higher than what is typically recommended for most people."
           }
         },
@@ -765,13 +699,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is higher than what is typically recommended for most people."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is higher than what is typically recommended for most people."
           }
         },
@@ -779,12 +713,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il valore inserito è superiore a quello tipicamente consigliato per la maggior parte delle persone."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En verdi du har lagt inn er høyere enn det som vanligvis anbefales for de fleste."
           }
         },
         "nb-NO" : {
@@ -813,14 +741,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is higher than what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "O valoare introdusă este mai mare decât cea recomandată în mod obișnuit pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -861,8 +783,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "您输入的数值高于大多数人通常建议的范围。"
+            "state" : "new",
+            "value" : "A value you have entered is higher than what is typically recommended for most people."
           }
         }
       }
@@ -872,7 +794,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is lower than what is typically recommended for most people."
           }
         },
@@ -908,13 +830,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is lower than what is typically recommended for most people."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is lower than what is typically recommended for most people."
           }
         },
@@ -922,12 +844,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il valore inserito è inferiore a quello tipicamente consigliato per la maggior parte delle persone."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En verdi du har lagt inn er lavere enn det som vanligvis anbefales for de fleste."
           }
         },
         "nb-NO" : {
@@ -956,14 +872,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is lower than what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "O valoare introdusă este mai mică decât cea recomandată în mod obișnuit pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -1004,7 +914,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "A value you have entered is lower than what is typically recommended for most people."
           }
         }
@@ -1015,61 +925,55 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afrezza"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
@@ -1087,7 +991,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
@@ -1099,19 +1003,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afrezza"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
@@ -1129,7 +1027,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         },
@@ -1147,7 +1045,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza"
           }
         }
@@ -1171,7 +1069,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afrezza ist ein ultraschnell wirkendes Mahlzeiteninsulin, das mit einem oralen Inhalator durch Deine Lungen eingeatmet wird und von MannKind hergestellt wird."
+            "value" : "Afrezza ist ein ultraschnell wirkendes Mahlzeiteninsulin, das mit einem oralen Inhalator durch Ihre Lungen eingeatmet wird und von MannKind hergestellt wird."
           }
         },
         "es" : {
@@ -1182,7 +1080,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza is an ultra rapid-acting mealtime insulin that is breathed in through your lungs using an oral inhaler and made by MannKind"
           }
         },
@@ -1194,26 +1092,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza is an ultra rapid-acting mealtime insulin that is breathed in through your lungs using an oral inhaler and made by MannKind"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza is an ultra rapid-acting mealtime insulin that is breathed in through your lungs using an oral inhaler and made by MannKind"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afrezza è un'insulina ad azione ultra rapida somministrata durante i pasti, che viene inalata attraverso i polmoni tramite un inalatore orale ed è prodotta da MannKind"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afrezza er et ultrahurtigvirkende måltidsinsulin som pustes inn gjennom lungene ved hjelp av en oral inhalator og laget av MannKind"
+            "value" : "Afrezza è un'insulina prandiale ad azione ultra rapida che viene inalata attraverso i polmoni utilizzando un inalatore orale e prodotta da MannKind"
           }
         },
         "nb-NO" : {
@@ -1242,14 +1134,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza is an ultra rapid-acting mealtime insulin that is breathed in through your lungs using an oral inhaler and made by MannKind"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afrezza este o insulină cu acțiune ultra rapidă în timpul mesei, care este inspirată prin plămâni folosind un inhalator oral și produsă de MannKind."
           }
         },
         "ru" : {
@@ -1290,7 +1176,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Afrezza is an ultra rapid-acting mealtime insulin that is breathed in through your lungs using an oral inhaler and made by MannKind"
           }
         }
@@ -1301,61 +1187,55 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apidra"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
@@ -1373,7 +1253,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
@@ -1385,13 +1265,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apidra"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
@@ -1415,7 +1289,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra"
           }
         },
@@ -1433,8 +1307,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "爱倍达（Apidra）"
+            "state" : "new",
+            "value" : "Apidra"
           }
         }
       }
@@ -1444,7 +1318,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine)"
           }
         },
@@ -1480,13 +1354,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine)"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine)"
           }
         },
@@ -1494,12 +1368,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apidra (insulina glulisina)"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apidra (insulin glulisin)"
           }
         },
         "nb-NO" : {
@@ -1528,14 +1396,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine)"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apidra (insulină glulisine)"
           }
         },
         "ru" : {
@@ -1576,8 +1438,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "爱倍达（谷赖胰岛素）（Apidra）"
+            "state" : "new",
+            "value" : "Apidra (insulin glulisine)"
           }
         }
       }
@@ -1587,7 +1449,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
           }
         },
@@ -1611,7 +1473,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
           }
         },
@@ -1623,13 +1485,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
           }
         },
@@ -1637,12 +1499,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apidra (insulina glulisina) è un'insulina ad azione rapida prodotta da Sanofi-aventis"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apidra (insulin glulisin) er et hurtigvirkende insulin laget av Sanofi-aventis"
           }
         },
         "nb-NO" : {
@@ -1671,14 +1527,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Apidra (insulina glulizină) este o insulină cu acțiune rapidă produsă de Sanofi-aventis"
           }
         },
         "ru" : {
@@ -1719,8 +1569,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "爱倍达（谷赖胰岛素）是一种由赛诺菲公司生产的速效胰岛素。"
+            "state" : "new",
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
           }
         }
       }
@@ -1731,49 +1581,49 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
@@ -1781,12 +1631,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autorizzazione negata"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorisasjon avslått"
           }
         },
         "nb-NO" : {
@@ -1803,7 +1647,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
@@ -1815,19 +1659,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorizare refuzată"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
@@ -1845,7 +1683,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
@@ -1863,7 +1701,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         }
@@ -2009,12 +1847,6 @@
             "value" : "الضخ المستمر"
           }
         },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Úrovně bazálu"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2047,13 +1879,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Basal Rates"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Basal Rates"
           }
         },
@@ -2061,18 +1893,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Velocità basali"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "基礎レート"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Basal-satser"
           }
         },
         "nb-NO" : {
@@ -2103,12 +1923,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taxas Basais"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rate bazale"
           }
         },
         "ru" : {
@@ -2298,36 +2112,36 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kulhydratforhold"
+            "value" : "Kolhydratsratio"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "KH-Verhältnis"
+            "value" : "Kohlenhydratfaktoren"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ratios de carbohidratos"
+            "value" : "Ratio de carbohidratos"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hiilihydraattisuhteet"
+            "value" : "Hiilihydraattisuhde"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ratios Insuline-Glucides"
+            "value" : "Ratios de glucides"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Carb Ratios"
           }
         },
@@ -2340,19 +2154,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapporti carboidrati"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Carb Ratios"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Karb forhold"
+            "value" : "Rapporto carboidrati"
           }
         },
         "nb-NO" : {
@@ -2364,13 +2166,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Koolhydraatratio's"
+            "value" : "Koolhydraten ratio's"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Współczynniki węglowodanowe"
+            "state" : "new",
+            "value" : "Carb Ratios"
           }
         },
         "pt" : {
@@ -2382,25 +2184,19 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taxas de Carbs"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raport carbohidrați/insulină"
+            "value" : "Taxas de carbo"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Соотношения углеводов"
+            "value" : "Углеводные коэффициенты"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inzulínovo sacharidový pomer"
+            "value" : "Sacharidový pomer"
           }
         },
         "sv" : {
@@ -2430,7 +2226,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "碳水化合物吸收率"
+            "value" : "碳水化合物系数"
           }
         }
       }
@@ -2441,49 +2237,49 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
@@ -2491,12 +2287,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Controlla la pompa prima di riprovare"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sjekk pumpen din før du prøver på nytt"
           }
         },
         "nb-NO" : {
@@ -2513,7 +2303,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
@@ -2525,19 +2315,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verificați pompa înainte de a încerca din nou"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
@@ -2555,7 +2339,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         },
@@ -2573,7 +2357,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Check your pump before retrying"
           }
         }
@@ -2585,20 +2369,20 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilladelse nægtet"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorisierung verweigert"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "en" : {
@@ -2609,31 +2393,31 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorización Denegada"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valtuutus hylättiin"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorisation refusée"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "הרשאה נדחתה"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Authorization Denied"
           }
         },
@@ -2641,18 +2425,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Autorizzazione negata"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "認証が拒否されました"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorisasjon avslått"
           }
         },
         "nb-NO" : {
@@ -2664,13 +2436,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autorisatie Geweigerd"
+            "value" : "Autorisatie geweigerd"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odmowa autoryzacji"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "pt" : {
@@ -2681,20 +2453,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorização negada"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Autorizare refuzată"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Авторизация не состоялась"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "sk" : {
@@ -2711,8 +2477,8 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Yetkilendirme Reddedildi"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         },
         "uk" : {
@@ -2729,8 +2495,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "没有权限"
+            "state" : "new",
+            "value" : "Authorization Denied"
           }
         }
       }
@@ -2741,7 +2507,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "This sample can be deleted from the Health app"
           }
         },
@@ -2789,7 +2555,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "This sample can be deleted from the Health app"
           }
         },
@@ -2797,18 +2563,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Questo campione può essere eliminato dall'app Salute"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "This sample can be deleted from the Health app"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Denne testen kan slettes fra Helse-appen"
           }
         },
         "nb-NO" : {
@@ -2839,12 +2593,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Este exemplo pode ser excluído do app Saúde"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Acest exemplu poate fi șters din aplicația Sănătate"
           }
         },
         "ru" : {
@@ -2896,7 +2644,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Communication Failure"
           }
         },
@@ -2932,13 +2680,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Communication Failure"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Communication Failure"
           }
         },
@@ -2946,18 +2694,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Errore di comunicazione"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "通信エラー"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kommunikasjonsfeil"
           }
         },
         "nb-NO" : {
@@ -2988,12 +2724,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Falha de Comunicação"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare de comunicare"
           }
         },
         "ru" : {
@@ -3045,7 +2775,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Communications interrupted during insulin delivery command."
           }
         },
@@ -3081,13 +2811,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Communications interrupted during insulin delivery command."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Communications interrupted during insulin delivery command."
           }
         },
@@ -3095,12 +2825,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comunicazioni interrotte durante il comando di erogazione dell'insulina."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kommunikasjonen ble avbrutt ved administrasjon av insulin."
           }
         },
         "nb-NO" : {
@@ -3129,14 +2853,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Communications interrupted during insulin delivery command."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comunicații întrerupte în timpul comenzii de livrare a insulinei."
           }
         },
         "ru" : {
@@ -3177,7 +2895,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Communications interrupted during insulin delivery command."
           }
         }
@@ -3188,7 +2906,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Connection Failure"
           }
         },
@@ -3224,13 +2942,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Connection Failure"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Connection Failure"
           }
         },
@@ -3238,18 +2956,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Errore di connessione"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "接続エラー"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tilkoblingsfeil"
           }
         },
         "nb-NO" : {
@@ -3280,12 +2986,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Falha na Conexão"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eroare de conectare"
           }
         },
         "ru" : {
@@ -3373,13 +3073,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Correction Range"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Correction Range"
           }
         },
@@ -3387,18 +3087,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Intervallo di correzione"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ターゲット範囲"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Korreksjonsområde"
           }
         },
         "nb-NO" : {
@@ -3429,12 +3117,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Faixa de Correção"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Interval țintă pentru corecție"
           }
         },
         "ru" : {
@@ -3486,7 +3168,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses."
           }
         },
@@ -3522,13 +3204,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses."
           }
         },
@@ -3536,12 +3218,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "L'intervallo di correzione è il valore di glicemia (o intervallo di valori) che %1$@ deve raggiungere per regolare l'insulina basale e aiutarti a calcolare i boli."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Korreksjonsområde er blodsukkerverdien (eller verdiområdet) som du vil at %1$@ skal sikte på for å justere basalinsulinet og hjelpe deg med å beregne bolusene dine."
           }
         },
         "nb-NO" : {
@@ -3570,14 +3246,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Intervalul de corecție este valoarea glicemiei (sau intervalul de valori) spre care doriți ca %1$@ să țintească în ajustarea insulinei bazale și în calculul bolusurilor."
           }
         },
         "ru" : {
@@ -3629,7 +3299,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Critical Update"
           }
         },
@@ -3653,7 +3323,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Critical Update"
           }
         },
@@ -3665,13 +3335,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Critical Update"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Critical Update"
           }
         },
@@ -3679,12 +3349,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aggiornamento critico"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kritisk oppdatering"
           }
         },
         "nb-NO" : {
@@ -3713,14 +3377,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Critical Update"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actualizare critică"
           }
         },
         "ru" : {
@@ -3761,7 +3419,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Critical Update"
           }
         }
@@ -3774,12 +3432,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "حدود الضخ"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Limity podávání"
           }
         },
         "da" : {
@@ -3814,32 +3466,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delivery Limits"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Delivery Limits"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Limiti di erogazione"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "注入限度"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Leveringsgrenser"
+            "value" : "Limiti Erogazione"
           }
         },
         "nb-NO" : {
@@ -3870,12 +3510,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Limites de Entrega"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Limite de livrare"
           }
         },
         "ru" : {
@@ -3927,7 +3561,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Refused"
           }
         },
@@ -3963,13 +3597,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Refused"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Refused"
           }
         },
@@ -3977,18 +3611,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dispositivo rifiutato"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "機器拒否"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enheten nektet"
           }
         },
         "nb-NO" : {
@@ -4019,12 +3641,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dispositivo Recusado"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dispozitiv refuzat"
           }
         },
         "ru" : {
@@ -4076,13 +3692,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         },
@@ -4094,31 +3710,31 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         },
@@ -4126,12 +3742,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stato del dispositivo critico"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enhetens status er kritisk"
           }
         },
         "nb-NO" : {
@@ -4160,14 +3770,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Starea dispozitivului este critică"
           }
         },
         "ru" : {
@@ -4190,7 +3794,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         },
@@ -4208,7 +3812,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Critical"
           }
         }
@@ -4219,13 +3823,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         },
@@ -4237,31 +3841,31 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         },
@@ -4269,12 +3873,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stato del dispositivo normale"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enhetens status er Normal"
           }
         },
         "nb-NO" : {
@@ -4303,14 +3901,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stare dispozitiv normală"
           }
         },
         "ru" : {
@@ -4333,7 +3925,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         },
@@ -4351,7 +3943,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Normal"
           }
         }
@@ -4362,13 +3954,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         },
@@ -4380,31 +3972,31 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         },
@@ -4412,12 +4004,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avviso sullo stato del dispositivo"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Advarsel om enhetsstatus"
           }
         },
         "nb-NO" : {
@@ -4446,14 +4032,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Avertisment privind starea dispozitivului"
           }
         },
         "ru" : {
@@ -4476,7 +4056,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         },
@@ -4494,7 +4074,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Device Status Warning"
           }
         }
@@ -4505,7 +4085,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ensure carb data exists for the specified date"
           }
         },
@@ -4541,13 +4121,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ensure carb data exists for the specified date"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Ensure carb data exists for the specified date"
           }
         },
@@ -4555,18 +4135,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Assicurati che i dati sui carboidrati esistano per la data specificata"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "指定した日に糖質のデータがあるか確認してください"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verifiser at karbohydratoppføring eksisterer for den valgte datoen"
           }
         },
         "nb-NO" : {
@@ -4597,12 +4165,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verifique se os dados de carboidratos existem na data especificada"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigurați-vă că există date despre carbohidrați pentru data specificată"
           }
         },
         "ru" : {
@@ -4654,7 +4216,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling"
           }
         },
@@ -4690,13 +4252,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling"
           }
         },
@@ -4704,18 +4266,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abbassamento"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "降下"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Synker"
           }
         },
         "nb-NO" : {
@@ -4746,12 +4296,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Caindo"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "În scădere"
           }
         },
         "ru" : {
@@ -4803,7 +4347,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling fast"
           }
         },
@@ -4839,13 +4383,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling fast"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling fast"
           }
         },
@@ -4853,18 +4397,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abbassamento veloce"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "急降下"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Synker raskt"
           }
         },
         "nb-NO" : {
@@ -4895,12 +4427,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Caindo rápido"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "În scădere rapidă"
           }
         },
         "ru" : {
@@ -4952,7 +4478,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling very fast"
           }
         },
@@ -4988,13 +4514,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling very fast"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Falling very fast"
           }
         },
@@ -5002,18 +4528,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abbassamento molto veloce"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "超急降下"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Synker veldig raskt"
           }
         },
         "nb-NO" : {
@@ -5044,12 +4558,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Caindo muito rápido"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "În scădere foarte rapidă"
           }
         },
         "ru" : {
@@ -5101,67 +4609,55 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fiasp"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fiasp"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
@@ -5179,7 +4675,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
@@ -5191,19 +4687,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fiasp"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
@@ -5221,7 +4711,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp"
           }
         },
@@ -5239,8 +4729,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "费雅普（Fiasp）"
+            "state" : "new",
+            "value" : "Fiasp"
           }
         }
       }
@@ -5286,26 +4776,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fiasp è una formulazione d'insulina ad azione rapida con un l'aggiunta di Nicotinamide (vitamina B3) prodotta da Novo Nordisk."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fiasp er en måltidsformulering av insulin aspart i tillegg til nikotinamid (vitamin B3) laget av Novo Nordisk"
+            "value" : "Fiasp è una formulazione di insulina ad azione rapida con un l'aggiunta di Nicotinamide (vitamina B3) prodotta da Novo Nordisk. "
           }
         },
         "nb-NO" : {
@@ -5334,14 +4818,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fiasp este o formă de insulină aspart administrată în timpul mesei, cu adaos de nicotinamidă (vitamina B3) produsă de Novo Nordisk"
           }
         },
         "ru" : {
@@ -5382,8 +4860,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "费雅普（Fiasp）是一种由诺和诺德公司生产的餐时用门冬胰岛素制剂，添加了烟酰胺（维生素B3）。"
+            "state" : "new",
+            "value" : "Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk"
           }
         }
       }
@@ -5393,7 +4871,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Flat"
           }
         },
@@ -5429,13 +4907,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Flat"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Flat"
           }
         },
@@ -5443,18 +4921,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Piatto"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "平坦"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Flatt"
           }
         },
         "nb-NO" : {
@@ -5485,12 +4951,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estável"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Constantă"
           }
         },
         "ru" : {
@@ -5542,7 +5002,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
           }
         },
@@ -5578,13 +5038,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
           }
         },
@@ -5592,12 +5052,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Per l'insulina ad azione rapida, %1$@ presuppone che agisca attivamente per 6 ore. È possibile scegliere tra diversi modelli per l'attività massima."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "For hurtigvirkende insulin antar %1$@ at det virker aktivt i 6 timer. Du kan velge mellom ulike modeller for toppaktiviteten."
           }
         },
         "nb-NO" : {
@@ -5626,14 +5080,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pentru insulina cu acțiune rapida, %1$@ presupune ca funcționează activ timp de 6 ore. Poți alege dintre modele diferite pentru vârful acțiunii."
           }
         },
         "ru" : {
@@ -5674,7 +5122,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
           }
         }
@@ -5709,7 +5157,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "g/U"
           }
         },
@@ -5721,7 +5169,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "g/U"
           }
         },
@@ -5735,18 +5183,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "g/U"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "g/U"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "g/E"
           }
         },
         "nb-NO" : {
@@ -5763,8 +5199,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "g/J"
+            "state" : "new",
+            "value" : "g/U"
           }
         },
         "pt" : {
@@ -5775,20 +5211,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "g/U"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "g/U"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "g/U"
+            "value" : "г/Eд"
           }
         },
         "sk" : {
@@ -5806,7 +5236,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "gr/Ü"
+            "value" : "g/Ü"
           }
         },
         "uk" : {
@@ -5834,7 +5264,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose Safety Limit"
           }
         },
@@ -5870,13 +5300,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose Safety Limit"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose Safety Limit"
           }
         },
@@ -5884,12 +5314,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Limite glicemico di sicurezza"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sikkerhetsgrense for blodsukker"
           }
         },
         "nb-NO" : {
@@ -5918,14 +5342,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Glucose Safety Limit"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Limita de siguranță a glicemiei"
           }
         },
         "ru" : {
@@ -5967,7 +5385,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "血糖安全下限"
+            "value" : "血糖安全上限"
           }
         }
       }
@@ -5977,7 +5395,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hour"
           }
         },
@@ -6001,7 +5419,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hour"
           }
         },
@@ -6013,13 +5431,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hour"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hour"
           }
         },
@@ -6027,12 +5445,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ora"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Time"
           }
         },
         "nb-NO" : {
@@ -6061,14 +5473,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hour"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oră"
           }
         },
         "ru" : {
@@ -6109,7 +5515,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hour"
           }
         }
@@ -6120,7 +5526,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hours"
           }
         },
@@ -6144,7 +5550,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hours"
           }
         },
@@ -6156,13 +5562,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hours"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hours"
           }
         },
@@ -6170,12 +5576,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ore"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Timer"
           }
         },
         "nb-NO" : {
@@ -6204,14 +5604,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hours"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ore"
           }
         },
         "ru" : {
@@ -6252,7 +5646,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hours"
           }
         }
@@ -6263,61 +5657,55 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Humalog"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
@@ -6335,7 +5723,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
@@ -6347,13 +5735,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Humalog"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
@@ -6377,7 +5759,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog"
           }
         },
@@ -6395,8 +5777,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "优泌乐（Humalog）"
+            "state" : "new",
+            "value" : "Humalog"
           }
         }
       }
@@ -6406,13 +5788,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro)"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro)"
           }
         },
@@ -6436,19 +5818,19 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro)"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro)"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro)"
           }
         },
@@ -6456,12 +5838,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Humalog (insulina lispro)"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Humalog (insulin lispro)"
           }
         },
         "nb-NO" : {
@@ -6473,7 +5849,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Humalog (insulin lispro)"
+            "value" : "Humalog (insuline lispro)"
           }
         },
         "pl" : {
@@ -6490,14 +5866,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro)"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Humalog (insulină lispro)"
           }
         },
         "ru" : {
@@ -6538,8 +5908,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "优泌乐（赖脯胰岛素注射液）Humalog"
+            "state" : "new",
+            "value" : "Humalog (insulin lispro)"
           }
         }
       }
@@ -6573,7 +5943,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly"
           }
         },
@@ -6585,13 +5955,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly"
           }
         },
@@ -6599,12 +5969,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Humalog (insulin Lispro) è una insulina ad azione rapida prodotta dalla Ely Lilly"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Humalog (insulin lispro) er et hurtigvirkende insulin laget av Eli Lilly"
           }
         },
         "nb-NO" : {
@@ -6633,14 +5997,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Humalog (insulina lispro) este o insulină cu acțiune rapidă produsă de Eli Lilly"
           }
         },
         "ru" : {
@@ -6681,8 +6039,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "优泌乐（赖脯胰岛素注射液）是一种由礼来公司生产的速效胰岛素。"
+            "state" : "new",
+            "value" : "Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly"
           }
         }
       }
@@ -6728,13 +6086,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Model"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Model"
           }
         },
@@ -6742,18 +6100,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modello di azione dell'Insulina"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "インスリンモデル"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulin modell"
           }
         },
         "nb-NO" : {
@@ -6784,12 +6130,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modelo de Insulina"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Modelul de insulină"
           }
         },
         "ru" : {
@@ -6848,7 +6188,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulinfølsomheder"
+            "value" : "Insulin Sensitivitet"
           }
         },
         "de" : {
@@ -6860,24 +6200,24 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sensibilidad a la insulina"
+            "value" : "Factor de sensibilidad"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insuliiniherkkyydet"
+            "value" : "Insuliinin herkkyys"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Facteurs de sensibilité à l'insuline"
+            "value" : "Sensibilité à l'Insuline"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Insulin Sensitivities"
           }
         },
@@ -6893,18 +6233,6 @@
             "value" : "Sensibilità insulinica"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "インスリン効果値"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Insulinfølsomhet"
-          }
-        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6914,13 +6242,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulinegevoeligheden"
+            "value" : "Insuline gevoeligheden"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wrażliwość na insulinę (ISF)"
+            "value" : "Wrażliwość na insulinę"
           }
         },
         "pt" : {
@@ -6932,19 +6260,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sensibilidades a Insulina"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Factor de sensibilitate la insulină"
+            "value" : "Sensibilidade a Insulina"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Факторы чувствительности инсулина"
+            "value" : "Чувствительность к инсулину"
           }
         },
         "sk" : {
@@ -6974,7 +6296,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Độ nhạy của Insulin"
+            "value" : "Độ nhạy Insulin"
           }
         },
         "zh-Hans" : {
@@ -6990,7 +6312,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid Configuration"
           }
         },
@@ -7026,13 +6348,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid Configuration"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Invalid Configuration"
           }
         },
@@ -7040,18 +6362,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configurazione non valida"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "コンフィグレーションが無効"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ugyldig konfigurasjon"
           }
         },
         "nb-NO" : {
@@ -7082,12 +6392,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configuração Inválida"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configurație invalidă"
           }
         },
         "ru" : {
@@ -7140,49 +6444,49 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
@@ -7190,12 +6494,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "È sicuro riprovare"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Det er trygt å prøve på nytt"
           }
         },
         "nb-NO" : {
@@ -7212,7 +6510,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
@@ -7224,19 +6522,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este sigur să încercați din nou"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
@@ -7254,7 +6546,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         },
@@ -7272,7 +6564,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "It is safe to retry"
           }
         }
@@ -7283,61 +6575,55 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lyumjev"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
@@ -7355,7 +6641,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
@@ -7367,19 +6653,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lyumjev"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
@@ -7397,7 +6677,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev"
           }
         },
@@ -7415,8 +6695,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "超速效赖脯胰岛素（Lyumjev）"
+            "state" : "new",
+            "value" : "Lyumjev"
           }
         }
       }
@@ -7450,7 +6730,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly"
           }
         },
@@ -7462,26 +6742,20 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lyumjev è una formulazione di insulina lispro da assumere durante i pasti con aggiunta di citrato e treprostinil prodotta da Eli Lilly"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lyumjev er en insulin lispro-formulering for måltider med tillegg av citrat og treprostinil laget av Eli Lilly"
+            "value" : "Lyumjev e' una formulazione veloce di insulina lispro (humalog) con due additivi: un citrato e Treprostinil, prodotta dalla compagnia Eli Lilly "
           }
         },
         "nb-NO" : {
@@ -7510,14 +6784,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lyumjev este o formulă de insulină lispro la masă, cu adaos de citrat și treprostinil, produse de Eli Lilly"
           }
         },
         "ru" : {
@@ -7558,8 +6826,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lyumjev 是一种由礼来公司生产的餐时用赖普胰岛素制剂，添加了柠檬酸钠和曲前列环素。"
+            "state" : "new",
+            "value" : "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly"
           }
         }
       }
@@ -7569,7 +6837,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Make sure your pump is within communication range of your phone."
           }
         },
@@ -7605,13 +6873,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Make sure your pump is within communication range of your phone."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Make sure your pump is within communication range of your phone."
           }
         },
@@ -7619,12 +6887,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Assicurati che la pompa si trovi nel raggio di comunicazione del tuo telefono."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kontroller at pumpen er innenfor kommunikasjonsområdet til telefonen."
           }
         },
         "nb-NO" : {
@@ -7653,14 +6915,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Make sure your pump is within communication range of your phone."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Asigură-te că pompa ta se află în raza de comunicare a telefonului."
           }
         },
         "ru" : {
@@ -7701,7 +6957,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Make sure your pump is within communication range of your phone."
           }
         }
@@ -7712,7 +6968,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Basal Rate"
           }
         },
@@ -7748,13 +7004,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Basal Rate"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Basal Rate"
           }
         },
@@ -7762,18 +7018,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Velocità basale massima"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "最大基礎レート"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maksimal basaldose"
           }
         },
         "nb-NO" : {
@@ -7804,12 +7048,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taxa Basal Máxima"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rată bazală maximă"
           }
         },
         "ru" : {
@@ -7850,8 +7088,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "最大基础速率"
+            "state" : "new",
+            "value" : "Maximum Basal Rate"
           }
         }
       }
@@ -7861,7 +7099,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
           }
         },
@@ -7885,7 +7123,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
           }
         },
@@ -7897,13 +7135,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
           }
         },
@@ -7911,12 +7149,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La velocità basale massima è la velocità basale temporanea più alta che %1$@ può impostare."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maksimal basaldose er den høyeste midlertidige basaldosen %1$@ er tillatt å angi."
           }
         },
         "nb-NO" : {
@@ -7945,14 +7177,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rata bazală maximă este cea mai mare rată bazală temporară pe care %1$@ are voie să o seteze."
           }
         },
         "ru" : {
@@ -7993,8 +7219,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "最大基础速率是 %1$@ 允许设置的最高临时基础速率。"
+            "state" : "new",
+            "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
           }
         }
       }
@@ -8040,13 +7266,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Bolus"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Bolus"
           }
         },
@@ -8054,18 +7280,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolo massimo"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "最大ボーラス"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maksimal bolus"
           }
         },
         "nb-NO" : {
@@ -8096,12 +7310,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolus Máximo"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolus maxim"
           }
         },
         "ru" : {
@@ -8142,8 +7350,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "最大剂量"
+            "state" : "new",
+            "value" : "Maximum Bolus"
           }
         }
       }
@@ -8153,7 +7361,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
           }
         },
@@ -8189,13 +7397,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
           }
         },
@@ -8203,12 +7411,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il bolo massimo è la quantità di bolo più alta che puoi erogare in una singola volta per coprire i carboidrati o ridurre la glicemia alta."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maksimal bolus er den høyeste bolusmengden du kan gi på en gang for å dekke karbohydrater eller redusere høyt blodsukker."
           }
         },
         "nb-NO" : {
@@ -8237,14 +7439,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bolusul maxim este cea mai mare cantitate de insulina pe care o poți livra instantaneu pentru a acoperi carbohidrați sau pentru a corecta o glicemie mare."
           }
         },
         "ru" : {
@@ -8285,8 +7481,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "最大剂量是你每次可用于覆盖碳水或降低高血糖的最大胰岛素注射量。"
+            "state" : "new",
+            "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
           }
         }
       }
@@ -8296,49 +7492,49 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
@@ -8346,12 +7542,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "mg/dl/min"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mg/dL/min"
           }
         },
         "nb-NO" : {
@@ -8368,7 +7558,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
@@ -8380,14 +7570,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mg/dl/min"
           }
         },
         "ru" : {
@@ -8410,7 +7594,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         },
@@ -8428,7 +7612,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/min"
           }
         }
@@ -8439,7 +7623,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
           }
         },
@@ -8457,50 +7641,38 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mg/dL/U"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mg/dL/E"
           }
         },
         "nb-NO" : {
@@ -8529,19 +7701,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mg/dL/U"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mg/dL/U"
           }
         },
@@ -8612,7 +7778,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L"
           }
         },
@@ -8624,7 +7790,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L"
           }
         },
@@ -8640,18 +7806,6 @@
             "value" : "mmol/L"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mmol/L"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mmol/L"
-          }
-        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8661,12 +7815,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mmol/L"
+            "value" : "mmol/l"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L"
           }
         },
@@ -8678,20 +7832,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mmol/L"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mmol/L"
+            "value" : "ммоль/л"
           }
         },
         "sk" : {
@@ -8703,12 +7851,12 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "mmol/L"
+            "value" : "mmol/l"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L"
           }
         },
@@ -8726,8 +7874,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "毫摩尔/升"
+            "state" : "new",
+            "value" : "mmol/L"
           }
         }
       }
@@ -8737,61 +7885,55 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mmol/L/min"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
@@ -8809,7 +7951,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
@@ -8821,13 +7963,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mmol/L/min"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
@@ -8851,7 +7987,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         },
@@ -8869,7 +8005,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/min"
           }
         }
@@ -8880,7 +8016,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
           }
         },
@@ -8898,50 +8034,38 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mmol/L/U"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "mmol/L/E"
           }
         },
         "nb-NO" : {
@@ -8970,19 +8094,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mmol/L/U"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "mmol/L/U"
           }
         },
@@ -9065,13 +8183,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Needs Attention"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Needs Attention"
           }
         },
@@ -9079,18 +8197,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Richiede attenzione"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "注意してください"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trenger tilsyn"
           }
         },
         "nb-NO" : {
@@ -9121,12 +8227,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precisa de Atenção"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Necesită atenție"
           }
         },
         "ru" : {
@@ -9178,7 +8278,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Update"
           }
         },
@@ -9202,7 +8302,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Update"
           }
         },
@@ -9214,13 +8314,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Update"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Update"
           }
         },
@@ -9228,12 +8328,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nessun aggiornamento"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ingen oppdatering"
           }
         },
         "nb-NO" : {
@@ -9262,14 +8356,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Update"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nicio actualizare"
           }
         },
         "ru" : {
@@ -9310,7 +8398,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No Update"
           }
         }
@@ -9321,7 +8409,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No values found"
           }
         },
@@ -9357,13 +8445,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No values found"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "No values found"
           }
         },
@@ -9371,18 +8459,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nessun valore trovato"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "値が見つかりません"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ingen verdier funnet"
           }
         },
         "nb-NO" : {
@@ -9413,12 +8489,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nenhum valor encontrado"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu s-au găsit valori"
           }
         },
         "ru" : {
@@ -9470,25 +8540,25 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
@@ -9500,31 +8570,25 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
         "it" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Novolog"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
@@ -9542,7 +8606,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
@@ -9554,13 +8618,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Novolog"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
@@ -9584,7 +8642,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog"
           }
         },
@@ -9602,8 +8660,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "诺和锐（Novolog）"
+            "state" : "new",
+            "value" : "Novolog"
           }
         }
       }
@@ -9613,13 +8671,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog (insulin aspart)"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog (insulin aspart)"
           }
         },
@@ -9649,13 +8707,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog (insulin aspart)"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog (insulin aspart)"
           }
         },
@@ -9663,12 +8721,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Novolog (insulina aspart)"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Novolog (insulin aspart)"
           }
         },
         "nb-NO" : {
@@ -9680,7 +8732,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Novolog (insulin aspart)"
+            "value" : "Novolog (insuline aspart)"
           }
         },
         "pl" : {
@@ -9697,14 +8749,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Novolog (insulin aspart)"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Novolog (insulină aspart)"
           }
         },
         "ru" : {
@@ -9745,8 +8791,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "诺和锐（门冬胰岛素）"
+            "state" : "new",
+            "value" : "Novolog (insulin aspart)"
           }
         }
       }
@@ -9780,7 +8826,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk"
           }
         },
@@ -9792,13 +8838,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk"
           }
         },
@@ -9806,12 +8852,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "NovoLog (insulina aspart) è un'insulina ad azione rapida prodotta da Novo Nordisk"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "NovoLog (insulin aspart) er et hurtigvirkende insulin laget av Novo Nordisk"
           }
         },
         "nb-NO" : {
@@ -9840,14 +8880,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "NovoLog (insulină aspart) este o insulină cu acțiune rapidă produsă de Novo Nordisk"
           }
         },
         "ru" : {
@@ -9888,8 +8922,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "诺和锐（门冬胰岛素）是一种由诺和诺德公司生产的速效胰岛素。"
+            "state" : "new",
+            "value" : "NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk"
           }
         }
       }
@@ -9900,13 +8934,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "موافق"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
+            "value" : "حسناً"
           }
         },
         "da" : {
@@ -9929,7 +8957,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -9941,13 +8969,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -9955,18 +8983,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ok"
           }
         },
         "nb-NO" : {
@@ -9978,12 +8994,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "OK"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
@@ -9995,20 +9011,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "OK"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
+            "value" : "ОК"
           }
         },
         "sk" : {
@@ -10044,7 +9054,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "好的"
+            "value" : "Ok"
           }
         }
       }
@@ -10054,7 +9064,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
           }
         },
@@ -10090,13 +9100,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
           }
         },
@@ -10104,12 +9114,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uno o più dei valori inseriti non rientrano in quelli generalmente consigliati per la maggior parte delle persone."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En verdi du har lagt inn er lavere enn det som vanligvis anbefales for de fleste."
           }
         },
         "nb-NO" : {
@@ -10138,14 +9142,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unele dintre valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -10186,7 +9184,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
           }
         }
@@ -10198,49 +9196,49 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
         "da" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
@@ -10248,12 +9246,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Per favore, riattiva la condivisione in Salute"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vennligst aktiver deling i Helse-appen på nytt"
           }
         },
         "nb-NO" : {
@@ -10270,7 +9262,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
@@ -10282,19 +9274,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vă rugăm să reactivați partajarea datelor în Sănătate"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
@@ -10312,7 +9298,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         },
@@ -10330,7 +9316,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Please re-enable sharing in Health"
           }
         }
@@ -10341,7 +9327,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pre-Meal"
           }
         },
@@ -10377,13 +9363,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pre-Meal"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pre-Meal"
           }
         },
@@ -10391,18 +9377,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pre-pasto"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "食前"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pre-måltid"
           }
         },
         "nb-NO" : {
@@ -10414,7 +9388,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pre-Meal"
+            "value" : "Voor de maaltijd"
           }
         },
         "pl" : {
@@ -10433,12 +9407,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pré-Refeição"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preprandial"
           }
         },
         "ru" : {
@@ -10479,8 +9447,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "餐前"
+            "state" : "new",
+            "value" : "Pre-Meal"
           }
         }
       }
@@ -10490,7 +9458,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Recommended Update"
           }
         },
@@ -10514,7 +9482,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Recommended Update"
           }
         },
@@ -10526,13 +9494,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Recommended Update"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Recommended Update"
           }
         },
@@ -10540,12 +9508,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aggiornamento consigliato"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Anbefalt oppdatering"
           }
         },
         "nb-NO" : {
@@ -10574,14 +9536,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Recommended Update"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actualizare recomandată"
           }
         },
         "ru" : {
@@ -10622,7 +9578,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Recommended Update"
           }
         }
@@ -10633,7 +9589,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resumed"
           }
         },
@@ -10669,13 +9625,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resumed"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resumed"
           }
         },
@@ -10683,12 +9639,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ripresa"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gjenopptatt"
           }
         },
         "nb-NO" : {
@@ -10717,14 +9667,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resumed"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reluat"
           }
         },
         "ru" : {
@@ -10765,7 +9709,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Resumed"
           }
         }
@@ -10776,7 +9720,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising"
           }
         },
@@ -10812,13 +9756,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising"
           }
         },
@@ -10826,18 +9770,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aumento"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "上昇"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stiger"
           }
         },
         "nb-NO" : {
@@ -10868,12 +9800,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subindo"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "În creștere"
           }
         },
         "ru" : {
@@ -10925,7 +9851,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising fast"
           }
         },
@@ -10961,13 +9887,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising fast"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising fast"
           }
         },
@@ -10975,18 +9901,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aumento rapido"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "急上昇"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stiger fort"
           }
         },
         "nb-NO" : {
@@ -11017,12 +9931,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subindo rápido"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "În creștere rapidă"
           }
         },
         "ru" : {
@@ -11074,7 +9982,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising very fast"
           }
         },
@@ -11110,13 +10018,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising very fast"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rising very fast"
           }
         },
@@ -11124,18 +10032,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aumento molto rapido"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "超急上昇"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stiger veldig fort"
           }
         },
         "nb-NO" : {
@@ -11166,12 +10062,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subindo muito rápido"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "În creștere foarte rapidă"
           }
         },
         "ru" : {
@@ -11223,7 +10113,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
           }
         },
@@ -11259,13 +10149,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
           }
         },
@@ -11273,12 +10163,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alcuni dei valori immessi non rientrano nei valori generalmente consigliati per la maggior parte delle persone."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Noen av verdiene du har lagt inn er utenfor det som vanligvis anbefales for de fleste."
           }
         },
         "nb-NO" : {
@@ -11307,14 +10191,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Câteva dintre valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -11355,7 +10233,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
           }
         }
@@ -11366,14 +10244,8 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspended"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pozastaveno"
           }
         },
         "da" : {
@@ -11408,13 +10280,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspended"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Suspended"
           }
         },
@@ -11422,18 +10294,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sospeso"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "一時停止"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suspendert"
           }
         },
         "nb-NO" : {
@@ -11464,12 +10324,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Suspenso"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Suspendat"
           }
         },
         "ru" : {
@@ -11652,7 +10506,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
           }
         },
@@ -11688,13 +10542,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
           }
         },
@@ -11702,12 +10556,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abbassa temporaneamente il tuo target glicemico prima di un pasto per influenzare i picchi glicemici postprandiali."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reduser glukosemålet ditt midlertidig før et måltid for å påvirke glukosetoppene etter måltidet."
           }
         },
         "nb-NO" : {
@@ -11736,14 +10584,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reduceți temporar glicemia țintă înainte de masă pentru a avea un impact asupra vârfurilor postprandiale."
           }
         },
         "ru" : {
@@ -11784,8 +10626,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "餐前临时降低目标血糖，有助于控制餐后血糖波动。"
+            "state" : "new",
+            "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
           }
         }
       }
@@ -11795,7 +10637,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
           }
         },
@@ -11831,13 +10673,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
           }
         },
@@ -11845,12 +10687,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aumenta temporaneamente il target glicemico prima, durante o dopo l'attività fisica per ridurre il rischio di eventi ipoglicemici."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Øk blodsukkermålet ditt midlertidig før, under eller etter fysisk aktivitet for å redusere risikoen for hendelser med lavt blodsukker."
           }
         },
         "nb-NO" : {
@@ -11879,14 +10715,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Creșteți temporar valoarea ținta a glicemiei înainte, în timpul sau după activitatea fizică pentru a reduce riscul de apariție a hipoglicemiei."
           }
         },
         "ru" : {
@@ -11927,8 +10757,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "在运动前、运动中或运动后，临时提高你的血糖目标值，以降低发生低血糖的风险。"
+            "state" : "new",
+            "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
           }
         }
       }
@@ -11938,7 +10768,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is higher than what is typically recommended for most people."
           }
         },
@@ -11974,13 +10804,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is higher than what is typically recommended for most people."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is higher than what is typically recommended for most people."
           }
         },
@@ -11988,12 +10818,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il valore inserito è superiore a quello generalmente consigliato per la maggior parte delle persone."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verdien du har lagt inn er høyere enn det som vanligvis anbefales for de fleste."
           }
         },
         "nb-NO" : {
@@ -12022,14 +10846,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is higher than what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valoarea pe care ați introdus-o este mai mare decât cea recomandată de obicei pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -12070,8 +10888,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "您输入的数值高于大多数人通常建议的范围。"
+            "state" : "new",
+            "value" : "The value you have entered is higher than what is typically recommended for most people."
           }
         }
       }
@@ -12081,7 +10899,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is lower than what is typically recommended for most people."
           }
         },
@@ -12117,13 +10935,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is lower than what is typically recommended for most people."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is lower than what is typically recommended for most people."
           }
         },
@@ -12131,12 +10949,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il valore inserito è inferiore a quello generalmente consigliato per la maggior parte delle persone."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verdien du har lagt inn er lavere enn det som vanligvis anbefales for de fleste."
           }
         },
         "nb-NO" : {
@@ -12165,14 +10977,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is lower than what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valoarea pe care ați introdus-o este mai mica decât cea recomandată de obicei pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -12213,7 +11019,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The value you have entered is lower than what is typically recommended for most people."
           }
         }
@@ -12224,7 +11030,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The values you have entered are outside of what is typically recommended for most people."
           }
         },
@@ -12260,13 +11066,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The values you have entered are outside of what is typically recommended for most people."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The values you have entered are outside of what is typically recommended for most people."
           }
         },
@@ -12274,12 +11080,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "I valori che hai inserito non rientrano in quelli generalmente consigliati per la maggior parte delle persone."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verdiene du har lagt inn er utenfor det som vanligvis anbefales for de fleste."
           }
         },
         "nb-NO" : {
@@ -12308,14 +11108,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The values you have entered are outside of what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valorile introduse sunt în afara a ceea ce este recomandat de obicei pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -12356,7 +11150,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "The values you have entered are outside of what is typically recommended for most people."
           }
         }
@@ -12629,7 +11423,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Uncertain Delivery"
           }
         },
@@ -12665,13 +11459,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Uncertain Delivery"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Uncertain Delivery"
           }
         },
@@ -12679,12 +11473,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erogazione incerta"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Usikker levering"
           }
         },
         "nb-NO" : {
@@ -12713,14 +11501,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Uncertain Delivery"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Livrare incertă"
           }
         },
         "ru" : {
@@ -12761,7 +11543,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Uncertain Delivery"
           }
         }
@@ -12772,7 +11554,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unit"
           }
         },
@@ -12808,13 +11590,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unit"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unit"
           }
         },
@@ -12822,18 +11604,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unità"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unit"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enhet"
           }
         },
         "nb-NO" : {
@@ -12866,15 +11636,9 @@
             "value" : "Unidade"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unități"
-          }
-        },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unit"
           }
         },
@@ -12921,7 +11685,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unit/hour"
           }
         },
@@ -12957,13 +11721,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unit/hour"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unit/hour"
           }
         },
@@ -12971,18 +11735,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unità/ora"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unit/hour"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enhet/time"
           }
         },
         "nb-NO" : {
@@ -13015,15 +11767,9 @@
             "value" : "Unidade/hora"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unități/oră"
-          }
-        },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Unit/hour"
           }
         },
@@ -13070,7 +11816,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Units"
           }
         },
@@ -13106,13 +11852,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Units"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Units"
           }
         },
@@ -13120,18 +11866,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unità"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "単位"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enheter"
           }
         },
         "nb-NO" : {
@@ -13162,12 +11896,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unidades"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unități"
           }
         },
         "ru" : {
@@ -13219,7 +11947,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Units/hour"
           }
         },
@@ -13255,13 +11983,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Units/hour"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Units/hour"
           }
         },
@@ -13269,18 +11997,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unità/ora"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "U/時"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enheter/time"
           }
         },
         "nb-NO" : {
@@ -13313,15 +12029,9 @@
             "value" : "Unidades/hora"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unități/oră"
-          }
-        },
         "ru" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Units/hour"
           }
         },
@@ -13368,7 +12078,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Update Available"
           }
         },
@@ -13392,7 +12102,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Update Available"
           }
         },
@@ -13404,13 +12114,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Update Available"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Update Available"
           }
         },
@@ -13418,12 +12128,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aggiornamento disponibile"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oppdatering tilgjengelig"
           }
         },
         "nb-NO" : {
@@ -13452,14 +12156,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Update Available"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actualizare disponibilă"
           }
         },
         "ru" : {
@@ -13500,7 +12198,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Update Available"
           }
         }
@@ -13547,13 +12245,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Workout"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Workout"
           }
         },
@@ -13561,18 +12259,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Allenamento"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "運動"
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Treningsøkt"
           }
         },
         "nb-NO" : {
@@ -13603,12 +12289,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exercício"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activitate sportivă"
           }
         },
         "ru" : {
@@ -13660,7 +12340,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
           }
         },
@@ -13696,13 +12376,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
           }
         },
@@ -13710,12 +12390,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La velocità basale d'insulina è il numero di unità all'ora che si desidera utilizzare per coprire il tuo fabbisogno d'insulina basale."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din basaldose av insulin er antall enheter pr. time du vil bruke for å dekke ditt bakgrunnsinsulinbehov."
           }
         },
         "nb-NO" : {
@@ -13744,14 +12418,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rata bazală de insulină este numărul de unități pe oră pe care doriți să le utilizați pentru a acoperi necesarul bazal de insulina al organismului."
           }
         },
         "ru" : {
@@ -13792,8 +12460,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的基础胰岛素速率（Basal Rate）是指每小时使用的胰岛素单位数，用于满足身体的基础胰岛素需求。"
+            "state" : "new",
+            "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
           }
         }
       }
@@ -13803,7 +12471,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
           }
         },
@@ -13839,13 +12507,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
           }
         },
@@ -13853,12 +12521,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Il tuo rapporto carboidrati è il numero di grammi di carboidrati coperti da un'unità d'insulina."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Karbforholdet ditt er antall gram karbohydrater som dekkes av én enhet insulin."
           }
         },
         "nb-NO" : {
@@ -13887,14 +12549,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raportul carbohidrați/insulina este numărul de grame de carbohidrați acoperiți de o unitate de insulină."
           }
         },
         "ru" : {
@@ -13935,8 +12591,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "碳水比例表示每单位胰岛素可以覆盖多少克碳水化合物。"
+            "state" : "new",
+            "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
           }
         }
       }
@@ -13946,7 +12602,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
           }
         },
@@ -13982,13 +12638,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
           }
         },
@@ -13996,12 +12652,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La tua sensibilità insulinica si riferisce al calo di glicemia previsto da un'unità d'insulina."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Din insulinfølsomhet refererer til fallet i blodsukker som forventes fra én enhet insulin."
           }
         },
         "nb-NO" : {
@@ -14030,14 +12680,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Factorul de sensibilitate la insulină se referă la scăderea glicemiei determinata de o unitate de insulină."
           }
         },
         "ru" : {
@@ -14078,8 +12722,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "你的胰岛素敏感系数是指每单位胰岛素预计可使血糖降低的数值。"
+            "state" : "new",
+            "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
           }
         }
       }

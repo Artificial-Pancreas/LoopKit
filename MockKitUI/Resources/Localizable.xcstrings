@@ -196,8 +196,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+            "state" : "translated",
+            "value" : "%@ kan niet communiceren met de simulator pomp sinds %@.\n\nZonder communicatie kan de app geen opdrachten meer versturen voor insulinetoediening of nauwkeurig weergeven van recente informatie over jouw actieve insuline of de insuline die is toegediend."
           }
         },
         "pl" : {
@@ -398,12 +398,6 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@%2$@%3$@"
-          }
-        },
-        "ar" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "%1$@%2$@%3$@"
           }
@@ -534,12 +528,6 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld"
-          }
-        },
-        "ar" : {
-          "stringUnit" : {
             "state" : "new",
             "value" : "%lld"
           }
@@ -553,18 +541,6 @@
         "de" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "%lld"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
             "value" : "%lld"
           }
         },
@@ -742,7 +718,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "2"
           }
         },
@@ -872,7 +848,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "5"
           }
         },
@@ -1002,7 +978,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "50+"
           }
         },
@@ -1133,8 +1109,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+            "state" : "translated",
+            "value" : "Een software-update wordt aanbevolen om de %1$@ app te blijven gebruiken.\n\nGa naar %2$@ Instellingen > Software Update om de nieuwste versie te installeren."
           }
         },
         "pl" : {
@@ -1788,8 +1764,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Settings"
+            "state" : "translated",
+            "value" : "CGM instellingen"
           }
         },
         "pl" : {
@@ -1918,8 +1894,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Simulator"
+            "state" : "translated",
+            "value" : "CGM simulator"
           }
         },
         "pl" : {
@@ -2048,8 +2024,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Last Version Check Alert Date"
+            "state" : "translated",
+            "value" : "Wis laatste versie controle waarschuwingsdatum"
           }
         },
         "pl" : {
@@ -2178,8 +2154,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Comms Recovery"
+            "state" : "translated",
+            "value" : "Comms herstellen"
           }
         },
         "pl" : {
@@ -3092,8 +3068,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
+            "state" : "translated",
+            "value" : "Geschatte meting"
           }
         },
         "pl" : {
@@ -3482,8 +3458,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your CGM"
+            "state" : "translated",
+            "value" : "Hulp vragen met je CGM"
           }
         },
         "pl" : {
@@ -3612,8 +3588,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your pump"
+            "state" : "translated",
+            "value" : "Hulp vragen met je pomp"
           }
         },
         "pl" : {
@@ -3873,8 +3849,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "How should the simulator respond to a version check?"
+            "state" : "translated",
+            "value" : "Hoe moet de simulator op een versiecontrole reageren?"
           }
         },
         "pl" : {
@@ -3956,7 +3932,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insulin\nAusgesetzt"
+            "value" : "Insulin\nUnterbrochen"
           }
         },
         "es" : {
@@ -4264,8 +4240,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin%@Remaining"
+            "state" : "translated",
+            "value" : "Resterende%@insuline"
           }
         },
         "pl" : {
@@ -4654,8 +4630,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
+            "state" : "translated",
+            "value" : "Mock Versie Check %@"
           }
         },
         "pl" : {
@@ -5175,8 +5151,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump expires in "
+            "state" : "translated",
+            "value" : "Pomp vervalt in "
           }
         },
         "pl" : {
@@ -5306,8 +5282,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recover Simulator"
+            "state" : "translated",
+            "value" : "Herstel simulator"
           }
         },
         "pl" : {
@@ -5436,8 +5412,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace Pump"
+            "state" : "translated",
+            "value" : "Vervang pomp"
           }
         },
         "pl" : {
@@ -5566,8 +5542,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scheduled%@Basal"
+            "state" : "translated",
+            "value" : "Geplande%@basaal"
           }
         },
         "pl" : {
@@ -5826,8 +5802,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
+            "state" : "translated",
+            "value" : "Simulator instellingen"
           }
         },
         "pl" : {
@@ -5957,8 +5933,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Source"
+            "state" : "translated",
+            "value" : "Bron"
           }
         },
         "pl" : {
@@ -6087,8 +6063,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop Sensor"
+            "state" : "translated",
+            "value" : "Sensor stoppen"
           }
         },
         "pl" : {
@@ -6348,8 +6324,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temporary%@Basal"
+            "state" : "translated",
+            "value" : "Tijdelijke%@basaal"
           }
         },
         "pl" : {
@@ -6479,8 +6455,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Update Reminder"
+            "state" : "translated",
+            "value" : "Update herinnering"
           }
         },
         "pl" : {
@@ -6609,8 +6585,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Version Check Response"
+            "state" : "translated",
+            "value" : "Versie Check Response"
           }
         },
         "pl" : {
@@ -6745,8 +6721,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+            "state" : "translated",
+            "value" : "versieUpdate: %1$@\n\nbundle_ID %2$@\n\nhuidigeVersie: %3$@"
           }
         },
         "pl" : {
@@ -6876,8 +6852,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+            "state" : "translated",
+            "value" : "Je %1$@-app is verouderd. Hij blijft werken, maar we raden aan om te updaten naar de nieuwste versie.\nGa naar %2$@ Instellingen > Software-update om dit te doen."
           }
         },
         "pl" : {
