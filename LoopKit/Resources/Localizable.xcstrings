@@ -126,8 +126,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ Range"
+            "state" : "translated",
+            "value" : "%@ 目标范围"
           }
         }
       }
@@ -483,6 +483,12 @@
             "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ va livra bazala și bolusul recomandat numai dacă glucoza este estimată a fi peste această limită pentru următoarele trei ore."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -522,7 +528,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "仅当预测血糖在未来三小时内高于该上限时，%1$@ 才会输注基础胰岛素并推荐追加胰岛素。"
+            "value" : "当预测血糖在未来三小时内都高于此下限时，%1$@ 才会输注基础胰岛素并推荐推注胰岛素。"
           }
         }
       }
@@ -2187,6 +2193,12 @@
             "value" : "Taxas de carbo"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raport carbohidrați insulină"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3158,7 +3170,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "修正范围"
+            "value" : "校正范围"
           }
         }
       }
@@ -3289,7 +3301,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "矫正范围是您希望 %1$@ 在调整基础胰岛素及协助计算追加胰岛素剂量时所瞄准的血糖值（或血糖值范围）。"
+            "value" : "校正范围是您希望 %1$@ 在调整基础率胰岛素及计算大剂量时所瞄准的血糖值（或血糖值范围）。"
           }
         }
       }
@@ -5908,8 +5920,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Humalog (insulin lispro)"
+            "state" : "translated",
+            "value" : "优泌乐（赖脯胰岛素）Humalog"
           }
         }
       }
@@ -9933,6 +9945,12 @@
             "value" : "Subindo rápido"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Creștere rapidă"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10064,6 +10082,12 @@
             "value" : "Subindo muito rápido"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Creștere foarte rapidă"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10193,6 +10217,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unele dintre valorile pe care le-ați introdus sunt în afara celor recomandate de obicei pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -10588,6 +10618,12 @@
             "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reduceți temporar intervalul țintă de glicemie înainte de masă pentru a evita vârfurile postprandiale."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10717,6 +10753,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Creșteți temporar intervalul țintă de glicemie înainte, în timpul sau după activitatea fizică pentru a reduce riscul de apariție al hipoglicemiei."
           }
         },
         "ru" : {
@@ -10981,6 +11023,12 @@
             "value" : "The value you have entered is lower than what is typically recommended for most people."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valoarea pe care ați introdus-o este mai mică decât cea recomandată de obicei pentru majoritatea oamenilor."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11019,8 +11067,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The value you have entered is lower than what is typically recommended for most people."
+            "state" : "translated",
+            "value" : "你输入的数值低于大多数人通常建议的范围。"
           }
         }
       }
@@ -12422,6 +12470,12 @@
             "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rata bazală de insulină este numărul de unități pe oră pe care doriți să le utilizați pentru a acoperi necesarul bazal de insulină al organismului."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12553,6 +12607,12 @@
             "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raportul carbohidrați insulină este numărul de grame de carbohidrați acoperiți de o unitate de insulină."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12682,6 +12742,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Factorul de sensibilitate la insulină indică scăderea glicemiei determinată de o unitate de insulină."
           }
         },
         "ru" : {
