@@ -1383,8 +1383,8 @@
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sunteți sigur că vreți să ștergeți acest serviciu?"
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
           }
         },
         "pt-BR" : {
@@ -3356,10 +3356,40 @@
             "value" : "Не удалось приостановить подачу инсулина"
           }
         },
-        "zh-Hans" : {
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "暂停胰岛素推注失败"
+            "value" : "Pozastavenie podávania inzulínu zlyhalo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kunde inte pausa pump"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "İnsülin İletimi Askıya Alınamadı"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не вдалося Призупинити Введення Інсуліну"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thất bại khi tạm dừng liều insulin"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
           }
         }
       }
