@@ -5732,8 +5732,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor expires in "
+            "state" : "translated",
+            "value" : "传感器到期时间 "
           }
         }
       }
