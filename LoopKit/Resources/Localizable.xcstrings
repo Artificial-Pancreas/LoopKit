@@ -483,12 +483,6 @@
             "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ va livra bazala și bolusul recomandat numai dacă glucoza este estimată a fi peste această limită pentru următoarele trei ore."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2191,12 +2185,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taxas de carbo"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raport carbohidrați insulină"
           }
         },
         "ru" : {
@@ -9945,12 +9933,6 @@
             "value" : "Subindo rápido"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Creștere rapidă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10082,12 +10064,6 @@
             "value" : "Subindo muito rápido"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Creștere foarte rapidă"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10217,12 +10193,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unele dintre valorile pe care le-ați introdus sunt în afara celor recomandate de obicei pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -10618,12 +10588,6 @@
             "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reduceți temporar intervalul țintă de glicemie înainte de masă pentru a evita vârfurile postprandiale."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10753,12 +10717,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Creșteți temporar intervalul țintă de glicemie înainte, în timpul sau după activitatea fizică pentru a reduce riscul de apariție al hipoglicemiei."
           }
         },
         "ru" : {
@@ -11021,12 +10979,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "The value you have entered is lower than what is typically recommended for most people."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valoarea pe care ați introdus-o este mai mică decât cea recomandată de obicei pentru majoritatea oamenilor."
           }
         },
         "ru" : {
@@ -12470,12 +12422,6 @@
             "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rata bazală de insulină este numărul de unități pe oră pe care doriți să le utilizați pentru a acoperi necesarul bazal de insulină al organismului."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12607,12 +12553,6 @@
             "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raportul carbohidrați insulină este numărul de grame de carbohidrați acoperiți de o unitate de insulină."
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12742,12 +12682,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Factorul de sensibilitate la insulină indică scăderea glicemiei determinată de o unitate de insulină."
           }
         },
         "ru" : {

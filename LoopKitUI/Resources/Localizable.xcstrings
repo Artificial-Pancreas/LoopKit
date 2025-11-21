@@ -2049,12 +2049,6 @@
             "value" : "%1$@ or your Glucose Safety Limit, whichever is higher"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ sau limita dumneavoastră de siguranță a glicemiei, oricare dintre acestea este mai mare"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2355,7 +2349,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@ U"
           }
         }
@@ -6505,12 +6499,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taxas de carbo"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raport carbohidrați insulină"
           }
         },
         "ru" : {
@@ -16366,12 +16354,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Low Workout Value"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valoare mică antrenament"
           }
         },
         "ru" : {
@@ -26333,12 +26315,6 @@
             "value" : "Therapy Settings"
           }
         },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setări terapie"
-          }
-        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31052,12 +31028,6 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rata bazală de insulină este numărul de unități pe oră pe care doriți să le utilizați pentru a acoperi necesarul bazal de insulină al organismului."
           }
         },
         "ru" : {
