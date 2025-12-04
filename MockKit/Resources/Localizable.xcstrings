@@ -88,6 +88,12 @@
             "value" : "Bolus"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bolus"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -214,6 +220,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Issue"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Comms Issue"
@@ -350,6 +362,12 @@
             "value" : "Insulin Suspended"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Suspended"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -476,6 +494,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Insulin"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No Insulin"
@@ -612,6 +636,12 @@
             "value" : "Pump Battery Dead"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump Battery Dead"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -743,6 +773,12 @@
             "value" : "Erro na Bomba"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump Error"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -869,6 +905,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump Occlusion"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pump Occlusion"
@@ -1005,6 +1047,12 @@
             "value" : "Resume"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resume"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1136,6 +1184,12 @@
             "value" : "Suspend"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspend"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1262,6 +1316,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temp Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Temp Basal"
