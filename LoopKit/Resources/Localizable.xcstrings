@@ -88,6 +88,12 @@
             "value" : "%@ Range"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ Range"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -215,6 +221,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ U bolus failed"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@ U bolus failed"
@@ -352,6 +364,12 @@
             "value" : "%1$@ U bolus may not have succeeded"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ U bolus may not have succeeded"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -478,6 +496,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@ will deliver basal and recommend bolus insulin only if your glucose is predicted to be above this limit for the next three hours."
@@ -614,6 +638,12 @@
             "value" : "%1$@%2$@%3$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -740,6 +770,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A value you have entered is higher than what is typically recommended for most people."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "A value you have entered is higher than what is typically recommended for most people."
@@ -876,6 +912,12 @@
             "value" : "A value you have entered is lower than what is typically recommended for most people."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A value you have entered is lower than what is typically recommended for most people."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1002,6 +1044,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Afrezza"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Afrezza"
@@ -1138,6 +1186,12 @@
             "value" : "Afrezza is an ultra rapid-acting mealtime insulin that is breathed in through your lungs using an oral inhaler and made by MannKind"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Afrezza is an ultra rapid-acting mealtime insulin that is breathed in through your lungs using an oral inhaler and made by MannKind"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1264,6 +1318,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apidra"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Apidra"
@@ -1400,6 +1460,12 @@
             "value" : "Apidra (insulin glulisine)"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apidra (insulin glulisine)"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1526,6 +1592,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
@@ -1663,6 +1735,12 @@
             "value" : "Authorization Denied"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Authorization Denied"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -1789,6 +1867,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Basal"
@@ -1925,6 +2009,12 @@
             "value" : "Taxas Basais"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Basal Rates"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2051,6 +2141,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bolus"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Bolus"
@@ -2187,6 +2283,12 @@
             "value" : "Taxas de carbo"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Carb Ratios"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2314,6 +2416,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check your pump before retrying"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Check your pump before retrying"
@@ -2457,6 +2565,12 @@
             "value" : "Authorization Denied"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Authorization Denied"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -2595,6 +2709,12 @@
             "value" : "Este exemplo pode ser excluído do app Saúde"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This sample can be deleted from the Health app"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2726,6 +2846,12 @@
             "value" : "Falha de Comunicação"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Communication Failure"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2852,6 +2978,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Communications interrupted during insulin delivery command."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Communications interrupted during insulin delivery command."
@@ -2988,6 +3120,12 @@
             "value" : "Falha na Conexão"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connection Failure"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3119,6 +3257,12 @@
             "value" : "Faixa de Correção"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Correction Range"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3245,6 +3389,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Correction Range is the glucose value (or range of values) that you want %1$@ to aim for in adjusting your basal insulin and helping you calculate your boluses."
@@ -3381,6 +3531,12 @@
             "value" : "Critical Update"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Critical Update"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3510,6 +3666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Limites de Entrega"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delivery Limits"
           }
         },
         "ru" : {
@@ -3643,6 +3805,12 @@
             "value" : "Dispositivo Recusado"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Refused"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3769,6 +3937,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Status Critical"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Device Status Critical"
@@ -3905,6 +4079,12 @@
             "value" : "Device Status Normal"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Status Normal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4031,6 +4211,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Status Warning"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Device Status Warning"
@@ -4167,6 +4353,12 @@
             "value" : "Verifique se os dados de carboidratos existem na data especificada"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ensure carb data exists for the specified date"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4296,6 +4488,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Caindo"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Falling"
           }
         },
         "ru" : {
@@ -4429,6 +4627,12 @@
             "value" : "Caindo rápido"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Falling fast"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4560,6 +4764,12 @@
             "value" : "Caindo muito rápido"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Falling very fast"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4686,6 +4896,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fiasp"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Fiasp"
@@ -4822,6 +5038,12 @@
             "value" : "Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fiasp is a mealtime insulin aspart formulation with the addition of nicotinamide (vitamin B3) made by Novo Nordisk"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4953,6 +5175,12 @@
             "value" : "Estável"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Flat"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5079,6 +5307,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "For fast acting insulin, %1$@ assumes it is actively working for 6 hours. You can choose from different models for the peak activity."
@@ -5215,6 +5449,12 @@
             "value" : "g/U"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "g/U"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5341,6 +5581,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Glucose Safety Limit"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Glucose Safety Limit"
@@ -5477,6 +5723,12 @@
             "value" : "Hour"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hour"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5603,6 +5855,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hours"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Hours"
@@ -5739,6 +5997,12 @@
             "value" : "Humalog"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Humalog"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5865,6 +6129,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Humalog (insulin lispro)"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Humalog (insulin lispro)"
@@ -6001,6 +6271,12 @@
             "value" : "Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Humalog (insulin lispro) is a rapid-acting insulin made by Eli Lilly"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6130,6 +6406,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Modelo de Insulina"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Model"
           }
         },
         "ru" : {
@@ -6263,6 +6545,12 @@
             "value" : "Sensibilidade a Insulina"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Sensitivities"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6394,6 +6682,12 @@
             "value" : "Configuração Inválida"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invalid Configuration"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6521,6 +6815,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "It is safe to retry"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "It is safe to retry"
@@ -6657,6 +6957,12 @@
             "value" : "Lyumjev"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lyumjev"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -6783,6 +7089,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Lyumjev is a mealtime insulin lispro formulation with the addition of citrate and treprostinil made by Eli Lilly"
@@ -6919,6 +7231,12 @@
             "value" : "Make sure your pump is within communication range of your phone."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make sure your pump is within communication range of your phone."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7050,6 +7368,12 @@
             "value" : "Taxa Basal Máxima"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maximum Basal Rate"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7176,6 +7500,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Maximum Basal Rate is the highest temporary basal rate %1$@ is allowed to set."
@@ -7312,6 +7642,12 @@
             "value" : "Bolus Máximo"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maximum Bolus"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7438,6 +7774,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Maximum Bolus is the highest bolus amount you can deliver at one time to cover carbs or bring down high glucose."
@@ -7574,6 +7916,12 @@
             "value" : "mg/dL/min"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "mg/dL/min"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7700,6 +8048,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "mg/dL/U"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "mg/dL/U"
@@ -7836,6 +8190,12 @@
             "value" : "mmol/L"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "mmol/L"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7962,6 +8322,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "mmol/L/min"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "mmol/L/min"
@@ -8098,6 +8464,12 @@
             "value" : "mmol/L/U"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "mmol/L/U"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -8229,6 +8601,12 @@
             "value" : "Precisa de Atenção"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Needs Attention"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8355,6 +8733,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Update"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "No Update"
@@ -8491,6 +8875,12 @@
             "value" : "Nenhum valor encontrado"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No values found"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8617,6 +9007,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Novolog"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Novolog"
@@ -8753,6 +9149,12 @@
             "value" : "Novolog (insulin aspart)"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Novolog (insulin aspart)"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8879,6 +9281,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "NovoLog (insulin aspart) is a rapid-acting insulin made by Novo Nordisk"
@@ -9015,6 +9423,12 @@
             "value" : "OK"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9141,6 +9555,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "One or more of the values you have entered is outside of what is typically recommended for most people."
@@ -9278,6 +9698,12 @@
             "value" : "Please re-enable sharing in Health"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please re-enable sharing in Health"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -9409,6 +9835,12 @@
             "value" : "Pré-Refeição"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pre-Meal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9535,6 +9967,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recommended Update"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Recommended Update"
@@ -9671,6 +10109,12 @@
             "value" : "Resumed"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resumed"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9800,6 +10244,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Subindo"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rising"
           }
         },
         "ru" : {
@@ -9933,6 +10383,12 @@
             "value" : "Subindo rápido"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rising fast"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10064,6 +10520,12 @@
             "value" : "Subindo muito rápido"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Rising very fast"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10190,6 +10652,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Some of the values you have entered are outside of what is typically recommended for most people."
@@ -10326,6 +10794,12 @@
             "value" : "Suspenso"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10452,6 +10926,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temp Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Temp Basal"
@@ -10588,6 +11068,12 @@
             "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporarily lower your glucose target before a meal to impact post-meal glucose spikes."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10714,6 +11200,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Temporarily raise your glucose target before, during, or after physical activity to reduce the risk of low glucose events."
@@ -10850,6 +11342,12 @@
             "value" : "The value you have entered is higher than what is typically recommended for most people."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The value you have entered is higher than what is typically recommended for most people."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10976,6 +11474,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The value you have entered is lower than what is typically recommended for most people."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "The value you have entered is lower than what is typically recommended for most people."
@@ -11112,6 +11616,12 @@
             "value" : "The values you have entered are outside of what is typically recommended for most people."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The values you have entered are outside of what is typically recommended for most people."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11238,6 +11748,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "U"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "U"
@@ -11374,6 +11890,12 @@
             "value" : "U/hr"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "U/hr"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11500,6 +12022,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Uncertain Delivery"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Uncertain Delivery"
@@ -11636,6 +12164,12 @@
             "value" : "Unidade"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unit"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -11765,6 +12299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unidade/hora"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unit/hour"
           }
         },
         "ru" : {
@@ -11898,6 +12438,12 @@
             "value" : "Unidades"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Units"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12029,6 +12575,12 @@
             "value" : "Unidades/hora"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Units/hour"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -12155,6 +12707,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Available"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Update Available"
@@ -12291,6 +12849,12 @@
             "value" : "Exercício"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Workout"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12417,6 +12981,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Your Basal Rate of insulin is the number of units per hour that you want to use to cover your background insulin needs."
@@ -12553,6 +13123,12 @@
             "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Carb Ratio is the number of grams of carbohydrates covered by one unit of insulin."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12679,6 +13255,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Your Insulin Sensitivities refer to the drop in glucose expected from one unit of insulin."
