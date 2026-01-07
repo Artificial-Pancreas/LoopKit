@@ -5874,7 +5874,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lịch biểu tiêm liều nền"
+            "value" : "Tỷ lệ liều nền"
           }
         },
         "zh-Hans" : {
@@ -6697,7 +6697,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang hủy liều Basal tạm thời"
+            "value" : "Đang hủy liều nền tạm thời"
           }
         },
         "zh-Hans" : {
@@ -13578,7 +13578,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tỷ lệ liều basal Cao"
+            "value" : "Tỷ lệ liều nền Cao"
           }
         },
         "zh-Hans" : {
@@ -14263,7 +14263,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tỷ lệ liều Basal Tối đa Cao"
+            "value" : "Tỷ lệ liều nền Cao tối đa"
           }
         },
         "zh-Hans" : {
@@ -16043,7 +16043,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tỷ lệ liều basal Thấp"
+            "value" : "Tỷ lệ liều nền Thấp"
           }
         },
         "zh-Hans" : {
@@ -16728,7 +16728,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tỷ lệ liều Basal Tối đa Thấp"
+            "value" : "Tỷ lệ liều nền Thấp tối đa"
           }
         },
         "zh-Hans" : {
@@ -17551,7 +17551,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lượng Basal tối đa"
+            "value" : "Tỷ lệ liều nền tối đa"
           }
         },
         "zh-Hans" : {
@@ -18922,7 +18922,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không có insulin nền(basal)"
+            "value" : "Không có insulin nền"
           }
         },
         "zh-Hans" : {
@@ -20841,7 +20841,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pump không hoạt động"
+            "value" : "Máy bơm không hoạt động"
           }
         },
         "zh-Hans" : {
@@ -22348,7 +22348,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lưu các tỷ lệ tiêm insulin nền?"
+            "value" : "Lưu các tỷ lệ liều nền?"
           }
         },
         "zh-Hans" : {
@@ -24403,7 +24403,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang bắt đầu liều Basal tạm thời"
+            "value" : "Đang bắt đầu liều nền tạm thời"
           }
         },
         "zh-Hans" : {
@@ -29059,7 +29059,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Total"
+            "value" : "Tổng"
           }
         },
         "zh-Hans" : {
@@ -29196,7 +29196,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "U/day"
+            "value" : "U/ngày"
           }
         },
         "zh-Hans" : {
