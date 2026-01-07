@@ -1911,7 +1911,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Basal"
+            "value" : "Liều nền"
           }
         },
         "zh-Hans" : {
@@ -2048,7 +2048,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lịch biểu tiêm liều nền"
+            "value" : "Tỷ lệ liều nền"
           }
         },
         "zh-Hans" : {
@@ -7407,7 +7407,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lượng Basal tối đa"
+            "value" : "Tỷ lệ liều nền tối đa"
           }
         },
         "zh-Hans" : {
@@ -7544,7 +7544,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tốc độ insulin nền tối đa là mức tạm thời cao nhất mà %1$@ được phép thiết lập."
+            "value" : "Tốc độ liều nền tối đa là mức tạm thời cao nhất mà %1$@ được phép thiết lập."
           }
         },
         "zh-Hans" : {
