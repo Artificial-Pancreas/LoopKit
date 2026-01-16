@@ -88,6 +88,12 @@
             "value" : "%@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -213,6 +219,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
@@ -349,6 +361,12 @@
             "value" : "%@."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -475,6 +493,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@%3$@"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%1$@%2$@%3$@"
@@ -610,6 +634,12 @@
             "value" : "%lld"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%lld"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -735,6 +765,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "2"
@@ -870,6 +906,12 @@
             "value" : "5"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -995,6 +1037,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "50+"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "50+"
@@ -1131,6 +1179,12 @@
             "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A software update is recommended to continue using the %1$@ app.\n\nGo to %2$@ Settings > Software Update to install the latest version."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -1262,6 +1316,12 @@
             "value" : "Atividade"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Activity"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1388,6 +1448,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you want to delete this service?"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Are you sure you want to delete this service?"
@@ -1524,6 +1590,12 @@
             "value" : "Back"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Back"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1655,6 +1727,12 @@
             "value" : "Cancelar"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1781,6 +1859,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Settings"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "CGM Settings"
@@ -1916,6 +2000,12 @@
             "value" : "CGM Simulator"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CGM Simulator"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -2041,6 +2131,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear Last Version Check Alert Date"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Clear Last Version Check Alert Date"
@@ -2176,6 +2272,12 @@
             "value" : "Comms Recovery"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comms Recovery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -2301,6 +2403,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "days"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "days"
@@ -2437,6 +2545,12 @@
             "value" : "Delete Service"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Service"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2562,6 +2676,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device Details"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Device Details"
@@ -2698,6 +2818,12 @@
             "value" : "OK"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Done"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2827,6 +2953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erro ao Retomar"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error Resuming"
           }
         },
         "ru" : {
@@ -2960,6 +3092,12 @@
             "value" : "Erro ao Suspender"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Error Suspending"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3085,6 +3223,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Estimated Reading"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Estimated Reading"
@@ -3220,6 +3364,12 @@
             "value" : "Failed to Resume Insulin Delivery"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Resume Insulin Delivery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3345,6 +3495,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Failed to Suspend Insulin Delivery"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Failed to Suspend Insulin Delivery"
@@ -3480,6 +3636,12 @@
             "value" : "Get help with your CGM"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your CGM"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -3605,6 +3767,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get help with your pump"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Get help with your pump"
@@ -3741,6 +3909,12 @@
             "value" : "Histórico"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "History"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3866,6 +4040,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How should the simulator respond to a version check?"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "How should the simulator respond to a version check?"
@@ -4001,6 +4181,12 @@
             "value" : "Insulina\nSuspenso"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin\nSuspended"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4132,6 +4318,12 @@
             "value" : "Tipo de Insulina"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin Type"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4257,6 +4449,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Insulin%@Remaining"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Insulin%@Remaining"
@@ -4392,6 +4590,12 @@
             "value" : "Last Reading"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Reading"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4517,6 +4721,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "min"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "min"
@@ -4652,6 +4862,12 @@
             "value" : "Mock Version Check %@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mock Version Check %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -4782,6 +4998,12 @@
             "value" : "No\nDelivery"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No\nDelivery"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4907,6 +5129,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notification Settings"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Notification Settings"
@@ -5043,6 +5271,12 @@
             "value" : "OK"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OK"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5168,6 +5402,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pump expires in "
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Pump expires in "
@@ -5304,6 +5544,12 @@
             "value" : "Recover Simulator"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Recover Simulator"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -5429,6 +5675,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Replace Pump"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Replace Pump"
@@ -5564,6 +5816,12 @@
             "value" : "Scheduled%@Basal"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled%@Basal"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -5597,7 +5855,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Basal%@đã lên lịch"
+            "value" : "Liều nền%@đã lên lịch"
           }
         },
         "zh-Hans" : {
@@ -5689,6 +5947,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sensor expires in "
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Sensor expires in "
@@ -5819,6 +6083,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Simulator Settings"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Simulator Settings"
@@ -5955,6 +6225,12 @@
             "value" : "Source"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Source"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -6080,6 +6356,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Sensor"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Stop Sensor"
@@ -6216,6 +6498,12 @@
             "value" : "Suspended At"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Suspended At"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6341,6 +6629,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Temporary%@Basal"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Temporary%@Basal"
@@ -6477,6 +6771,12 @@
             "value" : "Update Reminder"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update Reminder"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -6602,6 +6902,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version Check Response"
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Version Check Response"
@@ -6743,6 +7049,12 @@
             "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "new",
@@ -6869,6 +7181,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+          }
+        },
+        "ro" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
