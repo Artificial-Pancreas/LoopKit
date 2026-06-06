@@ -1510,13 +1510,13 @@
         }
       }
     },
-    "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis " : {
+    "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis" : {
       "comment" : "Description for apidra insulin type",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "state" : "translated",
+            "value" : "Apidra (الأنسولين جلوليسين) هو أنسولين سريع المفعول من إنتاج شركة Sanofi-aventis"
           }
         },
         "da" : {
@@ -1540,7 +1540,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis"
           }
         },
         "fr" : {
@@ -1552,13 +1552,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis"
           }
         },
         "it" : {
@@ -1588,19 +1588,19 @@
         "pt" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis"
           }
         },
         "ru" : {
@@ -1612,13 +1612,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apidra (inzulín glulizín) je rýchlo pôsobiaci inzulín glulizín vyrábaný spoločnosťou Sanofi "
+            "value" : "Apidra je rýchlo pôsobiaci inzulín glulizín vyrábaný spoločnosťou Sanofi"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apidra (insulin glulisine) är ett snabbverkande insulin från Sanofi-aventis "
+            "value" : "Apidra (insulin glulisine) är ett snabbverkande insulin gjort av Sanofi-aventis"
           }
         },
         "tr" : {
@@ -1630,19 +1630,19 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apidra (інсулін glulisine) це інсулін швидкої дії, вироблений компанією Sanofi-aventis"
+            "value" : "Apidra (інсулін глулізин) — інсулін швидкої дії, виготовлений компанією Sanofi-aventis"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apidra (insulin glulisine) là loại insulin tác dụng nhanh do Sanofi-Aventis sản xuất "
+            "value" : "Apidra (insulin glulisine) là một loại insulin tác dụng nhanh do Sanofi-aventis sản xuất"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis "
+            "value" : "Apidra (insulin glulisine) is a rapid-acting insulin made by Sanofi-aventis"
           }
         }
       }
