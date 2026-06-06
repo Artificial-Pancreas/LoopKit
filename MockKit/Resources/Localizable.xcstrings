@@ -42,7 +42,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bolus"
           }
         },
@@ -72,7 +72,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bolus"
           }
         },
@@ -84,13 +84,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bolus"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bolus"
           }
         },
@@ -114,7 +114,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bolus"
           }
         },
@@ -280,7 +280,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Insulin Suspended"
           }
         },
@@ -304,7 +304,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Insulin Suspended"
           }
         },
@@ -316,13 +316,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Insulin Suspended"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Insulin Suspended"
           }
         },
@@ -346,7 +346,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Insulin Suspended"
           }
         },
@@ -358,14 +358,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Insulin Suspended"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Suspended"
+            "state" : "translated",
+            "value" : "Administrarea insulinei suspendată"
           }
         },
         "ru" : {
@@ -406,7 +406,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Insulin Suspended"
           }
         }
@@ -1239,7 +1239,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Temp Basal"
           }
         },
@@ -1263,7 +1263,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Temp Basal"
           }
         },
@@ -1275,13 +1275,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Temp Basal"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Temp Basal"
           }
         },
@@ -1305,7 +1305,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Temp Basal"
           }
         },
@@ -1317,14 +1317,14 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Temp Basal"
           }
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Temp Basal"
+            "state" : "translated",
+            "value" : "Bazală temporară"
           }
         },
         "ru" : {

@@ -226,8 +226,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ has been unable to communicate with the Simulator Pump since %@.\n\nWithout communication, the app cannot continue to send commands for insulin delivery or display accurate, recent information about your active insulin or the insulin being delivered."
+            "state" : "translated",
+            "value" : "%1$@ nu a putut comunica cu pompa simulator din %2$@.\n\nFără comunicare, aplicația nu poate continua să trimită comenzi pentru administrarea de insulină sau să afișeze informații exacte și recente despre insulina dumneavoastră activă sau insulina care vi se administrează."
           }
         },
         "ru" : {
@@ -1685,12 +1685,6 @@
             "value" : "Cancel"
           }
         },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mégse"
-          }
-        },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1729,8 +1723,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Cancel"
+            "state" : "translated",
+            "value" : "Anulați"
           }
         },
         "ru" : {
@@ -2002,8 +1996,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Simulator"
+            "state" : "translated",
+            "value" : "Simulator CGM"
           }
         },
         "ru" : {
@@ -2274,8 +2268,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Comms Recovery"
+            "state" : "translated",
+            "value" : "Recuperare comunicații"
           }
         },
         "ru" : {
@@ -2547,8 +2541,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete Service"
+            "state" : "translated",
+            "value" : "Ștergeți serviciul"
           }
         },
         "ru" : {
@@ -2589,8 +2583,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete Service"
+            "state" : "translated",
+            "value" : "删除服务"
           }
         }
       }
@@ -2615,34 +2609,10 @@
             "value" : "Gerätedetails"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Detalles del dispositivo"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Details"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Détails de l'appareil"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Details"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Details"
           }
         },
         "it" : {
@@ -2752,34 +2722,10 @@
             "value" : "Fertig"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hecho"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valmis"
-          }
-        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terminé"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kész"
           }
         },
         "it" : {
@@ -2812,16 +2758,10 @@
             "value" : "OK"
           }
         },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
-          }
-        },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Done"
+            "state" : "translated",
+            "value" : "Gata"
           }
         },
         "ru" : {
@@ -2957,8 +2897,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Error Resuming"
+            "state" : "translated",
+            "value" : "Eroare reluare"
           }
         },
         "ru" : {
@@ -3162,34 +3102,10 @@
             "value" : "Estimated Reading"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
-          }
-        },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Estimated Reading"
+            "state" : "translated",
+            "value" : "Lecture estimée"
           }
         },
         "it" : {
@@ -3366,8 +3282,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to Resume Insulin Delivery"
+            "state" : "translated",
+            "value" : "Eșec la reluarea administrării de insulină"
           }
         },
         "ru" : {
@@ -3392,18 +3308,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "İnsülin İletimi Tekrar Başlatılamadı"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не вдалося Відновити Подачу Інсуліну"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Không thể tiếp tục tiêm insulin trở lại"
           }
         },
         "zh-Hans" : {
@@ -3502,8 +3406,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Failed to Suspend Insulin Delivery"
+            "state" : "translated",
+            "value" : "Eșec la suspendarea administrării de insulină"
           }
         },
         "ru" : {
@@ -3638,8 +3542,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get help with your CGM"
+            "state" : "translated",
+            "value" : "Obțineți ajutor cu senzorul dumneavoastră CGM"
           }
         },
         "ru" : {
@@ -4796,34 +4700,10 @@
             "value" : "Mock Version Check %@"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
-          }
-        },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Mock Version Check %@"
+            "state" : "translated",
+            "value" : "Vérification de la version fictive %@"
           }
         },
         "it" : {
@@ -5000,8 +4880,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No\nDelivery"
+            "state" : "translated",
+            "value" : "Nicio\nAdministrare"
           }
         },
         "ru" : {
@@ -5316,7 +5196,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "OK"
           }
         }
       }
@@ -5546,8 +5426,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recover Simulator"
+            "state" : "translated",
+            "value" : "Recuperați simulator"
           }
         },
         "ru" : {
@@ -6022,34 +5902,10 @@
             "value" : "Simulator Settings"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
-          }
-        },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
-          }
-        },
-        "hu" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator Settings"
+            "state" : "translated",
+            "value" : "Paramètres du simulateur"
           }
         },
         "it" : {
@@ -6363,8 +6219,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop Sensor"
+            "state" : "translated",
+            "value" : "Stop senzor"
           }
         },
         "ru" : {
@@ -6983,7 +6839,13 @@
             "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
           }
         },
-        "es" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "versionUpdate : %1$@\n\nbundleIdentifier : %2$@\n\ncurrentVersion : %3$@"
+          }
+        },
+        "nb" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "versionUpdate: %1$@\n\nbundleIdentifier: %2$@\n\ncurrentVersion: %3$@"
@@ -7188,8 +7050,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your %1$@ app is out of date. It will continue to work, but we recommend updating to the latest version.\n\nGo to %2$@ Settings > Software Update to complete."
+            "state" : "translated",
+            "value" : "Aplicația dumneavoastră %1$@ nu este actualizată. Aceasta va continua să funcționeze, dar vă recomandăm să o actualizați la cea mai recentă versiune.\n\nAccesați %2$@ Setări > Actualizare software pentru a finaliza."
           }
         },
         "ru" : {
