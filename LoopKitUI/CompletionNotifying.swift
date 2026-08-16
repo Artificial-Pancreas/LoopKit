@@ -8,10 +8,12 @@
 
 import Foundation
 
+@MainActor
 public protocol CompletionDelegate: AnyObject {
     func completionNotifyingDidComplete(_ object: CompletionNotifying)
 }
 
+@MainActor
 public protocol CompletionNotifying {
     var completionDelegate: CompletionDelegate? { set get }
 }
